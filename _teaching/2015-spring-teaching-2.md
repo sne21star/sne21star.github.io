@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 2"
+title: "ECE 264: Advanced C Programming "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Purdue University, ECE"
+date: Fall 2019
+location: "West Lafayette, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Helped explain topics in C and guided students with tools such as valgrind and gdb for debugging purposes
 
-Heading 1
+Course Description
 ======
+Continuation of a first programming course. Topics include files, structures, pointers, and the proper use of dynamic data structures. Topics covered include:
 
-Heading 2
-======
+       Linux programming environment
+       Function calls, arguments, and call stack
+       Recursion
+       Data types and structures
+       Pointers
+       Memory management
+       Linked lists
+       Trees
+       Sorting algorithms
+       File IO
+       Object-oriented design and encapsulation
 
-Heading 3
-======
+[Link](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=591&show=true&type=undergrad)
