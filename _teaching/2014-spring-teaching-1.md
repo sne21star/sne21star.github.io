@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Purdue University, ECE"
-date: Fall 2020
 location: "West Lafayette, US"
 ---
 
