@@ -3,6 +3,7 @@ title: "ECE 20875: Python For Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
+date: 2020-08-25
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"
 ---

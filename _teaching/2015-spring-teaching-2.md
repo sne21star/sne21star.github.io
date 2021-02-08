@@ -2,7 +2,8 @@
 title: "ECE 264: Advanced C Programming "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
+date: 2019-01-01
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"
 ---

@@ -3,11 +3,12 @@ title: "ENGR 132: ENGR 131: Transforming Ideas to Innovation I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
+date: 2018-08-25
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"
 ---
 
-Work with Student in class to teach them how to Code in MATLAB, and write excel macros
+Worked with Student in class to teach them how to Code in MATLAB, and write excel macros
 
 Course Description
 ======
