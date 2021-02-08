@@ -12,7 +12,7 @@ title                    : "Sneha Mahapatra / Site Title"
 title_separator          : "-"
 name                     : &name "Sneha Mahapatra"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sne21star.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sne21star/sne21star.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Sneha Mahapatra"
-  avatar           : "IMG_0070.jpg"
+  avatar           : "IMG_0070.png"
   bio              : "Recieved my BS Degree in Computer Engineering from Purdue University. My interests lie in Computer Vision, Machine Learning, and Software Engineering. I aim to build computer vision technology that can help solve day to day problems"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Gj0zeswAAAAJ&hl=en"
