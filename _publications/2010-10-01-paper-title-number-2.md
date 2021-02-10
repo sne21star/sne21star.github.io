@@ -4,7 +4,7 @@ Using Deep Learning and Video Analytics"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'How to measure turkey behavior using deep learning and interpret the data in an efficent manner'
-date: 2010-10-01
+date: 2020-02-09
 venue: 'IS&T Imaging'
 paperurl: 'https://sne21star.github.io/files/Turkey.pdf'
 
