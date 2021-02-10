@@ -2,7 +2,7 @@
 title: "ENGR 132: ENGR 131: Transforming Ideas to Innovation I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-3
 date: 2018-08-25
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"

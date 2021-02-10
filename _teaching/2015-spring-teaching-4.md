@@ -2,7 +2,7 @@
 title: "Python Instructor"
 collection: teaching
 type: "Computer Society"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-4
 date: 2017-09-27
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"
