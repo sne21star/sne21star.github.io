@@ -6,6 +6,7 @@ excerpt: 'How to measure the reaction of society to the policies enacted my gove
 date: 2020-05-18
 venue: 'arxiv'
 paperurl: 'https://sne21star.github.io/files/Observing.pdf'
+
 ---
 
 ### ABSTRACT 
