@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : "jekyll-theme-cayman"
 locale                   : "en-US"
+theme                    : "jekyll-theme-cayman"
 title                    : "Sneha Mahapatra / Site Title"
 title_separator          : "-"
 name                     : &name "Sneha Mahapatra"
