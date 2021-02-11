@@ -16,12 +16,10 @@ Education
 Work experience
 ======
 * Synopsis, Lima Perú, Automation Engineer
-* Summeer 2018 
   * Conducted research to identify appropriate software to use and applied my research using Katalon Studio and Appium
   * Developed Automated Test scripts to Test Web and mobile Application for Synopsis’s client
 
 * Purdue University, VIP Researcher 
-* Summer 2020, Spring 2020
     * Research team is VAA: Visual Analysis for Understanding Animal Behavior
     * Designed and developed a GUI for a research team that tracks turkey for poultry production
     * Abstract for my GUI was accepted to Purdue’s Undergraduate Research Conference.
@@ -111,3 +109,5 @@ Co-Curricular Activitiese
     * Teach Graduates and Undergraduates the basics of coding in Python.
 * STAT Learning Community, Data Mining
     * Learning how to represent, extract, visualize, and interpret data
+
+Complete CV can be found [here](https://sne21star.github.io/files/Resume_Mahapatra.pdf)
