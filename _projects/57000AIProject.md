@@ -2,7 +2,7 @@
 title: "AI Project: Text Snake and Thin Plate Spline Transformation for Text Recognition Model"
 collection: talks
 type: "Talk"
-permalink: /projects/2012-03-01-talk-1
+permalink: /projects/57000AIProject
 date: 2020-12-01
 location: "West Lafayette, Indiana"
 ---
