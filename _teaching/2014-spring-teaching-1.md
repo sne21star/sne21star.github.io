@@ -7,8 +7,9 @@ date: 2020-08-25
 venue: "Purdue University, ECE"
 location: "West Lafayette, US"
 ---
-
 Helped students understand data Science concepts, introduction to machine learning, and extensive understanding of how to use python and its libraries. Held Office hours, graded homework assignments, created test questions for exams. 
+
+<img src='/images/knn.pbm'>
 
 Course Description
 ======

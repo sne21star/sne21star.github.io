@@ -10,8 +10,7 @@ location: "West Lafayette, US"
 
 Worked with Student in class to teach them how to Code in MATLAB, and write excel macros
 
-![Graph made in MATLAB](/images/matlab.png')
-
+<img src='/images/matlab.png'>
 
 Course Description
 ======

@@ -10,7 +10,7 @@ location: "West Lafayette, US"
 
 Helped explain topics in C and guided students with tools such as valgrind and gdb for debugging purposes
 
-![GDB](/images/gdb.png')
+<img src='/images/gdb.png'>
 
 Course Description
 ======
