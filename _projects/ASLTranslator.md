@@ -1,11 +1,10 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+title: "American Sign Language Project"
+collection: projects
+type: "Projects"
+permalink: /talks/ASLTranslator
+date: 2020-01-01
+location: "West Lafayette, IN, USA"
 ---
 
 [More information here](http://exampleurl.com)

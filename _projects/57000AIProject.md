@@ -4,7 +4,7 @@ collection: projects
 type: "Projects"
 permalink: /projects/57000AIProject
 date: 2020-12-01
-location: "West Lafayette, Indiana"
+location: "West Lafayette, IN, USA"
 ---
 
 ### ABSTRACT

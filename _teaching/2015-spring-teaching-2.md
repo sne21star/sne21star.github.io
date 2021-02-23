@@ -10,6 +10,8 @@ location: "West Lafayette, US"
 
 Helped explain topics in C and guided students with tools such as valgrind and gdb for debugging purposes
 
+![image](https://sne21star.github.io/images/gdb.png')
+
 Course Description
 ======
 Continuation of a first programming course. Topics include files, structures, pointers, and the proper use of dynamic data structures. Topics covered include:

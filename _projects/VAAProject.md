@@ -2,9 +2,8 @@
 title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
+permalink: /talks/VAAProject
+date: 2019-08-01
 location: "Los Angeles, CA"
 ---
 
