@@ -10,6 +10,9 @@ location: "West Lafayette, US"
 
 Worked with Student in class to teach them how to Code in MATLAB, and write excel macros
 
+![image](https://sne21star.github.io/images/matlab.png')
+
+
 Course Description
 ======
 Engineering and engineers are very diverse. In ENGR 13100, you will begin to develop a wide variety of skills that will benefit you as a Purdue student and that you can build on as a practicing engineer. Topics covered include:
