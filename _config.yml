@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 theme                    : "jekyll-theme-cayman"
-title                    : "Sneha Mahapatra / Site Title"
+title                    : "Sneha Mahapatra"
 title_separator          : "-"
 name                     : &name "Sneha Mahapatra"
 description              : &description "personal description"
