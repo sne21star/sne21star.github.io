@@ -10,7 +10,7 @@ location: "West Lafayette, US"
 
 Helped explain topics in C and guided students with tools such as valgrind and gdb for debugging purposes
 
-![image](https://sne21star.github.io/images/gdb.png')
+![GDB](/images/gdb.png')
 
 Course Description
 ======

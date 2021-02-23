@@ -10,7 +10,7 @@ location: "West Lafayette, US"
 
 Worked with Student in class to teach them how to Code in MATLAB, and write excel macros
 
-![image](https://sne21star.github.io/images/matlab.png')
+![Graph made in MATLAB](/images/matlab.png')
 
 
 Course Description
