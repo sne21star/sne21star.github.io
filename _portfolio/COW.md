@@ -1,7 +1,10 @@
 ---
 title: "Object Detection with Mask RCNN for Holstein and Angus Cows"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/cow.png'>"
+excerpt: "Sick animals behavior can be visually analyzed and using Mask RCNN will aid in finding patterns of behaviors <br/><img src='/images/cow.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### ABSTRACT
+
+ The Dairy Industry is a critical aspect of agricul- ture as it is a billion-dollar industry. This industry makes the U.S. the world’s largest producer of dairy and beef products according to the United States Department of Agriculture. Needless to say, cattle’s well-being is paramount to the survival of must be done in a quick and efficient manner. One of the most efficient methods to solve this issue is Visual Analysis. This is because sick animals behave differently, and their behavior can be ana- lyzed visually. Therefore, to solve this problem I propose using Mask RCNN for this project. Mask RCNN is an object detection and instance seg- mentation method that is an extension of Faster RCNN.
+
