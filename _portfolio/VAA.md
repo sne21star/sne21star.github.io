@@ -1,8 +1,10 @@
 ---
 title: "Turkey Behavior Identification System with a GUI
 Using Deep Learning and Video Analytics"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/VAA.png'>"
+excerpt: "Creating a web-based GUI to help analyze turkey behavior <br/><img src='/images/VAA.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### ABSTRACT 
+
+In this paper, we propose a video analytics system to iden- tify the behavior of turkeys. Turkey behavior provides evidence to assess turkey welfare, which can be negatively impacted by un- comfortable ambient temperature and various diseases. In par- ticular, healthy and sick turkeys behave differently in terms of the duration and frequency of activities such as eating, drinking, preening, and aggressive interactions. Our system incorporates recent advances in object detection and tracking to automate the process of identifying and analyzing turkey behavior captured by commercial grade cameras. We combine deep-learning and tra- ditional image processing methods to address challenges in this practical agricultural problem. Our system also includes a web- based user interface to create visualization of automated anal- ysis results. Together, we provide an improved tool for turkey researchers to assess turkey welfare without the time-consuming and labor-intensive manual inspection.
