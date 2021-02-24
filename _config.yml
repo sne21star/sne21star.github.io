@@ -171,9 +171,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,14 +220,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: projects
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
