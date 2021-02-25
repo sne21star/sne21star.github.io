@@ -7,4 +7,14 @@ collection: portfolio
 
  The Dairy Industry is a critical aspect of agriculture as it is a billion-dollar industry. This industry makes the U.S. the world’s largest producer of dairy and beef products according to the United States Department of Agriculture. Needless to say, cattle’s well-being is paramount to the survival of this industry. However, contagious diseases pose a major threat and have been known to decimate infected animals from the healthy ones.Therefore, farmers must identify must be done in a quick and efficient manner. One of the most efficient methods to solve this issue is Visual Analysis. This is because sick animals behave differently, and their behavior can be ana- lyzed visually. Therefore, to solve this problem I propose using Mask RCNN for this project. Mask RCNN is an object detection and instance seg- mentation method that is an extension of Faster RCNN.
 
+Paper can be found [here](https://github.com/sne21star/sne21star.github.io/blob/master/files/VAA_FinalPaper.pdf)
 
+### Video Explanation 
+
+Here is a video that explains this project at a higher level
+
+ <iframe width="560" height="315"
+src=" https://www.youtube.com/embed/Xo5RptJUWRA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
