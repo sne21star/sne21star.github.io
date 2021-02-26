@@ -11,3 +11,9 @@ In this paper, we propose a video analytics system to iden- tify the behavior of
 
 Paper can be found [here](https://arxiv.org/abs/2102.05024)
 
+
+### Report
+
+This is a report solely about the GUI and its features. 
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS_jllCPYBx5zrUPAMzDwLfjanZEdwiWivtiUv0jEyqFn1TMmYHU18saPJOtzygpQ/pub?embedded=true"></iframe>
