@@ -16,4 +16,4 @@ Paper can be found [here](https://arxiv.org/abs/2102.05024)
 
 This is a report solely about the GUI and its features. 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS_jllCPYBx5zrUPAMzDwLfjanZEdwiWivtiUv0jEyqFn1TMmYHU18saPJOtzygpQ/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTbcZ1GYAboMHKAJH8XArMqMtyOoTNF0eO5mKqe3bEsRAt2I5Yhpu7q8uyKyTwtKv-4LMWbN9pcf7Ns/pub?embedded=true"></iframe>
