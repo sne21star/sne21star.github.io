@@ -8,8 +8,12 @@ This is one file within the repository that shows how we embedded and called the
 
 <script src="https://gist.github.com/sne21star/b1a360c9611cd1c2f00b8188530da950.js"></script>
 
+### Project 
+The entire code base can be found [here](https://github.com/sne21star/mediapipe). 
+For my part of the project I worked on the ASL alphabet model, interface of the model with the application, and the developement of the application itself. 
+
 ### Powerpoint Explanation 
-This powerpoint explains at a higher level how this project was created
+This powerpoint explains at a higher level how this project was created. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUd7FNNUiHAuXqMvobKpNvRhPQBkISmAwpwGYqmh5h4fPrpmYQNsAvc-hqBRIQ5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
