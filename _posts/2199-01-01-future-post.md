@@ -3,9 +3,18 @@ title: 'Future Blog Post'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Book Review
+  - The Institute
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+Future Blog Post
+------
+
+In this post I will review Stephen King's "The Institute". Check back at a later date for the blog post! 
+
+
+
+Purpose
+------
+One of my new year resolutions was to read one book per month. In January I had read this book, and will write a post about this book. 
