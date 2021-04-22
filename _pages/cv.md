@@ -34,13 +34,27 @@ Skills
 * Java
 * C++
 * MATLAB
+* Tensorflow
+* Google Colab 
+* Git 
 * Automation Testing 
     * Katalon Studio
     * Appium
 * XCode
+  * CreateML 
+  * Swift Playground 
+  * SQLite  
 * Android Studio
 * Microsoft
 * Honors Spanish for 7 years
+
+ 
+Relevant Course Work
+======
+* Data Structures and Algorithms 
+* Artificial Intelligence 
+* Machine Learning I 
+* Object Oriented Programming 
 
 Publications
 ======
