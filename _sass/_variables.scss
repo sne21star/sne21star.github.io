@@ -54,12 +54,12 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : #eff;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #3b3b3b;
-$border-color               : #4f8b72;
-$masthead-color             : linear-gradient(120deg, rgba(185,254,205,1) 0%, rgba(96,254,243,1) 29%, rgba(139,255,231,1) 100%);
+$border-color               : #0588a8;
+$masthead-color             : -webkit-gradient(linear, left top, left bottom, from(#fff), to(#00ffee)) fixed;
 
 $primary-color              : #d1d1d1;
 $success-color              : #62c462;
