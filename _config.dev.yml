@@ -11,3 +11,6 @@ comments:
 
 sass:
   style: expanded
+
+header:
+    image: /assets/images/image-filename.jpg
