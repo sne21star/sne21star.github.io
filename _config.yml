@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Sneha Mahapatra"
-  avatar           : "brain.gif.png"
+  avatar           : "brain.gif"
   bio              : "Recieved my BS Degree in Computer Engineering from Purdue University. My interests lie in Computer Vision, Machine Learning, and Software Engineering. I aim to build computer vision technology that can help solve day to day problems. I will be starting my masters in Computer Science coming this Fall"
   employer         : "University of Massachusetts, Amherst"
   googlescholar    : "https://scholar.google.com/citations?user=Gj0zeswAAAAJ&hl=en"
