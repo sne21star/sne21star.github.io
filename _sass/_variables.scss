@@ -59,7 +59,7 @@ $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #3b3b3b;
 $border-color               : #0588a8;
-$masthead-color             : repeating-linear-gradient(120deg, rgba(139,255,206,1) 0%, rgba(139,248,255,1) 37%, rgba(0,11,255,1) 100%);
+$masthead-color             : linear-gradient(120deg, rgba(139,255,206,1) 0%, rgba(139,248,255,1) 37%, rgba(0,11,255,1) 100%);
 
 $primary-color              : #005ea6;
 $success-color              : #62c462;
