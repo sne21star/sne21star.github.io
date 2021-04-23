@@ -15,4 +15,4 @@ For my Senior Design project, my team and I created a Real Time ASL translator a
 
 In my free time I love to read, play soccer, and sing! 
 
-<img src='/images/purdue_engineering_fountain.jpg'>
+<img src='/images/IMG_0044.jpg'>
