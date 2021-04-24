@@ -7,6 +7,7 @@ tags:
   - The Institute
 ---
 
+> “Great events turn on small hinges.” - Stephen King
 
 # Why I Chose It
 
