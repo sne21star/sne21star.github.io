@@ -13,6 +13,7 @@ tags:
 I was browsing on amazon for some new books to read. This new year I had created a resolution to read one book per month. Immersed in my school work at Purdue University, I barely blocked out time to sit down and read a book for pleasure. During high school, it was one of my favorite things to do to relax. I could spend hours reading a captivating story until my eyes could no longer open and my brain could not process any information. Now, after graduating, I decided to start this practice again. After browsing for some time, I thought I should first start with a book that was not part of a series, was suspensefully and highly rated so that I would A. Not be totally consumed into reading a series as I have much work to do still B. Would be entertained and C. So I would get my money’s worth and had a higher chance of continuing this habit of reading. While casually scrolling I came across Stephen King's novel The Institute. During high school, I loved reading Stephen King’s novels such as The Shining, Doctor Sleep, Carrie, and even spent 6 months reading the novel IT. I decided I probably should start off my new year's resolution with this book as Stephen King has never let me down with his work. After clicking the link and reading the summary for this novel I scrolled down to read the reviews and saw many negative posts about his book–many angry at the political comments made in it. Naturally, I became hooked and was ready to buy it. However, after more research I found out that this book had been published in 2019 and went to the library to rent it instead. This way, even if I didn’t like the novel I could return it and start off the year with another book. After a couple of days, I finally was able to get a copy of the novel, and I started to read. 
 
 ![The Institute cover](https://i.redd.it/l3k34di993i31.png "The Institute cover")
+*The Institute cover*
 
 # Summary - Spoilers!
 Although the synopsis of the book describes the murder of Luke Ellison’s parents, the main protagonist, and his kidnapping the first part of the book actually starts off with a side character: Tim Jamieson. Tim Jamieson was a Floridian cop who was forced into early retirement after being caught in a compromising situation and having his badge taken away as a result. He wants to start fresh and is about to take a flight up North when he makes the sudden decision to give up his seat and travel to Dupray, South Carolina. Unlike the bustling city of Miami, where he was from originally, he finds himself in the middle of nowhere. He easily gets the job of local sheriff and the story continues about his time in the town. After some time in the city a shoot out occurs in the city and abruptly Part II of the story starts in Minneapolis. 
@@ -45,7 +46,7 @@ In addition, many characters in the story have their own distinct personalities.
 > “Back in the main corridor—what Luke now understood to be the residents’ wing—the little girls, Gerda and Greta, were standing and watching with wide, frightened eyes. They were holding hands and clutching dolls as identical as they were. They reminded Luke of twins in some old horror movie.”
 
 ![The Shining >](https://decider.com/wp-content/uploads/2019/11/the-shining.jpg?quality=80&strip=all&w=1200 "The Shining")
-
+*The Shining*
 
 > “It came to him (and with the force of a revelation) that life was basically one long SAT test, and instead of four or five choices, you got dozens.”
 
@@ -68,6 +69,7 @@ Stephen King's explanation of Bernoulli is pretty good, however, he should speci
 1. A Bernoulli event is when the probability that an event occurs is p, and the probability that it doesn’t occur is 1-p. Basically the event will or will not happen. 
 ![Bernoulli Distribution Equation](https://miro.medium.com/max/2028/1*KvnadxZI-Q-V9D9A4iEhfg.png
  "Bernoulli Distribution Equation")
+ *Bernoulli Distribution Equation*
 
 2. A Bernoulli trial is one random experiment, or an instantiation of a Bernoulli event. 
 3. A Bernoulli process is when one completes successive Bernoulli trials where each trial is independent of each other. This means the outcome of any trial does not affect the outcome of another. 
@@ -75,6 +77,7 @@ Stephen King's explanation of Bernoulli is pretty good, however, he should speci
 
 ![Bernoulli Distribution Graph](
 https://mathworld.wolfram.com/images/eps-gif/BernoulliDistribution_1000.gif "Bernoulli Distribution Graph")
+*Bernoulli Distribution Graph*
 
 Looking at all the terms associated with Bernoulli it is hard to really determine how Luke used any association of Bernoulli to prove his case. One could argue that he used the Bernoulli process and tried to determine different predictions and their probabilities. However, Luke clearly states that when taking a prediction and determine if it still holds water further into the future, the probability of it will be 0. This definition does not work for Bernoulli but it does work for another binomial distribution: Poisson distribution
 
@@ -85,6 +88,8 @@ This is exactly what Luke states when talking about the predictions of certain e
 ![Poisson Distribution Graph](
 https://calcworkshop.com/wp-content/uploads/poisson-distribution-curve.png
  "Poisson Distribution Graph")
+ *Poisson Distribution Graph*
+
 
 Lambda represents the number of events in the data divided by the number of units. In this case, let's say the event we are looking at is a single prediction and therefore it will have a lambda of one. As one can see if the time is near the event, the probability of the event being accurately predicted is higher. Of course if the time is zero and the person is witnessing the event, the person can determine what event is happening. However, as one moves along the x-axis one can see that the probability of the prediction accuracy drops dramatically and always reaches 0 after some time. This would be the best way to prove that the experiments perpetuated by “The Institute” are not only unethical but do not yield to any desirable outcome. 
 
