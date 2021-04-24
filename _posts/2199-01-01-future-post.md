@@ -11,10 +11,10 @@ tags:
 Future Blog Post
 ------
 
-In this post I will review Stephen King's "The Institute". Check back at a later date for the blog post! 
+In this post I will talk about my project for the WWDC 2021 Swift Student Challenge. I will also talk about how I can improve on what I submitted. 
 
 
 
 Purpose
 ------
-One of my new year resolutions was to read one book per month. In January I had read this book, and will write a post about this book. 
+I have been interested in application developement after working on it during my senior design class. I wanted to try to learn about swift further by creating a fun game. 
