@@ -28,7 +28,7 @@ While Luke had escaped, his friend Avery gathered all the kids from the Back Hal
 
 Afterwards, Luke and his friends are living with Tim when they are met with Mrs. Sigsby’s supervisor. He explains that there are other places like the one they destroyed all over the world, however, Avery’s telepathy had actually communicated to all of the children in these Institute’s and started a revolution in all of them. He tries justifying his experiments, claiming that they were used to help save the entire world by giving people extra time. 
 
-However, Luke argues that they can only predict events that happen a few hours before it occurs and that in the end there are two many variables involved that can change what can happen. As you go more and more into the future there is an accumulation of more random variables making it impossible after some point to accurately predict the future. The man leaves after Luke promises that the USB stick is kept hidden and never comes to light. A tearful goodbye is shared amongst his friends who each have a key to the safe where the USB stick lays. 
+However, Luke argues that they can only predict events that happen a few hours before it occurs and that in the end there are too many variables involved that can change what can happen. As you go more and more into the future there is an accumulation of more random variables making it impossible after some point to accurately predict the future. The man leaves after Luke promises that the USB stick is kept hidden and never comes to light. A tearful goodbye is shared amongst his friends who each have a key to the safe where the USB stick lays. 
 
 
 # Review
@@ -73,7 +73,7 @@ Stephen King's explanation of Bernoulli is pretty good, however, he should speci
 3. A Bernoulli process is when one completes successive Bernoulli trials where each trial is independent of each other. This means the outcome of any trial does not affect the outcome of another. 
 4. A Bernoulli distribution is a discrete distribution. Essentially it shows all the possible probabilities that can occur. 
 
-![Bernoulli Distribution Graph >](
+![Bernoulli Distribution Graph](
 https://mathworld.wolfram.com/images/eps-gif/BernoulliDistribution_1000.gif "Bernoulli Distribution Graph")
 
 Looking at all the terms associated with Bernoulli it is hard to really determine how Luke used any association of Bernoulli to prove his case. One could argue that he used the Bernoulli process and tried to determine different predictions and their probabilities. However, Luke clearly states that when taking a prediction and determine if it still holds water further into the future, the probability of it will be 0. This definition does not work for Bernoulli but it does work for another binomial distribution: Poisson distribution
@@ -90,7 +90,7 @@ Lambda represents the number of events in the data divided by the number of unit
 
 Looking at this we can see how confusing probability is and when we do not understand the theory as a whole it can be misinterpreted, and dangerously as the people at “The Institute” showed. Probability seems like a powerful tool but don’t mistake it for clairvoyance. 
 
-This is why Tim Jamieson’s story makes more sense and why Kind added it to the novel. If someone were to predict that Jamieson would fly from Miami to New York without a hitch because the weather is perfect, the plane is functional etc. they could be potentially right. However, they cannot account for every variable that comes into play, such as Tim making the irrational last minute decision to get off the plane. Some claim that humans are predictable and this can be used for marketing strategies to gain more customers. But, I have come to believe that humans are much more capricious, just like life. It is 100% certain that there will never be an instrument or technology of any sort that can predict the future accurately 100% of the time. 
+This is why Tim Jamieson’s story makes more sense and why King added it to the novel. If someone were to predict that Jamieson would fly from Miami to New York without a hitch because the weather is perfect, the plane is functional etc. they could be potentially right. However, they cannot account for every variable that comes into play, such as Tim making the irrational last minute decision to get off the plane. Some claim that humans are predictable and this can be used for marketing strategies to gain more customers. But, I have come to believe that humans are much more capricious, just like life. It is 100% certain that there will never be an instrument or technology of any sort that can predict the future accurately 100% of the time. 
 
 ### Citations
 1. Ross, Sheldon. *A First Course in Probability*. Prentice-Hall, Inc., 1994.
