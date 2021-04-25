@@ -109,3 +109,4 @@ This is why Tim Jamieson’s story makes more sense and why King added it to the
 
 ###### FUTURE BLOG
 For my next blog post I will review what I have submitted for the WWDC 2021 Swift Student Challenge and how I created it in detail.
+
