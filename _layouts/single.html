@@ -60,6 +60,8 @@ layout: default
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+          <!-- Place this tag where you want the button to render. -->
+          <a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
         {% endif %}
         {% include page__taxonomy.html %}
       </footer>
@@ -86,5 +88,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    <!-- Place this tag in your head or just before your close body tag. -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
   {% endif %}
 </div>
