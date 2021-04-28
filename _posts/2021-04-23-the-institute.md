@@ -86,9 +86,8 @@ The Poisson distribution is a limiting case of the binomial distribution. In thi
 
 This is exactly what Luke states when talking about the predictions of certain events becoming true. To understand it visually, look at the graph below. 
 
-![Poisson Distribution Graph](
-https://calcworkshop.com/wp-content/uploads/poisson-distribution-curve.png
- "Poisson Distribution Graph")
+<img  style="float: right;" src='/images/poisson-distribution-curve.png'  width="700">
+
  *Poisson Distribution Graph*
 
 
