@@ -12,10 +12,10 @@ tags:
 Future Blog Post
 ------
 
-In this post I will talk about my project for the WWDC 2021 Swift Student Challenge. I will also talk about how I can improve on what I submitted. 
+In this post I will talk about Odissi Dancing. One of the 8 main styles of Indian Classical Dancing and the oldest out of all of them dating back to thte 2nd century B.C. Stay tuned!  
 
 
 
 Purpose
 ------
-I have been interested in application developement after working on it during my senior design class. I wanted to try to learn about swift further by creating a fun game. 
+I have dancing Odissi since 6th grade and my parents both originated form Orissa, India. This post will be about my journey through Odissi Dancing.  
