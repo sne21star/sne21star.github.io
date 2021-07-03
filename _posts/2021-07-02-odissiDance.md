@@ -256,3 +256,15 @@ src="https://www.youtube.com/watch?v=ZH47Oy8gZ0c&ab_channel=TaissiaShpulnikovaTa
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+
+# Work Cited
+
+1. https://www.sahapedia.org/brief-history-odissi-dance
+2. https://www.culturalindia.net/indian-dance/classical/odissi.html
+3. https://www.britannica.com/art/odissi
+4. https://www.indiatimes.com/lifestyle/odissi-odissi-dance-odissi-dance-form-indian-classical-dance-odisha-376902.html
+5. https://www.socialvillage.in/resources/25604-list-famous-odissi-dancers
+6. https://www.pinterest.com/pin/170362798375748109/
+7. https://akademi.co.uk/aharyabhinaya-in-odissi
+8. https://deepamodissi.com/2019/03/20/hasta-bheda/
