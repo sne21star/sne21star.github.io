@@ -42,11 +42,7 @@ As stated before, the Mangalacharn marks the entrance of the dancer on the stage
 
 First (1:17), the dancer enters the stage (manch pravesh), her hands folded to carry flowers which she offers to Lord Jagannath (2:41 - pushpanjali). Afterwards, she performs vandana (2:57), a brief prayer to God. She then proceeds to ask for forgiveness from the earth (3:12) because the Earth itself is a Goddess who we trample and walk across everyday. We ask for her forgiveness to respectfully dance on her so that we can please the Gods (bhumi pranam). Usually this is done before dancing entirely. Lastly, (3:20) she performs sabha, to pay respect to her guru, the audience, and the Gods whose eyes are now upon her. She finishes the rest of the dance with an utterly entranced smile: depicting to the whole world her ethereal devotion to Lord Jagannath. 
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=1wX5yHh6DHc&ab_channel=indiavideodotorg" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="826" height="480" src="https://www.youtube.com/embed/1wX5yHh6DHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Batu 
 Batu is a dance that showcases the endurance an odissi dancer poses. It is known as the abstract or pure case of dancing. This dance showcases the basics of the dance: foot position, hand positions, and the numbers of positions in an eternal rhythmic beat. 
