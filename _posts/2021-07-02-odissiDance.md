@@ -47,38 +47,22 @@ First (1:17), the dancer enters the stage (manch pravesh), her hands folded to c
 ## Batu 
 Batu is a dance that showcases the endurance an odissi dancer poses. It is known as the abstract or pure case of dancing. This dance showcases the basics of the dance: foot position, hand positions, and the numbers of positions in an eternal rhythmic beat. 
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=51uOehm-OX8&ab_channel=NitishaNanda" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/51uOehm-OX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pallavi 
 Known as the blossoming, this dance represents the dancer’s understanding that dancing is not about rigid beats and structured movements, but how the body is a vessel and its purpose is to allow the music to flow through your body to express a story, a feeling, or emotion. The dance is much more elaborate and complicated.  
 
-   <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=tp46Kvze4cY&list=RDQMoVc_4_Z7VE4&start_radio=1&ab_channel=NatyaSutraOnline-LearnIndianDance" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/tp46Kvze4cY?list=RDQMoVc_4_Z7VE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## Abhinaya 
 Abhinaya means expression. This is when a dancer has become more than a dancer, and reached the state of story teller. They can act as any of the characters in the story, expressing their heartbreak, fear and love. Many of the stories they interpret are poetry written in Gita Govinda. 
 
- <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=ZPdN3AGhCDY&ab_channel=unitedfeet" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen></iframe>
+ <iframe width="1215" height="688" src="https://www.youtube.com/embed/ZPdN3AGhCDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Moksha 
 Moksha means salvation. The dancer has released themselves from earthly tethers and has become one with God. The dancer’s soul is now integrated with Them and the dancer asks for the well-being of human-kind.  
 
-<iframe width="560" height="315"
- src="https://www.youtube.com/watch?v=v03v4bu_DBc&ab_channel=WildFilmsIndia" 
- frameborder="0" 
- allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/v03v4bu_DBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## Others
 These forms of dance together are usually performed under the title of Manch Pravesh. When a student has mastered these five elements, they present them to an audience. Sometimes there are additional dances to showcase their own personality or own emotion. For my own Manch Pravesh, I added the dance of Durga stotra as my family Goddess is Maha Durha. 
@@ -204,55 +188,25 @@ This abhinaya is the expression of the state of minds. This is a natural emotion
 There are many famous dancers who have trained rigorously and have found salvation through dance. These are just a few whose dancing left an impact on me and I frequently visit when missing home. 
 
 ## Sujata Mohapatra 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=E7Y9ALzAZhk&ab_channel=ParichayFoundationParichayFoundation" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/E7Y9ALzAZhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Keruluchan Mohapatra
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=adqVH5qvGOo&ab_channel=SharonLowenSharonLowen" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/adqVH5qvGOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Madhavi Mudgal
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=5GbMuZLytNI&ab_channel=MadhaviMudgalMadhaviMudgal" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/5GbMuZLytNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## BijayiniSatpathy
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=2-4_UMPRVIo&ab_channel=BijayiniSatpathyBijayiniSatpathy" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/2-4_UMPRVIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Today and the Future 
 Odissi dancing is slowly beginning to gain traction again after being left in history for so long. I have been very fortunate to learn such an art form and will continue to learn more. In today’s world, many use Odissi as a way to express forgotten stories. Here are just a few examples one can take a look at to see how the tradition of Odissi dance has been kept alive and fusion of different classical dances with Odissi.   
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=2Arq27c96nI&ab_channel=BiswarupaDixit" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/2Arq27c96nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315"
-src="youtube.com/watch?v=ba5QsdIq1VU&ab_channel=D4DanceD4Dance" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/ba5QsdIq1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=ZH47Oy8gZ0c&ab_channel=TaissiaShpulnikovaTaissiaShpulnikova" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/ZH47Oy8gZ0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Work Cited
 
