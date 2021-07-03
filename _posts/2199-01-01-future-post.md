@@ -12,10 +12,10 @@ tags:
 Future Blog Post
 ------
 
-In this post I will talk about Odissi Dancing. One of the 8 main styles of Indian Classical Dancing and the oldest out of all of them dating back to thte 2nd century B.C. Stay tuned!  
+For the next post I am unsure as to what I will be writing about. I have many ideas in mind. But it will either be about the book I have recently finished: Red Rising, or it will be about my trip to the Peabody Essex Museum! 
 
 
 
 Purpose
 ------
-I have dancing Odissi since 6th grade and my parents both originated form Orissa, India. This post will be about my journey through Odissi Dancing.  
+I am back on track to reading again! Yay!! Hope to be continue this resolution up since I haven't my June book. But hopefully I can read both June and July's book within July's month! 
