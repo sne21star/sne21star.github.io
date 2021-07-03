@@ -191,27 +191,37 @@ There are many famous dancers who have trained rigorously and have found salvati
 ## Sujata Mohapatra 
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/E7Y9ALzAZhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Aarya*
+
 ## Keruluchan Mohapatra
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/adqVH5qvGOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Priye Charusheelecomplete*
 
 ## Madhavi Mudgal
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/5GbMuZLytNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Pashyati Dishi Dishi*
+
 ## BijayiniSatpathy
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/2-4_UMPRVIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Ramayan*
 
 # Today and the Future 
 Odissi dancing is slowly beginning to gain traction again after being left in history for so long. I have been very fortunate to learn such an art form and will continue to learn more. In today’s world, many use Odissi as a way to express forgotten stories. Here are just a few examples one can take a look at to see how the tradition of Odissi dance has been kept alive and fusion of different classical dances with Odissi.   
 
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/2Arq27c96nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Trahi Durga Dance. An Odissi dance depicting the fierce Goddess Durga*
 
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/ba5QsdIq1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*An Example of a Fusion Dance*
 
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/ZH47Oy8gZ0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Meg Pallavi by the Chitra Dance Company* 
 
 # Work Cited
 
