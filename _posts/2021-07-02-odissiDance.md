@@ -123,6 +123,7 @@ Known as single hand mudras, these mudras can be expressed using one hand.
 28. Trishula – Trident (Emblem of Shiva)
 
 ![Asamyukta Hasta Mudra >]( https://i0.wp.com/deepamodissi.com/wp-content/uploads/2019/03/23fcf56cbfb753b7195401c2b3b4decf.jpg?resize=403%2C654&ssl=1 "Asamyukta Hasta Mudra")
+
 *Asamyukta Hasta Mudra*
 
 ## Samyukta Hasta Mudra
@@ -199,14 +200,18 @@ There are many famous dancers who have trained rigorously and have found salvati
 ## BijayiniSatpathy
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/2-4_UMPRVIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 # Today and the Future 
 Odissi dancing is slowly beginning to gain traction again after being left in history for so long. I have been very fortunate to learn such an art form and will continue to learn more. In today’s world, many use Odissi as a way to express forgotten stories. Here are just a few examples one can take a look at to see how the tradition of Odissi dance has been kept alive and fusion of different classical dances with Odissi.   
 
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/2Arq27c96nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/ba5QsdIq1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <iframe width="1215" height="688" src="https://www.youtube.com/embed/ZH47Oy8gZ0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Work Cited
 
