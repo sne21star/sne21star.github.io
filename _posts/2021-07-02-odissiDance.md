@@ -26,6 +26,8 @@ Also take a 3rd Tour of the Konark temple [here!](https://www.google.com/maps/uv
 # A Brief History of Odissi 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A performance of Odissi classical dance in the Shapiro Family Courtyard. The genre dates back to 200 BC! <a href="https://twitter.com/hashtag/Diwali?src=hash&amp;ref_src=twsrc%5Etfw">#Diwali</a> <a href="https://t.co/BApjWtcBcp">pic.twitter.com/BApjWtcBcp</a></p>&mdash; Museum of Fine Arts, Boston (@mfaboston) <a href="https://twitter.com/mfaboston/status/793955476513976320?ref_src=twsrc%5Etfw">November 2, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+*It was an honor to perform at the Musuem of Fine Arts, Boston*
+
 Odissi dance has been around for centuries dating back to 2nd century BC. Of the eight classical dances of India it is considered the oldest. When looking at the temples of Konark, poses that are the basic foundation of the dance are sculpted every few inches of the temple. These incredible movements captured in time represent the important aspects of Odissi dancing: lyricism, sensuality, and Bhakti Bhava (attitude and expression of surrender and devotion). 
 
 From the Natyashastra, a treatise on the performing arts of Classical Hindu arts, the fundamentals of the dance can be traced back to it, confirming its legacy. Furthermore, aside from the Konark temple, the Jain cave-temples of Udayagiri and Khandagiri date back to the 2nd century, contain poses of women and men dancing with some having descriptions of dances being tandava and abhinaya (two embedded concepts in Odissi).
