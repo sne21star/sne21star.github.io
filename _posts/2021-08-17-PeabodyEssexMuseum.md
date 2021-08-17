@@ -34,7 +34,7 @@ After more than four years I have finally been able to have a family vacation. I
 
 The Japanese exhibit was one of the most soothing experiences. Many art pieces were sculptures or furniture that contained pieces of pearls embedded in it. However, of all the pieces, it was this one that caught my eye. It’s simple look is what made me gravitate towards it. At first glance, this sculpture reminded me of waves sprouting from the ocean. Yet, with the color of the piece being white it made me also think of steam coming from geysers or vents. However, overall, the piece made me feel very calm and at peace. When I took this picture I forgot to take a picture of the artist and description. However a Google search led me to Fujikasa Satoko[]. Satoko sculptures are described as “fluid and dynamic”. She is “inspired by the natural world, her works embody the freedom and energy reminiscent of soaring birds or winds moving through a valley.” Her goal is to invoke a sense of exhilaration she feels when looking at nature. While admiring nature does conjure a sense of exhilaration, for me it gives me a sense of peace–a jarring difference from the work I experience. Satoko pieces bring me back to memories of strolling through Mount Rainier and hiking at Acadia National Park [2].
 
-<img  style="float: right;" src='/images/pem/3.png'  width="700">
+<img  style="float: center;" src='/images/pem/3.png'  width="700">
 
 ## American
 
@@ -44,7 +44,7 @@ The Japanese exhibit was one of the most soothing experiences. Many art pieces w
 
 |                |             |              |                            
 |-|-|-|-|
-|<img  style="float: right;" src='/images/pem/4.png'  width="700">|<img  style="float: right;" src='/images/pem/5.png'  width="700">|<img  style="float: right;" src='/images/pem/6.png'  width="700">          
+|<img  style="float: center;" src='/images/pem/4.png'  width="700">|<img  style="float: center;" src='/images/pem/5.png'  width="700">|<img  style="float: center;" src='/images/pem/6.png'  width="700">          
 
  With its history deeply entwined with the ocean, many painters and authors have taken to using it as an important theme in their piece. In the painting above, Thomas Moran’s painting was deeply influenced by Henry Wadsworth Longfellow’s 1855 poem The Song Hiawatha. The title of his painting: “Fiercely the red sun descending / Burned his way along the heavens” comes from the IX part of Longfellow’s poem titled Hiawatha and the Pearl Feather. While I am not one for poems, the way Longfellow described the sunset made me suddenly recollect the majestic and beautiful sunsets–full of colors.
 
@@ -84,7 +84,7 @@ Walking through the gallery, Chester and Davida Herwitz Gallery[7] captured a pr
 
 |                |         |                              
 |-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/13.png'  width="700">|<img  style="float: right;" src='/images/pem/14.png'  width="700">
+|<img  style="float: center;" src='/images/pem/13.png'  width="700">|<img  style="float: center;" src='/images/pem/14.png'  width="700">
 
 One social point is darker versus light skin present in India. After colonization, many indigenous countries found shame in their natural skin colour. India is not different. Even today, you will see ads for bleaching and lightening skin, colorism, and disparities between people who are darker skinned versus lighter skinned. For example in the painting, the family of royalty, most likely from India based on their dress, jewelry, turban, have lighter brown skin complexion. However, in the background, a darker skinned person is carrying an umbrella, most likely to keep the family in shade as they walk down a sunny street. While the family have their face facing forward, the person in the back has his face casted downwards in an almost submissive, subservient position. The purpose of putting him in the background and almost covered up shows how dark versus light skinned Indians were viewed. We can also see that the British officer, a light skin tone, is even further up in the foreground. His body language is nonchalant-leaning his weight on his right leg, hands in pocket. It shows that he is comfortable, while the royal family looks more scared and shaper. Although it could symbolize them being in England, and therefore a reasonable explanation for their alert and shy attitude, it seems that the purpose of putting the lightest skin person at ease in the foreground represents people of darker complexion placing lighter skinned people as above.  
 
@@ -103,8 +103,8 @@ My favorite holiday has always been Halloween and one of my life’s goals is to
 
 |               |       
 |-|
-|<img  style="float: right;" src='/images/pem/16.png'  width="700">|    
-|<img  style="float: right;" src='/images/pem/17.png'  width="700">|
+|<img  style="float: center;" src='/images/pem/16.png'  width="700">|    
+|<img  style="float: center;" src='/images/pem/17.png'  width="700">|
 
 
 ### Hocus Pocus 
@@ -134,7 +134,7 @@ Salem had not garnered the “October economy” even with the rising popularity
 
 ###  “March of the Salem Witches”
  I couldn’t find much information about this music piece. There were two articles I found that mentioned it in passing but did not delve deeper into it, and those were the first results that Google gave! Apparently, it was not the music itself that was important but the advertisement on the back of the music that allowed Daniel Low & Co, to market to a wider audience.
- <img  style="float: right;" src='/images/pem/19.png'  width="700">
+ <img  style="float: center;" src='/images/pem/19.png'  width="700">
 
 
 ## Conclusion 
