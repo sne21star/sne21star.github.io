@@ -58,13 +58,9 @@ I loved how in the painting we can see the “purple clouds” of the sunset to 
 I also have put another painting here as well: William Bradford’s Icebound Ship. Although I won’t go into too much detail, I found this painting very beautiful and intricate. The way the ice and snow is painted looks very really. Furthermore, A close up of the ship shows that Bradford really took his time for every part of the painting. What makes the painting even more beautiful is that Bradford conjured this painting from his imagination. He heard stories from other people's expeditions and painted what he imagined them facing.
 |                |                          |              |         |                 
 |-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/7.png'  width="700">
-   |<img  style="float: right;" src='/images/pem/8.png'  width="700">
-       |<img  style="float: right;" src='/images/pem/9.png'  width="700">
-  |<img  style="float: right;" src='/images/pem/10.png'  width="700">
-|      
+|<img  style="float: right;" src='/images/pem/7.png'  width="700">|<img  style="float: right;" src='/images/pem/8.png'  width="700">|<img  style="float: right;" src='/images/pem/9.png'  width="700">|<img  style="float: right;" src='/images/pem/10.png'  width="700">|      
 
-INSERT IMAGE 11
+
 <img  style="float: right;" src='/images/pem/11.png'  width="700">
 
 
@@ -80,8 +76,7 @@ Walking through the gallery, Chester and Davida Herwitz Gallery[7] captured a pr
 
 |                |         |                              
 |-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/13.png'  width="700">
-   |<img  style="float: right;" src='/images/pem/14.png'  width="700">
+|<img  style="float: right;" src='/images/pem/13.png'  width="700">|<img  style="float: right;" src='/images/pem/14.png'  width="700">
 
 One social point is darker versus light skin present in India. After colonization, many indigenous countries found shame in their natural skin colour. India is not different. Even today, you will see ads for bleaching and lightening skin, colorism, and disparities between people who are darker skinned versus lighter skinned. For example in the painting, the family of royalty, most likely from India based on their dress, jewelry, turban, have lighter brown skin complexion. However, in the background, a darker skinned person is carrying an umbrella, most likely to keep the family in shade as they walk down a sunny street. While the family have their face facing forward, the person in the back has his face casted downwards in an almost submissive, subservient position. The purpose of putting him in the background and almost covered up shows how dark versus light skinned Indians were viewed. We can also see that the British officer, a light skin tone, is even further up in the foreground. His body language is nonchalant-leaning his weight on his right leg, hands in pocket. It shows that he is comfortable, while the royal family looks more scared and shaper. Although it could symbolize them being in England, and therefore a reasonable explanation for their alert and shy attitude, it seems that the purpose of putting the lightest skin person at ease in the foreground represents people of darker complexion placing lighter skinned people as above.  
 
@@ -89,7 +84,6 @@ Another social point highlights sexism. There are three “female” figures in 
 
 Lastly, another social point that I believe Husain intended is highlighted in the little girl dressed in pink. Unlike her family, she is dressed in more westernized clothes. In addition, unlike her mother, she wears an Anglo Saxon crown on her head. When growing up in the United States, there was an unspoken rule that we had to wear similar styles to “American clothing”. If we didn’t, we would be seen as a black sheep. I remember getting weird looks when I wore something “different” and being incredibly jealous when I saw girls wear more Americanized clothing. Nowadays, it’s trendy to wear clothes from different cultures and I always laugh remembering why I had to feel so jealous or embarrassed wearing my culture's clothing. Painting the girls' clothing as such took me back to those days in school. Also, while wearing Western clothing, she is hiding behind her mothers skirt. It shows how she has yet to develop her confidence similar to me. She is not comfortable in her skin which is a persistent problem that people of color face.
 
-INSERT IMAGE 15 
 <img  style="float: right;" src='/images/pem/15.png'  width="700">
 
 
@@ -99,9 +93,8 @@ My favorite holiday has always been Halloween and one of my life’s goals is to
 
 |              Image 16 and 17  |       
 |-|
-|<img  style="float: right;" src='/images/pem/16.png'  width="700">
-         |    
-|<img  style="float: right;" src='/images/pem/17.png'  width="700">
+|<img  style="float: right;" src='/images/pem/16.png'  width="700">|    
+|<img  style="float: right;" src='/images/pem/17.png'  width="700">|
 
 
 ### Hocus Pocus 
@@ -162,8 +155,9 @@ This has been the first vacation my family and I took after my 3 and a half year
     
 10.  [https://streetsofsalem.com/tag/sheet-music/](https://streetsofsalem.com/tag/sheet-music/)
     
-11.  https://www.pem.org/exhibitions/zarah-hussain-breath
-12. 
+11.  [https://www.pem.org/exhibitions/zarah-hussain-breath](https://www.pem.org/exhibitions/zarah-hussain-breath)
+
+
 
 
 
