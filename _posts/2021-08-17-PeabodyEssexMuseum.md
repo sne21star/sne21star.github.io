@@ -1,7 +1,7 @@
 ---
 title: 'Peabody Essex Museum'
-date: 2021-07-03
-permalink: /posts/2021/07/PeabodyEssexMuseum/
+date: 2021-08-17
+permalink: /posts/2021/08/PeabodyEssexMuseum/
 tags:
   - Odissi 
   - Dance
