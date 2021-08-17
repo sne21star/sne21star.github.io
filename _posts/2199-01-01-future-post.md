@@ -12,10 +12,10 @@ tags:
 Future Blog Post
 ------
 
-For the next post I am unsure as to what I will be writing about. I have many ideas in mind. But it will either be about the book I have recently finished: Red Rising, or it will be about my trip to the Peabody Essex Museum! 
-
+For the next post I will be talking about the novel I read, Red Rising
 
 
 Purpose
 ------
-I am back on track to reading again! Yay!! Hope to be continue this resolution up since I haven't my June book. But hopefully I can read both June and July's book within July's month! 
+. I will next talk about Childhood's End. I am in the middle of reading Sapiens: A Brief History of Humankind. Hopefully, I can get that done soon before school starts! 
+

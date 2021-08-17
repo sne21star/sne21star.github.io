@@ -8,6 +8,7 @@ tags:
   - Arts
 ---
 
+
 # The Peabody Essex Museum
 
 > *“What is Art? It is the response of man's creative soul to the call of the Real.” Rabindranath Tagore*
@@ -21,6 +22,7 @@ After more than four years I have finally been able to have a family vacation. I
 
 
 <img  style="float: right;" src='/images/pem/1.png'  width="700">
+
 
 >*“Intersections: Anila Quayyum Agha is an immersive single room installation that bathes the visitor in a geometric array of light and shadow. Inspired by traditional Islamic architectural motifs, Pakistani-American artist Anila Quayyum Agha's laser-cut steel lantern conjures the design of the Alhambra Palace in Granada, Spain, a historic site of cross-cultural intersection where a thousand years ago Islamic and Western cultures thrived in coexistence. Agha, an internationally renowned, award-winning artist, creates mixed media works that engage topics ranging from global politics and cultural multiplicity, to mass media and gender roles.* [1]
 
@@ -41,10 +43,7 @@ The Japanese exhibit was one of the most soothing experiences. Many art pieces w
 
 |                |             |              |                            
 |-|-|-|-|
-|<img  style="float: right;" src='/images/pem/4.png'  width="700">
-|<img  style="float: right;" src='/images/pem/5.png'  width="700">
- |<img  style="float: right;" src='/images/pem/6.png'  width="700">
- |          
+|<img  style="float: right;" src='/images/pem/4.png'  width="700">|<img  style="float: right;" src='/images/pem/5.png'  width="700">|<img  style="float: right;" src='/images/pem/6.png'  width="700">|          
 
  With its history deeply entwined with the ocean, many painters and authors have taken to using it as an important theme in their piece. In the painting above, Thomas Moran’s painting was deeply influenced by Henry Wadsworth Longfellow’s 1855 poem The Song Hiawatha. The title of his painting: “Fiercely the red sun descending / Burned his way along the heavens” comes from the IX part of Longfellow’s poem titled Hiawatha and the Pearl Feather. While I am not one for poems, the way Longfellow described the sunset made me suddenly recollect the majestic and beautiful sunsets–full of colors.
 
