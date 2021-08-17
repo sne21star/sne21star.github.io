@@ -29,7 +29,8 @@ After more than four years I have finally been able to have a family vacation. I
 
 ## Japanese
 
-<img  style="float: center;" src='/images/pem/2.png'  width="700">
+![Japanese Sculpture](/images/pem/2.png "Japanese Sculpture")
+
 
 The Japanese exhibit was one of the most soothing experiences. Many art pieces were sculptures or furniture that contained pieces of pearls embedded in it. However, of all the pieces, it was this one that caught my eye. It’s simple look is what made me gravitate towards it. At first glance, this sculpture reminded me of waves sprouting from the ocean. Yet, with the color of the piece being white it made me also think of steam coming from geysers or vents. However, overall, the piece made me feel very calm and at peace. When I took this picture I forgot to take a picture of the artist and description. However a Google search led me to Fujikasa Satoko[]. Satoko sculptures are described as “fluid and dynamic”. She is “inspired by the natural world, her works embody the freedom and energy reminiscent of soaring birds or winds moving through a valley.” Her goal is to invoke a sense of exhilaration she feels when looking at nature. While admiring nature does conjure a sense of exhilaration, for me it gives me a sense of peace–a jarring difference from the work I experience. Satoko pieces bring me back to memories of strolling through Mount Rainier and hiking at Acadia National Park [2].
 
@@ -56,21 +57,24 @@ Set the sky on fire behind him,” [4]
 I loved how in the painting we can see the “purple clouds” of the sunset to the right but our attention is focused on the “Fiercely...red sun descending”. Longfellow also uses Anthropomorphism to give human-like qualities to the sun stating how he “burned his way” along the sky and “set the sky on fire behind him”. When looking at the painting you can see how accurately Moran captured the words of Longfellow, even creating a trail of the sun to show the fire that he set behind him. Out of all the paintings in the In American Waters exhibition, this really captured my attention. Especially with the contrast of the orange and fiery red with the purple, blue and gray skies. The way Moran paid attention to the water and added the sun on the water, it looked almost looked life like. [3]
 
 I also have put another painting here as well: William Bradford’s Icebound Ship. Although I won’t go into too much detail, I found this painting very beautiful and intricate. The way the ice and snow is painted looks very really. Furthermore, A close up of the ship shows that Bradford really took his time for every part of the painting. What makes the painting even more beautiful is that Bradford conjured this painting from his imagination. He heard stories from other people's expeditions and painted what he imagined them facing.
-|                |         |                              
-|-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/7.png'  width="700">|<img  style="float: right;" src='/images/pem/8.png'  width="500">
+
+![Ship OG](/images/pem/7.png "Ship OG ")
+
+![Ship ](/images/pem/8.png "Ship")
+
+
 
 |                |         |                              
 |-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/9.png'  width="500">|<img  style="float: right;" src='/images/pem/10.png'  width="200">    
+|<img  style="float: center;" src='/images/pem/9.png'  width="500">|<img  style="float: center;" src='/images/pem/10.png'  width="200">    
 
 
-<img  style="float: right;" src='/images/pem/11.png'  width="700">
 
+![Glass Sculpture](/images/pem/11.png "Glass Sculpture")
 
 
 ## India 
-<img  style="float: right;" src='/images/pem/12.png'  width="700">
+![India](/images/pem/12.png "India")
 
 
 Being Indian-American, I was excited to view the exhibit of art from India. India is the second most populous country in the world. It is home to 19,500 languages [5], multiple religions, ethnicities, and cultures. With such an abundance, paintings and art pieces don’t have much in common, rather every piece is unique, distinctive, and talks about different subjects pertaining to different lives. The first words that greet the viewers of the gallery are the words of the famous Rabindranath Tagore. Tagore was a “poet, writer, playwright, composer, philosopher, social reformer and painter” [6]. He was the first Non-European poet to win the Nobel Prize in Literature and first to give it back after the Jallianwala Bagh massacre. The British Empire tried to hold their power over India. However after the movement that came with Gandhi, India became independent once again. It has only been about 60 years since India has been independent. Their growth is exponential and has no means of tapering off.
