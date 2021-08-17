@@ -21,7 +21,7 @@ tags:
 After more than four years I have finally been able to have a family vacation. It has been a long journey, but this is the first time I was able to go out and have some fun with a little bit of a learning experience. Our family chose to go to Salem, Massachusetts (that’s right! The places where they burned the “witches''). Known for celebrating Halloween all October long, this city also holds the Peabody Essex Museum. According to Wikipedia, the museum “is a successor to the East India Marine Society, established in 1799. It combines the collections of the former Peabody Museum of Salem and the Essex Institute.” I remember coming here in eighth grade to tour the museum, specifically for the Spanish and Latin American art. This year, they are holding exhibitions for Japanese, American and Indian Art.
 
 
-<img  style="float: right;" src='/images/pem/1.png'  width="700">
+<img  style="float: center;" src='/images/pem/1.png'  width="700">
 
 
 >*“Intersections: Anila Quayyum Agha is an immersive single room installation that bathes the visitor in a geometric array of light and shadow. Inspired by traditional Islamic architectural motifs, Pakistani-American artist Anila Quayyum Agha's laser-cut steel lantern conjures the design of the Alhambra Palace in Granada, Spain, a historic site of cross-cultural intersection where a thousand years ago Islamic and Western cultures thrived in coexistence. Agha, an internationally renowned, award-winning artist, creates mixed media works that engage topics ranging from global politics and cultural multiplicity, to mass media and gender roles.* [1]
@@ -29,7 +29,7 @@ After more than four years I have finally been able to have a family vacation. I
 
 ## Japanese
 
-<img  style="float: right;" src='/images/pem/2.png'  width="700">
+<img  style="float: center;" src='/images/pem/2.png'  width="700">
 
 The Japanese exhibit was one of the most soothing experiences. Many art pieces were sculptures or furniture that contained pieces of pearls embedded in it. However, of all the pieces, it was this one that caught my eye. It’s simple look is what made me gravitate towards it. At first glance, this sculpture reminded me of waves sprouting from the ocean. Yet, with the color of the piece being white it made me also think of steam coming from geysers or vents. However, overall, the piece made me feel very calm and at peace. When I took this picture I forgot to take a picture of the artist and description. However a Google search led me to Fujikasa Satoko[]. Satoko sculptures are described as “fluid and dynamic”. She is “inspired by the natural world, her works embody the freedom and energy reminiscent of soaring birds or winds moving through a valley.” Her goal is to invoke a sense of exhilaration she feels when looking at nature. While admiring nature does conjure a sense of exhilaration, for me it gives me a sense of peace–a jarring difference from the work I experience. Satoko pieces bring me back to memories of strolling through Mount Rainier and hiking at Acadia National Park [2].
 
@@ -84,14 +84,18 @@ Another social point highlights sexism. There are three “female” figures in 
 
 Lastly, another social point that I believe Husain intended is highlighted in the little girl dressed in pink. Unlike her family, she is dressed in more westernized clothes. In addition, unlike her mother, she wears an Anglo Saxon crown on her head. When growing up in the United States, there was an unspoken rule that we had to wear similar styles to “American clothing”. If we didn’t, we would be seen as a black sheep. I remember getting weird looks when I wore something “different” and being incredibly jealous when I saw girls wear more Americanized clothing. Nowadays, it’s trendy to wear clothes from different cultures and I always laugh remembering why I had to feel so jealous or embarrassed wearing my culture's clothing. Painting the girls' clothing as such took me back to those days in school. Also, while wearing Western clothing, she is hiding behind her mothers skirt. It shows how she has yet to develop her confidence similar to me. She is not comfortable in her skin which is a persistent problem that people of color face.
 
-<img  style="float: right;" src='/images/pem/15.png'  width="700">
+#
 
+<img  style="float: center;" src='/images/pem/15.png'  width="700">
+
+# 
 
 ## Tribute to Salem 
 My favorite holiday has always been Halloween and one of my life’s goals is to visit Salem during Halloween. However, even visiting during July I got the sense of it being a little haunted. One of my favorite traditions on Halloween is to watch the Hocus Pocus movie and Casper. Therefore, it was a pleasant surprise (not really surprising since we were in Salem) to see a whole piece dedicated to the Salem witch trials. There are five parts to this display case: the Hocus Pocus movies; an advertisement; a metal sculpture; a wooden sculpture; and a musically written piece.
+
 ![Single backticks](https://variety.com/wp-content/uploads/2020/10/hocus-pocus.jpg?w=1000)
 
-|              Image 16 and 17  |       
+|               |       
 |-|
 |<img  style="float: right;" src='/images/pem/16.png'  width="700">|    
 |<img  style="float: right;" src='/images/pem/17.png'  width="700">|
@@ -118,8 +122,11 @@ A weathervane is used to tell which direction the wind is blowing. I have always
 ### The Salem Witch mechanical fortune teller
 Salem had not garnered the “October economy” even with the rising popularity of works such The Crucible and the movies Hocus Pocus. It was only after the 19th century “during the advent of mass commercialization that led Salem entrepreneurs to repackage the history of the witch trials into creative and amusing witch products" [8]. One of these products was this mechanical fortune teller.
 
-<img  style="float: right;" src='/images/pem/18.png'  width="700">
+###
 
+<img  style="float: center;" src='/images/pem/18.png'  width="700">
+
+###
 
 ###  “March of the Salem Witches”
  I couldn’t find much information about this music piece. There were two articles I found that mentioned it in passing but did not delve deeper into it, and those were the first results that Google gave! Apparently, it was not the music itself that was important but the advertisement on the back of the music that allowed Daniel Low & Co, to market to a wider audience.
@@ -127,9 +134,12 @@ Salem had not garnered the “October economy” even with the rising popularity
 
 
 ## Conclusion 
-<img  style="float: right;" src='/images/pem/20.png'  width="700">
+<img  style="float: center;" src='/images/pem/20.png'  width="700">
 
 This has been the first vacation my family and I took after my 3 and a half years of me studying in college. It was really relaxing to look at the painting and also exciting learning about the different themes, cultures, and works. This last picture is one part of Zarah Hussain’s Breath. [11] It always feels like we are running around without any time to just stop and enjoy being. Museums and arts like this allow us to break from life and relax the mind.
+
+
+#
 
 #### Citations
 
