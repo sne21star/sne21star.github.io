@@ -44,7 +44,7 @@ The Japanese exhibit was one of the most soothing experiences. Many art pieces w
 
 |                |             |              |                            
 |-|-|-|-|
-|<img  style="float: right;" src='/images/pem/4.png'  width="700">|<img  style="float: right;" src='/images/pem/5.png'  width="700">|<img  style="float: right;" src='/images/pem/6.png'  width="700">|          
+|<img  style="float: right;" src='/images/pem/4.png'  width="700">|<img  style="float: right;" src='/images/pem/5.png'  width="700">|<img  style="float: right;" src='/images/pem/6.png'  width="700">          
 
  With its history deeply entwined with the ocean, many painters and authors have taken to using it as an important theme in their piece. In the painting above, Thomas Moran’s painting was deeply influenced by Henry Wadsworth Longfellow’s 1855 poem The Song Hiawatha. The title of his painting: “Fiercely the red sun descending / Burned his way along the heavens” comes from the IX part of Longfellow’s poem titled Hiawatha and the Pearl Feather. While I am not one for poems, the way Longfellow described the sunset made me suddenly recollect the majestic and beautiful sunsets–full of colors.
 
@@ -128,11 +128,9 @@ A weathervane is used to tell which direction the wind is blowing. I have always
 ### The Salem Witch mechanical fortune teller
 Salem had not garnered the “October economy” even with the rising popularity of works such The Crucible and the movies Hocus Pocus. It was only after the 19th century “during the advent of mass commercialization that led Salem entrepreneurs to repackage the history of the witch trials into creative and amusing witch products" [8]. One of these products was this mechanical fortune teller.
 
-###
 
 <img  style="float: center;" src='/images/pem/18.png'  width="700">
 
-###
 
 ###  “March of the Salem Witches”
  I couldn’t find much information about this music piece. There were two articles I found that mentioned it in passing but did not delve deeper into it, and those were the first results that Google gave! Apparently, it was not the music itself that was important but the advertisement on the back of the music that allowed Daniel Low & Co, to market to a wider audience.
@@ -145,7 +143,6 @@ Salem had not garnered the “October economy” even with the rising popularity
 This has been the first vacation my family and I took after my 3 and a half years of me studying in college. It was really relaxing to look at the painting and also exciting learning about the different themes, cultures, and works. This last picture is one part of Zarah Hussain’s Breath. [11] It always feels like we are running around without any time to just stop and enjoy being. Museums and arts like this allow us to break from life and relax the mind.
 
 
-#
 
 #### Citations
 
