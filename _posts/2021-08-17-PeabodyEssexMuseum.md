@@ -56,9 +56,13 @@ Set the sky on fire behind him,” [4]
 I loved how in the painting we can see the “purple clouds” of the sunset to the right but our attention is focused on the “Fiercely...red sun descending”. Longfellow also uses Anthropomorphism to give human-like qualities to the sun stating how he “burned his way” along the sky and “set the sky on fire behind him”. When looking at the painting you can see how accurately Moran captured the words of Longfellow, even creating a trail of the sun to show the fire that he set behind him. Out of all the paintings in the In American Waters exhibition, this really captured my attention. Especially with the contrast of the orange and fiery red with the purple, blue and gray skies. The way Moran paid attention to the water and added the sun on the water, it looked almost looked life like. [3]
 
 I also have put another painting here as well: William Bradford’s Icebound Ship. Although I won’t go into too much detail, I found this painting very beautiful and intricate. The way the ice and snow is painted looks very really. Furthermore, A close up of the ship shows that Bradford really took his time for every part of the painting. What makes the painting even more beautiful is that Bradford conjured this painting from his imagination. He heard stories from other people's expeditions and painted what he imagined them facing.
-|                |                          |              |         |                 
+|                |         |                              
 |-|-|-|-|-|
-|<img  style="float: right;" src='/images/pem/7.png'  width="700">|<img  style="float: right;" src='/images/pem/8.png'  width="700">|<img  style="float: right;" src='/images/pem/9.png'  width="700">|<img  style="float: right;" src='/images/pem/10.png'  width="700">|      
+|<img  style="float: right;" src='/images/pem/7.png'  width="700">|<img  style="float: right;" src='/images/pem/8.png'  width="500">
+
+|                |         |                              
+|-|-|-|-|-|
+|<img  style="float: right;" src='/images/pem/9.png'  width="500">|<img  style="float: right;" src='/images/pem/10.png'  width="200">    
 
 
 <img  style="float: right;" src='/images/pem/11.png'  width="700">
@@ -84,11 +88,9 @@ Another social point highlights sexism. There are three “female” figures in 
 
 Lastly, another social point that I believe Husain intended is highlighted in the little girl dressed in pink. Unlike her family, she is dressed in more westernized clothes. In addition, unlike her mother, she wears an Anglo Saxon crown on her head. When growing up in the United States, there was an unspoken rule that we had to wear similar styles to “American clothing”. If we didn’t, we would be seen as a black sheep. I remember getting weird looks when I wore something “different” and being incredibly jealous when I saw girls wear more Americanized clothing. Nowadays, it’s trendy to wear clothes from different cultures and I always laugh remembering why I had to feel so jealous or embarrassed wearing my culture's clothing. Painting the girls' clothing as such took me back to those days in school. Also, while wearing Western clothing, she is hiding behind her mothers skirt. It shows how she has yet to develop her confidence similar to me. She is not comfortable in her skin which is a persistent problem that people of color face.
 
-#
 
-<img  style="float: center;" src='/images/pem/15.png'  width="700">
+![MarineGEO circle logo](/images/pem/15.png "Dinosaurs hang over the museum floor")
 
-# 
 
 ## Tribute to Salem 
 My favorite holiday has always been Halloween and one of my life’s goals is to visit Salem during Halloween. However, even visiting during July I got the sense of it being a little haunted. One of my favorite traditions on Halloween is to watch the Hocus Pocus movie and Casper. Therefore, it was a pleasant surprise (not really surprising since we were in Salem) to see a whole piece dedicated to the Salem witch trials. There are five parts to this display case: the Hocus Pocus movies; an advertisement; a metal sculpture; a wooden sculpture; and a musically written piece.
