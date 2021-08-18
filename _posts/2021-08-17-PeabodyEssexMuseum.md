@@ -133,6 +133,8 @@ Salem had not garnered the “October economy” even with the rising popularity
 
 ###  “March of the Salem Witches”
  I couldn’t find much information about this music piece. There were two articles I found that mentioned it in passing but did not delve deeper into it, and those were the first results that Google gave! Apparently, it was not the music itself that was important but the advertisement on the back of the music that allowed Daniel Low & Co, to market to a wider audience.
+ 
+ 
  <img  style="float: center;" src='/images/pem/19.png'  width="700">
 
 
@@ -152,8 +154,6 @@ This has been the first vacation my family and I took after my 3 and a half year
 3.  [https://www.pem.org/exhibitions/in-american-waters](https://www.pem.org/exhibitions/in-american-waters)
     
 4.  [https://www.hwlongfellow.org/poems_poem.php?pid=62](https://www.hwlongfellow.org/poems_poem.php?pid=62)
-    a.  [https://www.hwlongfellow.org/poems_poem.php?pid=283]
-    
 
 5.  [https://www.thehindubusinessline.com/news/variety/india-is-home-to-more-than-19500-mother-tongues/article24305725.ece#:~:text=Press%20Trust%20of%20India%20 More,of%20121%20crore%2C%20it%20said](https://www.thehindubusinessline.com/news/variety/india-is-home-to-more-than-19500-mother-tongues/article24305725.ece#:~:text=Press%20Trust%20of%20India%20More,of%20121%20crore%2C%20it%20said).
     
