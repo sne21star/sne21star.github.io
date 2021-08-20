@@ -75,6 +75,7 @@ After finishing the book I realized that the “Game” was almost parallel to g
 |![enter image description here](https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg)*Hunger games cover*|![enter image description here](https://i2.wp.com/highschool.latimes.com/wp-content/uploads/2020/05/rick-riordane28099s-percy-jackson-series-e1590785602291.jpg?fit=1965%2C830&ssl=1) *Percy Jackson Series*|
 
 ![enter image description here](https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/enhanced/44273591e5ab/enhanced-1985-1590614748-1.png?output-format=jpg&output-quality=auto)
+
 *Katniss is nursing Peeta back to health after he is hurt by other kids in the Games*
 
 
@@ -88,7 +89,10 @@ After finishing the book I realized that the “Game” was almost parallel to g
 > *“There is a flower that grows on Mars. It is red and harsh and fit for our soil. It is called haemanthus. It means 'blood blossom.'"* 
 
 ## Future 
+Although this is a series, I am not sure if I want to continue reading it. With most books, I am eager to wait for the next book. Despite the fact that all the books have been released I still don’t have that drive to read the next book. It might be because I am stressed out for grad school starting soon but usually my joy for reading supersedes that. The next title in the Series is called Golden Son.  Some reviews say it is very good, but not great. It has the same pace as the first book but has a different plot point from the Hunger Games so maybe I will give it a try. However, as of right now I am reading a Sapiens: Brief History of Humankind. Once I finish that I will see if I want to continue this series or try another universe.    
+
 ![enter image description here](https://m.media-amazon.com/images/I/51iGvbVBQfL.jpg)
+
 Golden Son *is the next book in the series* 
 ## Citations 
 [1]**[https://www.deviantart.com/scillavega/art/Red-Rising-character-doodles-598312645](https://www.deviantart.com/scillavega/art/Red-Rising-character-doodles-598312645)**
