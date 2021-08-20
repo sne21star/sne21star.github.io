@@ -13,19 +13,27 @@ tags:
 
 ## Why I Chose It
 Besides, my other favorite genres include Science Fiction and Fantasy. With these genres there really is no limit to what the author can write about. I love learning about new worlds, new characters and new super powers that someone can gain or learn. These books offer an escape from reality. When looking up popular books I found *Red Rising* was offered multiple times. Reading into what the book is about, many people said it was a combination between *Hunger Games* and the *Percy Jackson* series, both of which I have read and seen in their respective movies. I liked both books, but definitely loved the Percy Jackson series more. The idea behind these books was novel. Therefore, with the combination I thought I should give *Red Rising* a try.
+
+
 ![enter image description here](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976.jpg)
+
+
 *The* Red Rising *Book Cover* 
+
 ## Summary - Spoilers! 
 
 ### Mars 
 The book starts off with a memory. Darrow, the main protagonist, is remembering how as a younger child he remained stoic as his father was hanged on live television. The people who televised his father’s death are called “the Society”. This group acts as the government of mankind. Darrow's whole life has been on planet Mars. He has learned how mankind has colonized other planets for the last 700 years. With this colonization, there is a color based hierarchy; on the bottom are the Reds and on the top are the Golds as they are physically superior. When reading the novel I imagined the Red’s as 18th century British people living in the countryside, while Golds were more gentlemen and royalty-like except for their bloodthirsty nature. As a Red himself, Darrow is tasked with the rest of them to mine for helium-3, an isotope of helium, to terraform (the theoretical process of modifying a planet's features such as atmosphere, temperature etc to make it Earth like) Mars to make it suitable for others. He works as a Helldiver–the most difficult job for a Red to assume. He must dangerously drill into Mars to find helium-3. Based on how he dives into this job, we see he is reckless, audacious, and willing to lose his life to accomplish a mission. He is constantly reminded of the greatness of the Gold and he should abide by their philosophies. 
 
 ![enter image description here](https://hungrylittlebookworm.files.wordpress.com/2017/04/tumblr_n0mzqpyrns1tstf6do1_1280.jpg)
+
 *Color Hierarchy in* Red Rising 
 
 Darrow is married to the love of his life Eo. Eo is like Darrow, but even more audacious and reckless. Eo eagerly talks about bringing down the Society. However, Darrow is more cautious about doing so. But, when Eo and Darrow are found in a forbidden area, they are captured. Darrow is whipped and tries to also take the whips for Eo. To no avail, Eo is whipped. Yet, in the middle of the punishment,  Eo starts singing a forbidden folk song to protest against the Red’s enslavement. Mars’ ArchGovernor Nero au Augustus orders his troops to hang Eo while Darrow is forced to watch his own wife hang. He cuts her down and buries her body. This too is considered a crime and he is hanged as well. When he wakes up and finds out he is not dead, he is surrounded by the Sons of Ares. They are a terrorist group of Reds who fight against the oppression of being a “low Color”. He realizes he had been drugged and delivered to this group. This group has adopted the video of Eo’s song and uses it as a way to rally their cause. The group offers to turn Darrow into a Gold so that he can take over “the Society” from the inside. When he refuses, the leader of the Sons of Ares takes him to the other part of Mars where he sees a civilization. He realizes that centuries beforehand Mars had already been terraformed. With this new revelation, recognizing all of his efforts had been in vain, and Eo’s unjust death, he immediately accepts the offer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6uSx_jUHWrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*A fan made video of what the song Eo sang would have sounded like* 
 
 ### Violet 
 Wanting to make his Eo’s death meaningful, Darrow decides to go with the plan of changing himself to Gold. He is taken to a club-like place with members of the Son of Ares where he meets a Violet named Mickey. While Red’s are known for being workers and terraformers, Gold known for being superior, violets are known as carvers. Mickey successfully transforms him into a Gold. But, the process is done through many excruciating surgeries and implants. Once the entire physical process is complete, he learns a new identity. He is now a Gold “student” studying to be accepted in the Golds’ Institute.
@@ -64,7 +72,8 @@ After finishing the book I realized that the “Game” was almost parallel to g
 
 |                |                          |                     
 |----------------|-------------------------------|
-|![enter image description here](https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg)*Hunger games cover* |![enter image description here](https://i2.wp.com/highschool.latimes.com/wp-content/uploads/2020/05/rick-riordane28099s-percy-jackson-series-e1590785602291.jpg?fit=1965%2C830&ssl=1) *Percy Jackson Series*           |
+|![enter image description here](https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg)*Hunger games cover*|![enter image description here](https://i2.wp.com/highschool.latimes.com/wp-content/uploads/2020/05/rick-riordane28099s-percy-jackson-series-e1590785602291.jpg?fit=1965%2C830&ssl=1) *Percy Jackson Series*|
+
 ![enter image description here](https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/enhanced/44273591e5ab/enhanced-1985-1590614748-1.png?output-format=jpg&output-quality=auto)
 *Katniss is nursing Peeta back to health after he is hurt by other kids in the Games*
 

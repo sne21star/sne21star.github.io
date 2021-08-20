@@ -8,7 +8,7 @@ tags:
   - Arts
 ---
 
-> *“What is Art? It is the response of man's creative soul to the call of the Real.” Rabindranath Tagore*
+> *“What is Art? It is the response of man's creative soul to the call of the Real.” - Rabindranath Tagore*
 
 # The Peabody Essex Museum
 
