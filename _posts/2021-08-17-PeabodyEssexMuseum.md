@@ -10,8 +10,6 @@ tags:
 
 > *“What is Art? It is the response of man's creative soul to the call of the Real.” - Rabindranath Tagore*
 
-# The Peabody Essex Museum
-
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/9/9a/The_Peabody_Essex_Museum_in_Salem,_MA.jpg)
 
 # Why this place? 
