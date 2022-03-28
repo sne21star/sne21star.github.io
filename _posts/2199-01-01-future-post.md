@@ -12,10 +12,10 @@ tags:
 Future Blog Post
 ------
 
-For the next post I will be talking about the novel I read, Red Rising
-
+I am leaning into talking about either a computer science topic I find really fascintaing or I will be talking about another novel. 
 
 Purpose
 ------
-. I will next talk about Childhood's End. I am in the middle of reading Sapiens: A Brief History of Humankind. Hopefully, I can get that done soon before school starts! 
+Will update on purpose in the future!
+
 
