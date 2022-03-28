@@ -62,7 +62,7 @@ The Overlords, knowing how painful it is for parents to see their children trans
 
 
 
-![enter image description here](https://static.wikia.nocookie.net/vsbattles/images/7/7b/Spiral1.jpg/revision/latest?cb=20141120033214)
+![enter image description here](https://www.konstantinbax.com/wp-content/uploads/2011/07/ChildhoodsEnd.jpg)
 
 *An artistic rendition of the children combing with the Overmind*
 
