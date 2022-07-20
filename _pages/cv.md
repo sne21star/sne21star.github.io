@@ -12,26 +12,46 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Purdue University, December 2020
+* M.S. in Computer Science, University of Massachusetts, Amherst, May 2023
 
 Work experience
 ======
-* Synopsis, Lima Perú, Automation Engineer
-  * Conducted research to identify appropriate software to use and applied my research using Katalon Studio and Appium
-  * Developed Automated Test scripts to Test Web and mobile Application for Synopsis’s client
-
+* Software Engineering Intern, Ford Motor Company
+    * Developed Endpoints in Spring Boot for tabled data manipulation 
+    * Wrote SQL queries to manipulate tabled data
+    * Developed Python Script to call Endpoints 
+    * Designed Mobile Application for Road Trips for Ford vechicles in 2 Day Hackthon Challenge
+    * Skills: SQL, Hadoop, Rest API, Spring Boot, Python Development, Pyspark, Postman
+  
+* BioNLP, University of Massachusetts, Amherst
+  * SDOH iOS Annie App Summer 2021-present
+  * Creating iOS mobile application to help users in poverty find resources and programs to help them
+  in times of need
+  * Developed with Mapbox software library, and Firebase to help uses find tailored resources close to them.
+  * Created web crawling programs to find resources and create a database of resources.
+  * Fine tuning BERT NLP model to extract important information from resources to create a tailored
+  experience
+  
 * Purdue University, VIP Researcher 
     * Research team is VAA: Visual Analysis for Understanding Animal Behavior
     * Designed and developed a GUI for a research team that tracks turkey for poultry production
     * Abstract for my GUI was accepted to Purdue’s Undergraduate Research Conference.
     * Converted GUI to web application over the summer that is now interactive and intuitive that showcases 7 graphs which can interact with video data, 5 statistical graphs, an animation that tracers the turkey’s path, and a tab that showcase ML model used to track turkeys
-  
+
+* Synopsis, Lima Perú, Automation Engineer
+  * Conducted research to identify appropriate software to use and applied my research using Katalon Studio and Appium
+  * Developed Automated Test scripts to Test Web and mobile Application for Synopsis’s client
+
 Skills
 ======
 * Python
     * Dash
     * Plotly
+    * Web Development 
 * C
 * Java
+    * Java Development 
+    * Spring Boot 
 * C++
 * MATLAB
 * Tensorflow
@@ -51,10 +71,14 @@ Skills
  
 Relevant Course Work
 ======
-* Data Structures and Algorithms 
+* Advanced Algorithms
 * Artificial Intelligence 
 * Machine Learning I 
 * Object Oriented Programming 
+* Neural Network 
+* Software Theory
+* Data Structures and Algorithms 
+
 
 Publications
 ======
@@ -94,9 +118,9 @@ Leadership
 * Senior Project Design Lead
 * Design Lead for GDAT
 
-
 Professional Organizations
 ======
+* CSWomen 
 * Vertical Flight Systems Purdue
     * Research on Kalman Filter, Motor Interfacing, Dynamic Programming, Pixhawk 4
 * WECE
