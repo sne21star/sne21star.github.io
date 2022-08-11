@@ -15,5 +15,5 @@ For my part of the project I worked on the ASL alphabet model, interface of the 
 ### Powerpoint Explanation 
 This powerpoint explains at a higher level how this project was created. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUd7FNNUiHAuXqMvobKpNvRhPQBkISmAwpwGYqmh5h4fPrpmYQNsAvc-hqBRIQ5g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdaIRJ5ZFsCKNWIDQhqaAME01Z4XvPkRXd_VT-hlKQBgol8tryG4wQX5H1rW_T52r30z3rniAhKGfr/embed?start=true&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
