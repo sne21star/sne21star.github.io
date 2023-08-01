@@ -13,7 +13,7 @@ As a master's student I am currently working with the [BioNLP](https://bio-nlp.o
 
 During my undergrad I worked with [Professor Reibman](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=117177) and [Professor Zhu](https://engineering.purdue.edu/~zhu0/) in a group called [Visual Analysis of Animal Behavior](https://engineering.purdue.edu/VADL/index.html) where I created a web GUI that allows research scientists to read data from an Object Tracking model in an intutitve way. 
 
- <img  style="float: right;" src='/images/IMG_0044.jpg'  width="400">
+ <img  style="float: right;" src='/images/profilepic.jpeg'  width="400">
 
 
 For my Senior Design project, my team and I created a Real Time ASL translator application that can be used to translate ASL into English to help students at the Indiana School of Deaf learn English using Google's Mediapipe. [code](https://github.com/sne21star/mediapipe)
