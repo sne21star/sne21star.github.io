@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Sneha Mahapatra and I am Computer Science Master's Stundent at the University of Massachusetts, Amherst. I also earned my Bachelor's in Computer Engineering from Purdue University. 
+Hello! My name is Sneha Mahapatra and I am a Software Developer at Superluminal. 
 
-As a master's student I am currently working with the [BioNLP](https://bio-nlp.org/) team with [Professor Hong Yu](https://bio-nlp.org/index.php/people). 
+I completed my Masters Degree in Computer Science with a concentration in Data Science at the University of Massachusetts, Amherst. I earned my Bachelor's in Computer Engineering from Purdue University. 
+
+As a master's student I worked with the [BioNLP](https://bio-nlp.org/) team with [Professor Hong Yu](https://bio-nlp.org/index.php/people). 
 
 During my undergrad I worked with [Professor Reibman](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=117177) and [Professor Zhu](https://engineering.purdue.edu/~zhu0/) in a group called [Visual Analysis of Animal Behavior](https://engineering.purdue.edu/VADL/index.html) where I created a web GUI that allows research scientists to read data from an Object Tracking model in an intutitve way. 
 
@@ -23,5 +25,5 @@ During the academic year I work with the BioNLP team. I am actively looking for 
 
 My passion lies in software engineering coupled with machine learning. 
 
-In my free time I love to read, play soccer, and sing! 
+In my free time I love to read, play soccer, paint, dance and sing! 
 
