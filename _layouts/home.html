@@ -1,0 +1,216 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ site.title }}</h1>
+            {% if site.description %}
+            <span class="subheading">{{ site.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+        <!-- Pager -->
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        {{ content }}
+
+        <div class="clearfix" align="right">
+          <select name="language" id="choice">
+            <option value="Essays">Essays</option>
+            <option value="Travel">Travel</option>
+            <option value="Science">Science</option>
+            <option value="Paintings">Paintings</option>
+            <option value="LeetCode">LeetCode</option>
+            <option value="Blogs"selected>Blogs</option>
+          </select>
+        </div>
+
+        <!-- <p> The value of the option selected is:
+          <span class="output"></span>
+      </p>
+   
+   
+      <button onclick="getOption()"> Check option </button>
+   
+      <script type="text/javascript">
+          function getOption() {
+              selectElement = 
+                    document.querySelector('#choice');
+              output = selectElement.value;
+              document.querySelector('.output').textContent = output;
+              if(output=="Blogs"){
+                return 'Blogs';
+              }
+              else if(output=="Travel"){
+                return 'Travel';
+              }
+              else{
+                return 'Here';
+              }
+          }
+      </script> -->
+
+        <!-- Home Post List -->
+        {% for post in site.posts%}
+        {% if post.category == 'Blog' %}
+        {% if post.type == output %}
+        <article class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            {% else %}
+            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+            {% endif %}
+          </a>
+          <p class="post-meta">Posted by
+            {% if post.author %}
+            {{ post.author }}
+            {% else %}
+            {{ site.author }}
+            {% endif %}
+            on
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+          </p>
+        </article>
+
+        <hr>
+        {% endif %}
+
+        {% endif %}
+        {% endfor %}
+        <div class="clearfix" align="right">
+          <a class="btn btn-primary justify-content-center" href="{{"/posts" | relative_url }}">View All Posts</a>
+        </div>
+        <!-- <bodyX>
+          <div class="containerX">
+            <div class="lava-lamp">
+              <div class="bubbles">
+              <div class="base"></div>
+              <div id="background-wrap">
+
+              <div class="bubble x1"></div>
+              <div class="bubble x2"></div>
+              <div class="bubble x3"></div>
+              <div class="bubble x4"></div>
+              <div class="bubble x5"></div>
+              <div class="bubble x6"></div>
+              <div class="bubble x7"></div>
+              <div class="bubble x8"></div>
+              <div class="bubble x9"></div>
+              <div class="bubble x10"></div>
+              </div>
+              </div>
+            </div>
+          </div>
+        </bodyX> -->
+      </div>
+    </div>
+  </div>
+
+  <!-- <label for="selectTag">Select Tag:</label>
+<select id="selectTag" onchange="showHideTags()">
+    <option value="paragraph">Paragraph</option>
+    <option value="div">Div</option>
+    <option value="span">Span</option>
+</select>
+
+<p class="paragraph">This is a paragraph.</p>
+<div class="div hidden">This is a div.</div>
+<span class="span hidden">This is a span.</span>
+
+<script>
+    function showHideTags() {
+        var selectElement = document.getElementById('selectTag');
+        var selectedTag = selectElement.value;
+
+        // Hide all tags
+        var allTags = document.querySelectorAll('.paragraph, .div, .span');
+        allTags.forEach(function(tag) {
+            tag.classList.add('hidden');
+        });
+
+        // Show the selected tag
+        var selectedTagElement = document.querySelector('.' + selectedTag);
+        if (selectedTagElement) {
+            selectedTagElement.classList.remove('hidden');
+        }
+    }
+</script> -->
+
+
+<style>
+.bodyX {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #111;
+  color: white;
+}
+
+.containerX {
+  position: relative;
+  text-align: center;
+}
+
+.lava-lamp {
+  position: relative;
+  width: 400px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+}
+
+.base {
+  width: 260px; /* Adjust the width as needed */
+  height: 60px; /* Adjust the height as needed */
+  background-color: #222;
+  position: absolute;
+  bottom: 0px; /* Adjust the bottom position as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 0 0 50% 50%;
+
+}
+
+
+
+@keyframes bubbleAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-40px); /* Adjust the translateY as needed */
+  }
+}
+
+h1, p {
+  z-index: 1;
+}
+
+
+.hidden {
+            display: none;
+        }
+
+</style>

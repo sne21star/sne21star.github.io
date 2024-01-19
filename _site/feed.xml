@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/sneha-mahapatra/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sneha-mahapatra/" rel="alternate" type="text/html" /><updated>2024-01-18T22:47:35-05:00</updated><id>http://localhost:4000/sneha-mahapatra/feed.xml</id><title type="html">Code Isn’t Static</title><subtitle>The Life of a Software Developer</subtitle><author><name>Sneha Mahapatra</name></author><entry><title type="html">American Sign Language</title><link href="http://localhost:4000/sneha-mahapatra/portfolio/2020/01/31/ASL-purdue.html" rel="alternate" type="text/html" title="American Sign Language" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/portfolio/2020/01/31/ASL-purdue</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/portfolio/2020/01/31/ASL-purdue.html"><![CDATA[<h2 class="section-heading">Overview</h2>
+<p align="justify">
+    Many deaf students, whose first language is ASL, want to learn English to not only learn how to read and write, but also communicate with others who may not know ASL. 
+    In order to find a solution to this problem, our team DASL (Digital American Sign Language), aims to create an On-Device, Real Time ASL Translator. 
+    This idea has become a reality by use of Google’s Framework: Mediapipe. 
+    In the future we hope to create our own CNN(for image classification) and RNN(video classification) to translate both static and dynamic gesture and possibly even sentences if time permits.</p> 
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/project/ASL/ASL_2.gif" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>ASL detection using RNN</p>
+    </div>
+</div>
+
+
+
+
+<h2 class="section-heading">Powerpoint Presentation</h2>
+This powerpoint explains at a higher level how this project was created. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdaIRJ5ZFsCKNWIDQhqaAME01Z4XvPkRXd_VT-hlKQBgol8tryG4wQX5H1rW_T52r30z3rniAhKGfr/embed?start=true&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+ 
+<h2 class="section-heading">Hand Gesture Recognition Calculator</h2>
+This is one file within the repository that shows how we embedded and called the ML model into the application 
+
+
+<script src="https://gist.github.com/sne21star/b1a360c9611cd1c2f00b8188530da950.js"></script>
+
+<h2 class="section-heading">Project</h2>
+
+<p>
+The entire code base can be found <a href="https://github.com/sne21star/mediapipe">here</a>.
+</p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Portfolio" /><summary type="html"><![CDATA[Overview Many deaf students, whose first language is ASL, want to learn English to not only learn how to read and write, but also communicate with others who may not know ASL. In order to find a solution to this problem, our team DASL (Digital American Sign Language), aims to create an On-Device, Real Time ASL Translator. This idea has become a reality by use of Google’s Framework: Mediapipe. In the future we hope to create our own CNN(for image classification) and RNN(video classification) to translate both static and dynamic gesture and possibly even sentences if time permits.]]></summary></entry><entry><title type="html">Red Rising</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-red-rising.html" rel="alternate" type="text/html" title="Red Rising" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-red-rising</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-red-rising.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">"I cannot believe there is caste system in society; I cannot believe people are judged on the basis of their prosperity."</h1>
+      <h2 class="effect__subheading">Saina Nehwal</h2>
+    </section>
+</divX>
+
+
+<h2 class="section-heading">Red Rising </h2>
+
+<h2 class="section-heading">Why I Chose It</h2>
+<p align="justify">
+    Besides, my other favorite genres include Science Fiction and Fantasy. With these genres there really is no limit to what the author can write about. I love learning about new worlds, new characters and new super powers that someone can gain or learn. These books offer an escape from reality. When looking up popular books I found *Red Rising* was offered multiple times. Reading into what the book is about, many people said it was a combination between *Hunger Games* and the *Percy Jackson* series, both of which I have read and seen in their respective movies. I liked both books, but definitely loved the Percy Jackson series more. The idea behind these books was novel. Therefore, with the combination I thought I should give *Red Rising* a try.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>The <em>Red Rising</em> Book Cover</p>
+    </div>
+</div>
+
+<h2 class="section-heading">Summary - Spoilers! </h2>
+
+<h2 class="section-heading">Mars</h2>
+
+<p>
+    The book starts off with a memory. Darrow, the main protagonist, is remembering how as a younger child he remained stoic as his father was hanged on live television. The people who televised his father’s death are called “the Society”. This group acts as the government of mankind. Darrow's whole life has been on planet Mars. He has learned how mankind has colonized other planets for the last 700 years. With this colonization, there is a color based hierarchy; on the bottom are the Reds and on the top are the Golds as they are physically superior. When reading the novel I imagined the Red’s as 18th century British people living in the countryside, while Golds were more gentlemen and royalty-like except for their bloodthirsty nature. As a Red himself, Darrow is tasked with the rest of them to mine for helium-3, an isotope of helium, to terraform (the theoretical process of modifying a planet's features such as atmosphere, temperature etc to make it Earth like) Mars to make it suitable for others. He works as a Helldiver–the most difficult job for a Red to assume. He must dangerously drill into Mars to find helium-3. Based on how he dives into this job, we see he is reckless, audacious, and willing to lose his life to accomplish a mission. He is constantly reminded of the greatness of the Gold and he should abide by their philosophies. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://hungrylittlebookworm.files.wordpress.com/2017/04/tumblr_n0mzqpyrns1tstf6do1_1280.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Color Hierarchy in <em>Red Rising</em></p>
+    </div>
+</div>
+
+<p align="justify">
+    Darrow is married to the love of his life Eo. Eo is like Darrow, but even more audacious and reckless. Eo eagerly talks about bringing down the Society. However, Darrow is more cautious about doing so. But, when Eo and Darrow are found in a forbidden area, they are captured. Darrow is whipped and tries to also take the whips for Eo. To no avail, Eo is whipped. Yet, in the middle of the punishment,  Eo starts singing a forbidden folk song to protest against the Red’s enslavement. Mars’ ArchGovernor Nero au Augustus orders his troops to hang Eo while Darrow is forced to watch his own wife hang. He cuts her down and buries her body. This too is considered a crime and he is hanged as well. When he wakes up and finds out he is not dead, he is surrounded by the Sons of Ares. They are a terrorist group of Reds who fight against the oppression of being a “low Color”. He realizes he had been drugged and delivered to this group. This group has adopted the video of Eo’s song and uses it as a way to rally their cause. The group offers to turn Darrow into a Gold so that he can take over “the Society” from the inside. When he refuses, the leader of the Sons of Ares takes him to the other part of Mars where he sees a civilization. He realizes that centuries beforehand Mars had already been terraformed. With this new revelation, recognizing all of his efforts had been in vain, and Eo’s unjust death, he immediately accepts the offer.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6uSx_jUHWrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><em>A fan made video of what the song Eo sang would have sounded like</em></p>
+
+<h2 class="section-heading">Violet</h2>
+
+<p align="justify">
+    Wanting to make his Eo’s death meaningful, Darrow decides to go with the plan of changing himself to Gold. He is taken to a club-like place with members of the Son of Ares where he meets a Violet named Mickey. While Red’s are known for being workers and terraformers, Gold known for being superior, violets are known as carvers. Mickey successfully transforms him into a Gold. But, the process is done through many excruciating surgeries and implants. Once the entire physical process is complete, he learns a new identity. He is now a Gold “student” studying to be accepted in the Golds’ Institute.
+</p>
+<div class="polaroid" align="justify">
+    <img src="https://i.ytimg.com/vi/yfc6AiN7cHU/maxresdefault.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Darrow and other members of the Son of Ares in a club filled with other Violets</p>
+    </div>
+</div>
+
+<h2 class="section-heading">Gold</h2>
+<p align="justify">
+    This elite school is for the best of the best Golds. In order to gain entrance into the school, Darrow must pass a test. Darrow is the only student that attains a perfect score. He is accepted into the Institute under the pretense of a perfect Gold student. In the Institute, the students are divided into twelve Houses: Apollo, Bacchus, Ceres, Diana, Juno, Jupiter, Mars, Mercury, Minerva, Neptune, Pluto, Venus, Vulcan. After arriving at the Institute, he befriends Cassius au Bellona, who is charismatic and arrogant. He makes swift enemies with Antonia au Severus who is cold. When meeting with the Golds, Darrow has mixed feelings about being around them but he remembers Eo and is swiftly brought back to reality. 
+</p>
+
+<p align="justify">
+    Darrow is selected for the House of Mars by Proctor Fitchner. Members of the House of Mars are known for having a fiercely aggressive personality. However, they can lose stamina easily. Completing the Placement test is the first part of “the Passage”. Completing the Passage, especially in the top, will give the student the greatest opportunities. For the second part of the Passage, the 100 new students in each of the twelve houses are paired with another house member–tasked to kill each other. Darrow is forced to murder Cassius’ brother Julian to survive. Darrow sees that Julian is significantly weaker than he is, and understands the Institute is using this brutal test to remove the weaker half of the students. After killing Julian, Darrow knows he cannot tell Cassius as he is an ally and cannot make enemies here. When Cassius learns of his brother's death, he becomes filled with cold anger. He confides to Darrow that he tried his best to teach Julian how to fight and tried to deter him from joining the Institute. He is heartbroken that despite this, Julian ended up dying.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://cdn.shopify.com/s/files/1/0374/1499/4053/products/kiss-cut-stickers-4x4-5fd68c437473d_1200x1200.jpg?v=1607896136" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>House of Mars emblem</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">The Game </h2>
+<p align="justify">
+    The third part of the Passage includes each House being assigned a fortress and a scepter. The scepter is called a standard. This is what each House must protect within the Institute's confines with their goal also being to enslave all the other houses with the standard. Within the Mars House itself, it is fractured into four different groups: Darrow and Cassius, Antonia, Titus au Ladros, and Servo. Titus has been going on a violent rampage, attesting true to his house’s characteristics. Meanwhile, Darrow and Cassius have been withholding matches needed to cook food from the other groups in the Mars household.
+
+</p>
+
+<p align="justify">
+    With Titus’s violence going to make it easier for other houses to bring them down during the Winter time, Darrow manipulates House Minerva, led by a person named “Mustang”, and allows her and her troops to take Mars’s fortress and imprison Titus. In the meantime, Servo and Darrow together steal Minvera’s standard and trades it with Minvera to reclaim Mar’s castle. Darrow becomes Primus of Mars with Servo and his group declaring their loyalty to him. When Darrow goes to meet Titus, Titus starts to ramble and says the word “bloodydamn”. From his manner, Darrow realizes that Titus was also originally a Red. Due to this, Darrow sentences Titus to death. Titus is executed by Cassius as he was humiliated by him. While fighting the other Houses such as Ceres and Diana, a mysterious person by the name of Jackal has been thwarting Darrow’s intentions every step of the way. Jackal gives a huge blow to Darrow when he sends a “holo” to Cassius showing that Darrow killed Julian. Cassius and Darrow engage in a duel where Cassius strikes him with an ion blade. Thinking Darrow is dead, he leaves him in the Snow.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://i.pinimg.com/originals/79/9d/5f/799d5f511ee1a2a10672fb933f252bc6.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Fan art of  characters in <em>Red Rising[1]</em></p>
+    </div>
+</div>
+
+<p align="justify">
+Mustang finds Darrow and nurses him back to health for a whole month. Unfortunately, she herself falls sick and needs antibiotics to survive. When looking for it, Darrow runs into his Procter Fitchner. Fitchner discloses to Darrow that this game has been rigged so that Adrius, the ArchGoverner’s son will win. Therefore, if he tries to hinder the Jackal’s or Adrius’s plans, the other proctors Jupiter and Apollo will kill him.  
+</p>
+
+<p align="justify">
+Darrow and Mustang discuss the way to win the Game. He realizes that keeping slaves was not the right strategy, remembering how the Society had treated the Reds. Therefore, he and Mustang devise a plan to free all the slaves. He reunites the House of Mars and leads them to house Apollo. Darrow captures the house but does not manage to capture Proctor Apollo. Darrow’s next target becomes the Jackal. When scouting for him, a boy named Lucian invites Darrow and his army into Jupiter’s castle. There, Darrow and Lucian talk and Darrow figures out that Lucian is from House Pluto, not Jupiter. He captures Lucian by stabbing his hand to the desk. Darrow has also deduced that Lucian is the Jackal when Lucian, accidentally, lets something slip. Darrow facetiously offers Lucian to set himself free if he cuts his own hand off. Lucian does so without any hesitation and in Darrow’s surprise, escapes. 
+</p>
+
+<p align="justify">
+During this time, Apollo captures Mustang and blackmails Darrow into giving up. However, Darrow is able to kill the Proctor with a special weapon given to him by Fitchner. Now having killed a proctor, Darrow goes to house Olympus where all the other Proctors are and captures them all. He frees Mustang and asks her to capture the Jackal. However, he learns from Fitchner that Mustang is actually Virginia au Augustus–twin to Lucian. He thinks he has been duped and prepares his army for another battle only to see that Mustang was loyal to him all along and gives him her twin. 
+</p>
+
+<p align="justify">
+Darrow won the game and is given a choice of a patron who can sponsor his future. ArchGovernor Augustus offers him his support. Even though this was the same man who killed his wife and almost killed him, he knows that in the grand scheme of things Augustus will give him the best opportunities to take down the Golds from the inside. He acquiesced the ArchGovernors offer. 
+</p>
+
+<h2 class="section-heading">Review</h2>
+
+<h2 class="section-heading">Fast Paced with a Beautiful Beginning and a Powerful Ending </h2>
+<p align="justify">
+Pierce Brown’s writing was fast paced and intriguing. With each of the chapters being short, I couldn’t help but continue on to the subsequent chapters. Each chapter was well paced and always had an intriguing detail or plot point. I couldn’t put the book down. The way Brown described different worlds, like Darrow’s home and Mars’s landscape, was incredible. I felt as if I could actually see it. The ending of the novel was also well done. The twists and turns such finding out about the Arch Governor's role in Eo’s death and him being Mustang’s Father, was unexpected. Reading about the Game was also very entertaining, but it felt very familiar.
+</p>
+
+<h3 class="section-heading">Hunger Games with Percy Jackson Flair </h3>
+<p>
+    After finishing the book I realized that the “Game” was almost parallel to games in the <em>Hunger Games</em> because there were many ideas and plot points that were the same. For instance, instead of twelve houses there were twelve districts in the <em>Hunger Games</em>. There were Proctors who were Roman Gods in <em>Red Rising</em>, there are Proctors in the <em>Hunger Games</em> for each district and in the <em>Percy Jackson</em> series as well (they were Greek, however, there is a separate series that is part of this universe that has Roman mythology). The idea that the entire game is rigged is another, holos–a technology devices used to communicate with Proctors and “participants”, having one of the main characters be hurt while someone nurses them back to health, etc. It felt exactly like the <em>Hunger Games</em>. I loved the beginning and the ending of the book, but the middle, while thrilling, was not original. I can only described the first book as an “adult” <em>Hunger Games</em>.
+</p>
+
+
+<div class="polaroid" align="justify">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Hunger games </em>cover</p>
+    </div>
+</div>
+
+<div class="polaroid" align="justify">
+    <img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/enhanced/44273591e5ab/enhanced-1985-1590614748-1.png?output-format=jpg&output-quality=auto" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Katniss is nursing Peeta back to health after he is hurt by other kids in the Games</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Quotes that stuck with me</h2>
+<h6><em>“Funny thing, watching gods realize they’ve been mortal all along.”</em></h6>
+<h6><em>“Personally, I do not want to make you a man. Men are so very frail. Men break. Men die. No, I’ve always wished to make a god.”</em></h6>
+<h6><em>“They pushed and pushed for so long. They knew I was something dangerous, something different. Sooner or later, they had to know I would snap and come to cut them down. Or perhaps they think I'm still a child. The fools. Alexander was a child when he ruined his first nation.”</em></h6>
+<h6><em>“There is a flower that grows on Mars. It is red and harsh and fit for our soil. It is called haemanthus. It means 'blood blossom.'"</em></h6>
+
+
+<h2 class="section-heading">Future</h2>
+<p align="justify">
+    Although this is a series, I am not sure if I want to continue reading it. With most books, I am eager to wait for the next book. Despite the fact that all the books have been released I still don’t have that drive to read the next book. It might be because I am stressed out for grad school starting soon but usually my joy for reading supersedes that. The next title in the Series is called Golden Son.  Some reviews say it is very good, but not great. It has the same pace as the first book but has a different plot point from the Hunger Games so maybe I will give it a try. However, as of right now I am reading a Sapiens: Brief History of Humankind. Once I finish that I will see if I want to continue this series or try another universe.    
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://m.media-amazon.com/images/I/51iGvbVBQfL.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Golden Son</em> the next book in the series</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Citations</h2>
+<p>
+    <a href="https://www.deviantart.com/scillavega/art/Red-Rising-character-doodles-598312645">[1]</a>
+</p>
+<p><a href="https://en.wikipedia.org/wiki/Red_Rising">[2]</a></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Hunger_Games">[3]</a></p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["I cannot believe there is caste system in society; I cannot believe people are judged on the basis of their prosperity." Saina Nehwal]]></summary></entry><entry><title type="html">AMIA</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-AMIIA.html" rel="alternate" type="text/html" title="AMIA" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-AMIIA</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-AMIIA.html"><![CDATA[<divX>
+<section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+  <h1 class="effect__heading">"Eventually, doctors will adopt AI and algorithms as their work partners. This leveling of the medical knowledge landscape will ultimately lead to a new premium: to find and train doctors who have the highest level of emotional intelligence." </h1>
+  <h2 class="effect__subheading">Eric Topol</h2>
+</section>
+</divX>
+
+
+<h2 class="section-heading">AMIA 2022</h2>
+
+<h2 class="section-heading">About</h2>
+
+<p align="justify">
+When joining Umass Amherst, I was lucky to join a research group as a Master research student. 
+The research group, Biomedical Informatics Natural Language Processing, aka <a href="https://bio-nlp.org/index.php">BioNLP</a>, is led by Professor Hong. 
+The group uses Natural Language Processing to aid and advance medical techologies and methods. 
+Specifically, my research project is QuikAces: developing a mobile application to help those of low income find food pantries. 
+The abstract is listed in the section below. My team and I published our abstract to the <a href="https://amia.org/about-amia">AMIA</a> conference (American Medical Informatics Association). 
+According to AMIA they are <em>"a community committed to the vision of a world where informatics transforms people’s care. Over the last 35 years, the use of informatics has grown exponentially to improve health and to make better healthcare decisions. 
+Today, informatics is the key to accelerating the current goals of healthcare reform."</em>
+</p>
+
+<h6><em>Every day millions of people benefit from informaticians' ability to accelerate healthcare’s transformation by collecting, analyzing and applying data directly to care decisions. Data produced throughout health and healthcare is the driving force of informatics and its ability to innovate critical advancements that directly benefit people. AMIA’s members are critical to discovering these insights, which is why AMIA is committed to being the professional home for the informaticians of today and the driver of informatics’ future."</em></h6>
+
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/AMIA/amia1.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Royal Sonesta - Houston, Texas</p>
+    </div>
+</div>
+
+<h2 class="section-heading">Abstract</h2>
+
+<p>
+There are people that are in need of social resources and programs that can aid them with Finances, Health Care, Food Insecurity, etc. 
+When one does a quick Google search we can see that there are a plethora of different programs available. 
+Not many people know that these resources exist and the amount of information is overwhelming. 
+Therefore, sifting through all the information to find a tailored program, or a resource that fits a certain individual is difficult. 
+Furthermore, not everyone has access to this technology or understands how to look for resources themselves. We decided that building a Social Determinants of health (or SDOH) app would be the best way to solve this problem. 
+And after consulting with different groups and panels such as the Homeless Veterans Engagement Panel, they seemed enthused as well.
+With this wealth of information, which are the resources and programs scattered across the internet, we need to be able to extract and centralize this information (which we will be using a web crawler and NLP for). 
+And then, once the information is centralized and analyzed, we can present the information to the user in an intuitive manner in the form of a mobile SDOH application. 
+The Application consists of 4 main components which are Mapping, Stories, Finding, and Reviews.
+
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/AMIA/amia2.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Poster for QuikAces</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">My Research </h2>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEwcP8_6Rr3ApER_EcWyBsVtS4I0IemxtiW-xlxTWYA7AzNEtRzqwxkz9NQBmGlBn2s5Hn3WEV_1B0/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<h2 class="section-heading">New Research </h2>
+
+<p align="justify">
+This year, the conference was held at the Royal Sonesta in Houston, Texas. 
+The conference was from May 24th-26th, however due to a family trip I was late on the 24th day and I unfortunately missed a workshop. 
+However, if you ever visit a conference I suggest going to the workshops they provide. 
+It will give you a chance to network with others and also learn something new in research world. 
+Towards the evening of the 24th day, I attended a meeting called women in AMIA. 
+It was a chance to network with women who are part of the AMIA world. 
+I talked to different people who worked in various fields and were at different stages in their career. 
+I talked to physicans, data scientistcs, computer science students, and many more. 
+Attending conferences such as these that have people of many backgrounds is a great way to learn new information and see how others view each field and how they integrate them in their own line of work. 
+I was surprised to learn that many physicians are taking machine learning and data science courses. 
+This is necessary however, because as we start integrating this topics in the medical world, it is imperative for the people using this technology to understand how it works. 
+Otherwise it is considered a breach in ethics. 
+
+</p>
+
+<p align="justify">
+During the 25th day, I attend all sorts of talks from the morning until I had to give my presentation in the afternoon. 
+The talk that caught my attention was "Predicting Risk of Progression to Severe Covid-19th in Southwestern Pennsylvania: A Two-Year Journey" by Helen Zhou, Kelly J Shields, Cheng Cheng, Gursimran Kochhar, Tariq Cheema, Zachary C. Lipton and Jeremy C. Weiss. 
+The presenter, Helen Zhou, spoke about how she and her team developed a machine learning model to track the progression of becoming infected with the COVID-19 virus. 
+Zhou also spoke about the durability of her model and how it is able to perform well despite having two years pass. 
+This is critical in the machine learning world.
+It is great to have a model work now and give an accurate score, how well does the model hold up 10 years down the line? 
+Even if it works great now, it needs to be able to produce the same quality afterwards, otherwise it is not productionable. 
+
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/AMIA/amia4.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Me!</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Conclusion</h2>
+<p align="justify">
+Presenting at the conference was an amazing experience. 
+Although my career path is heading away from the academia world, it is great learning about these experiences and I hope there is more to come! 
+</p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["Eventually, doctors will adopt AI and algorithms as their work partners. This leveling of the medical knowledge landscape will ultimately lead to a new premium: to find and train doctors who have the highest level of emotional intelligence." Eric Topol]]></summary></entry><entry><title type="html">WWDC21 Swift Student Challenge</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-WWDC21.html" rel="alternate" type="text/html" title="WWDC21 Swift Student Challenge" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-WWDC21</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-WWDC21.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">"The most damaging phrase in the language is "It's always been done this way" </h1>
+      <h2 class="effect__subheading">Grace Hopper</h2>
+    </section>
+</divX>
+
+<h2 class="section-heading">Introduction</h2>
+
+<p align="justify">
+    After working on my Senior Design project, I became more interested in Swift and Xcode. Working on developing the App for the project was a huge struggle as I was the only one on my team to work on it plus I never had experience with Swift, however, under that pressure I learned a lot about the language and libraries involved. I had been interested in App Development for some time, especially creating application games, but every time I tried to learn it seemed pretty complicated and I never pursued it further. Now, I had a solid foundation, therefore, learning about new topics in this realm seemed more feasible. When I was creating the application for Senior Design I had used my email to set up an Apple Developer account and would receive emails about Apple products and such. Apple sent an email about the  <a href="https://developer.apple.com/wwdc21/swift-student-challenge/">Student Swift challenge</a> were students take part in creating innovative programs using <a href="https://www.apple.com/swift/playgrounds/">Swift’s Playground</a>–An interactive way to develop new apps without any coding experience. 
+</p>
+
+<h2 class="section-heading">Why I entered </h2>
+
+<p align="justify">
+    Even though the starting age of the competition was 13, a competition for seemingly younger people, it is never too old to start something new! Sometimes we are quick to leave or not try something because we think it's too hard, or not applicable for us; trying something new allows us to find subjects we never thought we would end up liking and changing our direction for the future. 
+</p>
+
+<h2 class="section-heading">What did I create </h2>
+
+<p align="justify">
+    With the pandemic still looming over our head, I thought it would be a great idea to add some levity by creating a <a href="https://github.com/sne21star/WWDC_21/blob/main/images/example.gif">Coronavirus Game</a>. This game consists of 4 antibodies, 5 antigens including a coronavirus, and also a vaccine. The goal of the game is to match the right antigen to the right antibody. The player scores points by destroying an antibody with the coronavirus scoring one more points. If the coronavirus hits a blood cell then the player loses points. The player must score 500 points to win the game. 
+</p>
+
+<p align="justify">
+    With the goal of the game in mind, I will break down how I created this game from start to end in addition to what I want to improve on for the future. 
+</p>
+
+<h2 class="section-heading">Breakdown: Research</h2>
+
+<p align="justify">
+    Research is one of the most important parts of any project. This is the starting place of any project and roughly shapes the project that will ensue. However, many people do not know how to research certain things. With the wealth of information that is out there it seems like one should be able to find anything and everything. However, sometimes finding information one wants is like finding a needle in a haystack. Learning how to search for information is vital to any type of work. When working with this type of competition, the best thing to do first is to research what the Competition is about and read the instructions carefully. While creating my project I was under the assumption that my playground could only be 25MB and I was having a difficult time trying to reduce the size of my playground. However, when reading through the instructions again I learned that the zip file itself had to be 25MB and I realized I wasted some time in something that did not need to be done.
+</p>
+    
+<p align="justify">
+    The famous Pablo Picasso said <em>"Bad artists copy. Good artists steal"</em>. Copying and pasting code makes one a bad programmer and also a cheat (well duh of course). But a good programmer absorbs the methods and ideas that really good code presents. That is why researching winners beforehand is a great way to shape one's project. It gives one an idea of what one should strive to achieve. 
+</p>
+
+<p align="justify">
+    Lastly, when researching the best course of action is not only to research what one wants to do, but to set one's self up with resources that teach one new things. If one has never worked with Swift Playground or any of their libraries, it is always important to take the time to learn how to use it. Before this competition I had no idea how to work with Swift and Playground. I had worked on app development for my Senior Design project but I had written it in Objective C. Therefore, Swift was a little new to me. In addition, I had decided to create a video game, therefore there were certain topics I had to learn such as Event handler, Touch events etc. In order to best learn about something one has to understand what type of learner one is. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://i.pinimg.com/originals/61/59/0e/61590ef361e033db606650c9b257a400.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Types of Learners</p>
+    </div>
+</div>
+
+<p align="justify">
+    I myself am a visual and kinesthetic learn, meaning I must be able to see what I want to learn and also have some type of hands on activity to learn. Therefore, I used Swift’s Playground tutorial  “Blu’s Adventure” to learn about all these tools. While this is clearly made for a younger audience it took away the intimidation of learning how to code in Swift. As a visual learner, I also looked at many youtube tutorials and coded alongside the person to learn about more tools. In this day and age with Stackoverflow, Medium and Github it is very easy to see code and get the urge to copy and paste it. I am not going to lie, there are some days where I take 5 lines of code copy and paste it and if it works I just call it a day and leave. However, this method ends hurting one in the end. When one does not understand each line of code, it becomes extremely difficult to look at one's code as a whole and explain to people what it does. One cannot improve upon one's code and one may end up abandoning that project. Taking the time to go through the code and understand line by line what it means will give one more control over the project and help one amend it to one's own project. Watching tutorials on Youtube forces one to slow down and understand the code fundamentally. For this project specifically I followed this <a href="https://www.youtube.com/watch?v=kwtIMRkxxaA">tutorial</a>. It was similar to what I wanted to do in the end and I decided to follow this tutorial to understand Swift Playground in more depth. 
+</p>
+
+
+<h2 class="section-heading">Brainstorm</h2>
+
+<p align="justify">
+    When brainstorming a programming project there are multiple parts one has to be aware about. In this case however, I did not pay too much attention to the structure of the project. I was really excited to create this game and I coded what I needed along the way which is not the best way to create a program. In the section of Improvement I go over what is the best way to create the architecture of the project. 
+</p>
+
+<p align="justify">
+    Because Swift playground is dedicated to helping people learn I thought it would be a great idea to create a game that taught students about antibodies and antigens. I decided to create 4 generic antigens with different colors and 1 coronavirus with their respective antibodies and vaccines. When brainstorming however to create the game, I completely forgot to plan out creating a tutorial for students to understand how to play the game. Adding a tutorial would have taught the students about the game before actually starting. Because I did not plan ahead as much I struggled having a structured project. 
+</p>
+
+<p align="justify">
+    However, the little time I did spend to brainstorm I mapped out the rules for the game and the objects that would be in the game. For any game one plays there are 2 overarching rules to start with: how to win and how to lose. From there it is now just a bunch of ways to get one closer to winning or closer to losing. To keep track of winnings and losses there has to be a point system. This point system will have different parts that it will keep track of. 
+</p>
+
+<h2 class="section-heading"> How To Play</h2>
+
+
+<p align="justify">
+    For this game, I planned on creating a time limit game (2 minutes). To win the game, the player must earn 500 points or more at the end of the game. The “player” is the user. The game takes place inside the capillaries where blood vessels flow in the body. In addition, floating around the blood vessels are antibodies and antigens. Antibodies are natural blood proteins created to fight against a specific antigen. Specific antibodies can only destroy specific antigens.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antibody.svg/1200px-Antibody.svg.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Antibody Diagram</p>
+    </div>
+</div>
+
+<div class="polaroid" align="justify">
+    <img src="https://www.microscopemaster.com/images/diagramofantibody.png?ezimgfmt=rs:566x327/rscb24/ng:webp/ngcb24" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Antigen Diagram</p>
+    </div>
+</div>
+
+<p align="justify">
+    Therefore, I created 4 antibodies and 4 antigens, where each antibody corresponds to a specific antibody. Each antibody has a different color and different antigen-bonding site. The player must drag the matching antigen to the matching antibody to destory the antigen. For every antigen they destroy they win certain number of points. In addition to the antigens is also the Coronavirus. The coronavirus can only be destroyed using the vaccine to parallel users needing the vaccine as they do not have the antibodies for the coronavirus yet. An exhaustive list of rules can be found  <a href="https://github.com/sne21star/WWDC_21/blob/main/README.md">here</a> 
+</p>
+
+
+<h2 class="section-heading">Create</h2>
+
+<p align="justify">
+    To create the gameScene and functions needed used to move the objects I followed a series of Youtube videos listed above in the research section. To create the nodes I used <a href="https://developer.apple.com/">apple’s documentation</a> and to create the animations I followed this blog. 
+</p>
+
+<h2 class="section-heading"> <a href="https://developer.apple.com/documentation/spritekit/skspritenode">SpriteNode</a></h2>
+
+<p align="justify">
+    A SKSpriteNode is exactly like a SKNode however there is an added component of visual objects. When working with a visual object one should use SKSpriteNode to represent it. 
+</p>
+
+<div class="polaroid center" align="justify">
+    <img src="https://raw.githubusercontent.com/sne21star/WWDC_21/main/CoronavirusGame%20copy.playground/Resources/antigen_blue.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>SKSpriteNode used for Antigens</p>
+    </div>
+</div>
+
+<h2 class="section-heading"> <a href="https://developer.apple.com/documentation/spritekit/skphysicsbody">Physics Body</a></h2>
+
+<p align="justify">
+    A Physics Body is an object that can be added to a SKSpriteNode that allows users to apply physics calculations to the node without having to do the calculations themselves. The user can also add there own forces or impulses amongst the existing ones such as gravity, friction and collision. I recommend adding one's own forces and impulses and first understanding how one's object should move before adding values to one's forces. 
+</p>
+
+<a href="https://developer.apple.com/documentation/uikit/uiresponder/1621142-touchesbegan">Touches Begin/Moves/Ended + DidBegin</a>
+
+<h3 class="section-heading">Touches Begin </h3>
+
+<p align="justify">
+    This is one of the many functions part of the UIKit. Here in touches begin the programmer essential declare which objects or nodes in one's game one is allowing the user to move. 
+</p>
+
+<p align="justify">
+    In addition adding an offset would be beneficial to allow the user to still see the object and moving it further towards the direction the user wants the object to move. 
+</p>
+
+<h3 class="section-heading">Touches Moved </h3>
+<p align="justify">
+    This function runs the actual action and moving the object. 
+</p>
+
+<h3 class="section-heading">Touches Ended</h3>
+<p align="justify">
+    This function ends the movement of the node. 
+</p>
+
+<h3 class="section-heading">DidBegin</h3>
+<p align="justify">
+    The didBegin function is used to run actions when two physics body contact each other. For example in this game, if an antigen hits a blood cell I want to lower the points of tthe user. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://raw.githubusercontent.com/sne21star/WWDC_21/main/images/example.gif" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Example of someone moving a node</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Components</h2>
+
+<h3 class="section-heading">UI Buttons and Labels</h3>
+<p align="justify">
+    The <a href="https://developer.apple.com/documentation/uikit/uibutton">Buttons</a> and <a href="https://developer.apple.com/documentation/uikit/uilabel">Labels</a> are what their name suggest. Each are part of the UIKit library and have certain attributes given in the Apple Documentation that helps the user integrate those values into the game. 
+    
+</p>
+
+<h3 class="section-heading">Animations </h3>
+<p align="justify">
+    For the animation of the antibody and vaccine nodes: 
+
+    <ol>
+        <li>I created the body of using Google Drawing.</li>
+        <li>I found gifs of eyes moving and placed them ontop of the body. </li>
+        <li>Then I screen recorded (cmd+shift+5 on mac) the eye gif ontop of the antibody.</li>
+        <li>Lastly I used this <a href="https://ezgif.com/video-to-gif">website</a> to convert it from a video to a gif. </li>
+        <li>Once I had the gif ready, I created a list of images from the gif (a gif is a series of images) and created a list of SKTextures which the node loops throughout the game.</li>
+    </ol>  
+        
+</p>
+
+
+For more information check out this blog <a href="https://www.raywenderlich.com/5304228-ios-animation-tutorial-getting-started">here</a> 
+
+<h3 class="section-heading">SK Actions</h3>
+<p align="justify">
+    This <a href="https://developer.apple.com/documentation/spritekit/skphysicsbody/about_collisions_and_contacts">post</a> in the apple documentation cleanly describes how the collisions and contacst are used in the code. I recommend doing this tutorial and finding another tutorial to understand how it works on a much deeper level.   
+</p>
+
+<h3 class="section-heading">Improve</h3>
+<p><em>Once we accept our limits, we go beyond them.</em></p>
+<p align="justify">
+    This <a href="https://developer.apple.com/documentation/spritekit/skphysicsbody/about_collisions_and_contacts">post</a> in the apple documentation cleanly describes how the collisions and contacst are used in the code. I recommend doing this tutorial and finding another tutorial to understand how it works on a much deeper level.   
+</p>
+
+
+<h3 class="section-heading">Brainstorm </h3>
+<p align="justify">
+    When brainstorming any project there should be more time devoted to planning out, discussing, revising, and writing pseudo code than there should be for sitting at a computer and actually programming the information. There are tons of resources out there to help one's code, make one's code faster and cleaner. But there is no resource out there to create something that originated from within. One need to be confident and understand every single aspect of their code for them and others to know if it works. Even when I lecture my younger brother, an aspiring computer science student at the University of Wisconsin, Madison, to plan out his code and write pseudo code for his projects, I myself did not plan this out ahead as I should have. Furthermore, after creating this project even if I did create a tutorial or added other levels to the game, there would still be more to do and more to improve on. It is very important to understand that code is never static. There will always be something to improve on. 
+</p>
+
+<h3 class="section-heading">Designs</h3>
+<p align="justify">
+    When creating games such as these it is better to approach these with a sense of Object Oriented Programming. The most important feature of Object Oriented Programming is the hierarchial structure it gives the user. This makes it easier for multiple programmers to work on as it is very organized and it removes duplicate code thus saving more time and energy. However, I did not plan game with that intent and therefore had many duplications in the code. 
+</p>
+
+<h3 class="section-heading">Functions</h3>
+<p align="justify">
+    When writing a function it is always good to keep certain unspoken rules in mind (rather software engineering principles). When working with integer values it is always good to use Constants or Macros, depending on the language one uses, rather than primative ints. Working with constants can sometimes slow down one's program, it will remove any heaches one gets when revisting their program. If the programmer writes the program with the idea in mind that this program will work on a 13"" X 13"" screen, they will most likely use this information multiple times in your code. However, the problem is when the dimensions of the screen changes than one has to scroll through every line and find all the values and change them. Ofcourse, ctrl+f saves lives, but wouldn't it be easier to just change a single line in the entire code and make monumental changes. That is why using a constant and then calling it in the places needed save a lot of time for the user.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/WWDC/constants.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Numbers are used rather than constants</p>
+    </div>
+</div>
+
+<p align="justify">
+    Another mistake I made when coding was using if statements when I should have used switch cases. The purpose of using an if statement is to check certain conditions and see if they meet the conditional statement. However, with if statements we are assuming that function needs to check as many conditional statements until it finds the right one before entering such statement. One can see that if the condition I used was towards the bottom, the function would be taking much more time then necessary. However, with a switch statement I do not need to check all the statements; I need to find a specific statement that matches the parameter I have passed in. In the picture below one can see I wrote "if node == this vaccine or node == to this other vaccine" I was unnecessarily checking statements I did not need to check. If my node is vaccine1 then I want to go straight to vaccine1's statement and carry out its' respective actions. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/WWDC/switchcasevif.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>If statements used rather than switch cases</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">End Note</h2>
+
+<p align="justify">
+    As one can see, programming is a very long process which does not really require as much time coding. Programmers have that certain itch where they want to start coding right away, press the green run button and see results. If it fails, they want to "hack" their way through until the compiler finally runs their code. But this methodology NEVER works. Believe me, anytime I had project at school and I rushed ahead to solve it, I always found myself debugging the code for hours on end. One of the greatest and most precious thing I have ever learned in college is that writing pseudo code and planning out the code is always the best course of action. Now, there are probably some people out there who will disagree with me–stating that pseudo code is a waste of time. They do end up programming faster and getting results, but their program is more likely to fail in the long run. Taking one step at a time and creating a much more structured, organized code will always be the best course of action. </p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["The most damaging phrase in the language is "It's always been done this way" Grace Hopper]]></summary></entry><entry><title type="html">Childhoods End</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-childhoodseend.html" rel="alternate" type="text/html" title="Childhoods End" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-childhoodseend</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-childhoodseend.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">"When the Hindu says the world is Maya, at once people get the idea that the world is an illusion" </h1>
+      <h2 class="effect__subheading">Vivekananda</h2>
+    </section>
+</divX>
+
+<h2 class="section-heading">Childhood's End</h2>
+
+<h2 class="section-heading"> Why I Chose It</h2>
+
+<p align="justify">
+    It's been a long time since I have posted anything. Grad school hit and my goals that I had thought that I would diligently stick with throughout this journey suddenly became side thoughts. Who knew grad school would be so exhausting. However, I have come across the second, albeit, smaller break after Winter break. Only, unlike the latter, I do not have anything extremely pressing to accomplish. Therefore, I decided I should start up this blog again, and start reading again. So many books to read and yet such little time. 
+    When researching for books to read more fantasy books to read, many sources had assured of novels by Arthur C Clarke. His most famous work is *A Space Odyssey*. This was my first choice, but after learning it's a series, and knowing my inexorable curiosity for the ending of a story, I thought it would be best to read a stand alone novel. Many people were giving good reviews for it and it was also awarded the Hugo Award in 1954 Therefore, I decided to read it. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628l/414999.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>The <em>Childhood's End </em>Book Cover</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Summary - Spoilers!</h2>
+
+<h2 class="section-heading">Earth and the Overlords </h2>
+
+<p align="justify">
+    The first chapter opens up with the Space Race between the United States and Russia (then the Soviet Union). They are going head to head to see who can launch a spacecraft that will reach mars. However, both their intentions are founded in military use, not scientific. Just before it started, however, UFOs were found to be above major cities around the world. The first chapters concluded with an eerie sentiment: humans were no longer alone. 
+    Rikki Stormgren, the secretary general of the United Nations discusses with his assistant Pieter Van Ryberg about the UFO’s. These vast spaceships are controlled by aliens, but nobody can see who they are. However, Stormgren makes first contact with an alien. He enters a room on the ship where there is a division between him and the alien, and therefore he still cannot see them.  The alien introduces himself as Karellen. Stormgren is eager to understand what his intentions are. On the sixth day of his arrival Karellen sends out an uniformed message to all of earth. He essentially claims that he will supervise all of earth's affairs to prevent humanity’s extinction. Different nations take different approaches to Karellen and his spaceship's arrivals. 
+    One nation tries to nuke his spaceships, and when South Africa does not stop its apartheid, Karellen blocks out the sun until they do end it. After some time, humanity names Karellen and his race as “Overlords”, many people treating them as religious figures.
+    With many people wanting to see the aliens' true form, and Karellen claiming he will only reveal himself after 50 years, Stormgren's curiosity becomes unbearable. One day he brings a flashlight and attempts to see Karellen’s form. He manages to be able to see a bit of his form, but whatever he sees shocks him. He decides to keep quite about what he found.  
+</p>
+
+
+<div class="polaroid" align="justify">
+    <img src="https://cdn.mos.cms.futurecdn.net/gRb7hf7FKqd2kU4VsCfr6J.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>An artistic rendition of the Overlords ship</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">The Golden Age</h2>
+<div class="polaroid" align="justify">
+    <img src="https://i1.wp.com/www.tor.com/wp-content/uploads/2015/12/childhoods-end-part-2-karellen-party.jpg?type=vertical" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>The Overlord Karellen depicted in the miniseries developed by Matthew Graham</p>
+    </div>
+</div>
+
+<p align="justify">
+    After 50 years, Karellen is finally ready to reveal his form. Before descending he asks two children to come up to the ship. The ships sucks them in. He then emerges. With the two children on his shoulders. What everybody sees shocks them. He looks just like how Christianity described the Devil to be. 
+    Soon Earth turns into an utopia. There is a huge advancement in technology, taxes are gone (truly an utopia!), crime rates are at an all time low, and religion is no longer a prominent part of humanity. 
+    Since 50 years have passed, we move away from the perspective of Stormgen to another set of characters. After the Overlords give humanity the “golden age of prosperity”, they ask for something in return. They want to be able to further their knowledge in psychic research. One Overlord, Rashaverak,  is particularly interested in a book collection owned by Rupert Boyce.  Boyce, excited of having Rashaverak in his home, invites his friends:  Jan Rodricks, George, Jean, his wife, and the Shoenbergers.
+    Boyce also brings a Ouijia board to the party where everybody participates. While asking a question, Rodricks asks for the identity of the Overlords’ home star. The ouija board spells out NGS 549672.  Jan, although a skeptic of the occult, realizes this is a logical answer. He knows this is a star-catalog number, found in the constellation Carina and is consistent with the direction in which Overlord supply ships come from.    
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGBgaHB0eHRoaGh4cHhkcGhwcGhoeHBwcIS4lHCErIRwaJjgmLC8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQrISs0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKMBNgMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAAAAQIDBAUGB//EADIQAAEDAgMHBAICAwADAQAAAAEAAhEhMUFRYQMEEnGBkfChscHR4fEFIhMyQhRy4lL/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAlEQEBAQABBQACAgIDAAAAAAAAARECAxIhMUEEkVFhcYEiMsH/2gAMAwEAAhEDEQA/APylpFZBMikGIMipoZETSlxWlXx0AgUnmZzzSa3zPz4TpGM+kLqjEkKmtLiBSdSGjqTAHMpHzzBGBRYRcHH0v7juohMpoACHDWdemqY90kyE4IhVU6k0+EcKQSUzXz28wQRdKEGbWEzoJPcDrUhJMAefaYF/zP0gEwfdkoVR555RIIJTRS1LeeYqFQC02bRrWxtXWhRgZtmmn7TIxpX7P0ghACAAFQ8GaHxP9ZjCanqYCYrAxm/aPNUA2wDWen2hzvPOaRTbJi+Mcsel/VMKxp7jESmCls2FxAFzTuYQHR5inCUFbQI1PnTuh4AceEyK1LQJBGUmMUmnzzyqrCW1pNSRjiBbwLZlDSnSaV0WTIGN5m+dMaqzSkh1rUuJiomRMdDcVNyJrcusR0nlWdJTG1hpESJmZsYinRYUkGRbtz8xT/y1n4Vy6WN2bYWEzOeGPVIPjEzoVDP9iTQ60M5rV7zY1npXl86qiQKviQCTFbCsScl0OLTJMNpa9bUpTNc+xjiBIkTJEx0m69DZsY6SZaMhU8q3geXKJCtQx4rABOFKV0IVbTcXPc1gH9nZCYtg0TABm3RdWxaWvhoGkgUBFCYxjstXOc00cQTiL5Xyqq7fCe7y6/43dA0Q6bCXATLhobY44WQttm5zG/2ECYnhJkxT0zqhHanufmbUwqpT15ybdIQCFxSOvSY2TcDnRACITCYBQ0Jp4IwLAbEmZJpAFBIqc8RFMKrIBW0J8RpoIE5GfklMIaP0rNZNK5QIxoBYeipoyFQf9u0cq46qWgW1vkMbDyEsLVNPA5p/q8CCWkO4ZmrXAxOExSt1kGjPlS/12VGJRCMNJCYH418+FbmxIpPlijipAnWtCRMGORPcpYE8IzBVf5DMkkmpmaznKlWwicQK2TwJ4aTHnTmEgq4zPFJ4pmZrMzM3lKEsBi3nv27oe2JGM+XTDc6c0N8w9UAoxgx8o85KnGcANO2dSkPORr9J4AffDJIJ8JpSP3CojkIwn2kowtI20Prmqa4DCtNbaWKA0Uk0zEE9p90qk5m2egCcgUc8+npgtGdYxjvF9PRZOBx+lVIp5bHvTCl1UJTQM886K2Ghz9vPlZmwp9HyQmKCfPTmqStjjBE0MUziY7Se6QMJvYGmDXkZ9UA4Z0OuKJ4DoayvDH9iQBNLnOY7psb62wiuZp8LNr5EZaAHqVowCNcrRERzN6aBacU1QEzGt6YLbZNIiZH0bFYsGsdfnqulu0vQROBsbCMxGeZxqtEWuzYCcTJy5ijtK+y62HIyRFoMybU5rzw4DhMjEHktdntpymtcfnmqZ2PYG0c6gJBqYMi8e9ELh2LnGzQTjDZ+EILHwbtq0uPC2MhM4ZlagENBmA6RANTEGoymNJaclxBt6GfbVbbHZGdea8zjy5W+nocpI2QAqBiokEapLbEKaRiM7GDamYgGtq2kYBbhbOszdXu21LHB4DXRg9oc0yIq11DdQ0Wx0M10pVGAhzUq0FqWAuHFHZWCcJp6YH4Q0AETUSJAMEjEAkGDrB6owE4EUcDSaGkHGhtrySJoBjXtSBHfuiFTNmTJEUEmSBS1Jua2FeyARdIAyt1MpuZrlQ0MkSTy+wpVFpMwNaCwvbJLAkBMs74i0GTTWkeBU0ESRIwm3+wPuJ5iVLSmAG2mmv34UlQ5UpKHZzJN/wBoBa++Kpj4mDcQeSkBacFbtsDjSYpUSSJrE2MIwM4VSTAvgKeTdKExOHpggANuclpsn8MG5FQCAWzSSWuBDqfGShromMRCDll5TJPCJSqCpjJt59Z1yTwJA9PvDumXExpbQST7k90wKTeI8KAnhapwjLpXVDboI7JtCZLJz6Vwqhp09/hJgywrqqc6bxN5zkk1wVQKYYNDl4Oq2cZFTEQKZRA5WnqsWuthqraI88iiueE1szUcoVk4x0WTSYFKV97+ytuFL2nyqqIatebY0g1nGmv4W2zf71zr+rTmuJbscABjIqK0OuasrHQNvGMDvXukjYsEmSBzge5CE8/tPj+HzAZTAYd5wTaSKSc+uaZIP7lKQuDHWouP453+OyAPwjaDhJDoBBg1Br0QFc8gQqa2bEdaRfE+VShW0xEUIxrN0yQAm5hABwNqi0xha2K0Zsy4w2pgnoASfQFJsAYznNIjvKJC1LXEZY4A3pilwXw+axTzBUy4/HzRSSiwBjJgCpNBqSk0ZqgFZ2f9eK1YGZ5Z/kJYNZyjhx18pdNwVOrVLD0GOGwkG+Jn45KC08sK+q0cBhnZU57prU0wB/1oK8u6eFrN/KmHKZqceamFpgBSJNYrWMbm1ueaQMWKMGkRTD5QxokSSBiQJI6SJVTWfx6CybWX8lGDUwq2YM24sYiaNBJtWIknloqLRhBoK1pnFtbg/KiE8BEDDr8VxQBB/HutHEm9aAZ2/UJcFJ87IwtQa4+CiIWmpr5CcDmfNU8Gs4VgDH0TIHnnJB8ojAHAcufnVIK2OAuJGIPxkcrqWhVOJapommJ8iqTW1tP6TDDMRXLGckwYwwOunQqpC0g1aAeZpFxNCcSepifZWGzAA7Sbp4VqgfTI9j5kr48x73WYN6/nwKm6rTENThe2JntSgt2KvgtWsE28m1/2smCt1q4Qc04m1oxw580kghaIfIjamKZJhpMSRylJjQBLhe3st9nsgYjqR7LxOMvJ6dsjfd9hJAbjQVAFdTRWENbFIWgdQjPQT0OC7OPGSYwt1L3SZp0AA7AQE+FCarCSQqDSaAWGFbVJp16IVcGKMGpeSTJuboJpHnl1bdk4guAMNiTgJoJQGiDn7187IzRqHCKJ+sDO3KdSiFXCI96zNcBFKZnDolg1JZF/SD7IAnMwPRCoYp4WpaBnCp7K2IBtjl35Jlo59Pz5C6N53J7COOGkta4SZJa4f1I4ZpGaVg1yObVU634E98bK+JupOp7U/K6N43o7QtLw3+rWto2Ia2gJi973OKMGuIBVwknU8gPoBaNjI9D9hdG8t2ckbMuDYBP+SJJAJcP64SKDGawjBqGbzDHM4WkOIJcR/YRg13/IzGMDILDabOpAkwTQiDTMJBtEyyMe3kJ4NFMDPpzCkjJWXTfvj1zVs2BNpI0rHPJPCZ8WkUhAMQca09vlW/ZkYR+aj0qoIsngHDjhnHmRRnKOFWQIFefOfqOycg1IGuU/eVOeKGDz9ICcJkvaNAt3m9LgEAgTPopVsbpMVitYqVKchaGmoP59DRW6mPNSGzy8yQ2OEGZwN6QYyrN+qf0ltkV+Vo4QYiK2JqIwKzaBSfPOSsm2Qyx/P0FcidJzq8UUsThJnhnVb7MU0NPPMFm4jh4RQkQZg1zAigt9rM73xcNgWiIB/wChJwsJnnhkptnG+Ty8p4ehuu14TcimfL69ELBjgRcdPOaFrsZY+TAxdTEUXRsNpg1vquMEkz81XVuzySAe9yvF6dzk9PlPD0RHCILpM8QgCLRB4v7dhYXwmERkmF3yOdZAgWxrWcL4Z91ICYTw18wVYkDum6swIGWWlapAYquHNOwtIbOkyLxeva/VAGOXzKoRl6obFJBvWDEilBQxjWvJLD1BCAFTBoD5f5QWowtTOnnsm0CnyJCoN0Rwa9K1RINb7tupcx75bDIJBME8RgBoxreLAysHyTMyT9qm6X8/KOHEfpGDWm87m5hAMElgd/UzAIxyIxGGKww6d64U98jyWrQSIinsqfsXMgkQbiQai4IkQQjBrnaFbiIAE6yZBOggR3KUJub3/UUjmjBpEdEaeeUQrGfdEg1kF2/x++u2L2bRkcbDLSagHAxjytnSi5pzTm9J550r7907x8Frbf8AeTtHue6Je7iMW4nVJAwrK53AYeDCv4CcYqoI9R9+6c4i1LY55d8UoW2x2Uk/2AABJkxMYNzccAoFiIvFeU25z6JyFoaKcuVp/JSVJtJiMPa1fRVhamE8Ir9nwqmbMmwnOMKxJyqQOoQXE3lEhakimGN9BPgxXN/5Ik0qYpaTEG+FBVddFzb7ty0tNIkTQSYECMLBZ9XeM2X0vhluOnd/9ZmszEHyFQOax2G1Dmhw9Vrsagmop+uS042WTE8plutW7MOwA1NgCYnE+64uIh5aZaBWIMyIaaXmYXW5wH/JjnJbFzauNMJxXBv+9FjmvY8h4NIIlojOZxyigWXX5ds3+FdObcenxz8ilD4ULxd03trW/wBiSSTae9q+ZoUz8mWfDvRs+PP2O04bC9J0XfurJAAbHyVybtsgbjv9L0GMgQFz9Hhffxv1OU9KAEa/ua9lZaIBExjOeKkJgLrY0wqhJzQqe8kknGtgPQQArkTSa4gggwbgg1HayIRCYaqwiTDVbGia29k/ZLtLWcIhXCtjbgkiYpWLj/YZY2NgjBrOaR5X9JvdMWoAOyo90uFHaWgx/wAjAzIB7ZUit7ro3XblnHEf3ZwniaCIN4mzqXGqwI8x8+0uFTeOnqnPI/UK943h7+HjcXcLQ1smzRZo0qe6zIQ0DXwfaO0tRCc4YKoTaBNawagGJGMGDHOE5BqSALGTWaU6HGmgTeBAibVkzWTalojPngBrdJ/F7JcKfaNINQArgfUeVQD5CfaNSKfqfTFCvhk0w9BfBJpql9GguMRNL9TE16BAB15c/ArilutZPxirfBceEQ0kwCZgE0k0tmqwtYN9FUeZocEWqgyaRFPKJi6jd9oCImopHJPaOAgz05091MszRZdxlt9uWGgmaawaFeZvu9l4Aj5/WK9wM4hhHO68r+Q2LWFpaJP/AOZPpHlFzfkzllsvht0eXHczy12DHODQCQ2Ic4GJBjPD6C9IAc25TNOcVpivG2b2wA55gEgNb6WXp7DbNcS0EUHOuVMNdVX4/Kfv+09XjXHvmyvDuEAGk8sD1XnMY0OieMERDTNSKZRBXsb2Z/q8OAIMFoDojMZa4QV5TtlLWuiYFoAnEzWYwXN+RJ3+G/S3t8t933lgrtGnITXKYgIXEzbiILcZpAvpCFlOpZ/H6XeE/v8Ab02g4mTnZaLmG9AmGguzOXpVdOyrE/11P/zPJd/HlxviVhylns0wVhtnxS2NbU89Vg7fiRDW15ovW48blKcLfT1WObwhpAEukvqXBsRAbxBpFzaZxWfRcm7cTqun4/K9BhFZaHSLmaVFRBFecitlrw5d03Ecp21mArawoC0a6IIMLTEWoczrikGrVzQALE3oTSsQdaT1CQBrAwrSYEiulYrrqnidQG2mk+1kA6KkBsowarYPLSCI4haQHXGIcCD2WcK4RwowtSSYjCZ6wlC1YE2tGJilq10H5y6EwazYwmaTAknIeEDqgAYzp53VsibkZlLh1SwagBVqeXYQqDKTIvasmZraIEDWuNYAiQ9Z8PnnVVciaC3IDT16qxs6wIP7ik1ShPC1EIAWhCOtrD6yRRKzhU1v4rFZWp4ogTAknIcUA2zoOykNxpf306JSDUFuv4VGqoMJMD9/lGirC1Apzz9VntuICWiTkaLc9/K+gU8KVmw5cedsdvwvIdLZqBBkk0phhfVV/IOHDIuKls2xtKjabGNoMjkMqiYrms9+eA80Dhq0mD82zXBy5Xjwsv8AOOrjJeUs/h37PaggNF+GbWnMhG12Yc2o4sYtVcf8a88JAvSATlp+VTN6qQ5wa1pNqkyZjQBaTrcbwnd9ReFnK58cZeWSXNAJEgUpBgA+iz3Xf3NNBxSbGp+11b25jnNP9eGSKUmce4HdY/8AjMa8Di45NmiaZTnZcll48v8AjfX/AK6Zl4+Y03vfHcIoQ7GlBy9V5jdoTTP93Xsfyu7lp4mwQBBiY9YPovFMAmn4U9bu7s5U+nmeEEoQULFo7ty2INXCmpp2Wu9bcgktMYd6jCFxbTbuNCTCy4jMrTvyds/aO3btdO33jigEQB66ro3djIpXNxoOk4rzpJWux2ZNq9YS48r3bZp3j4z09/Z1AK14VjugIaCYNqRA5Uqul4EmDImhiPQ2XscPPGVwc/FQFo0TAAkzrJmABfPTHsBqrhWmM7TLb0/B6pQmBgmEypvdNZPUzhHtASiFYb56Jt2cmAJME8g0Fzr5AEoLUNsaCsVMyOVY7oLVYboghLBqIpp9ftGEfFe/T3zVQm1l6gRzryge6Y1mGpcK0LYpinwyLhA1DgkAtHtE0qq4IzE2wpUHzmg9ZNsde6HNtXCun2rhEJYWoITaDceTT5VuAkxb41Sqlh6lN1b6yc/KpunH69EPeIrauFa5mK298yj0USwxUXwNoN5CpzpMTIEwSKxJNuc91y7nvAc3/wBaaU8K12pbiY7WUznLx2LvCy5VbKnSRIpNx2g9kPeAY1oV5jd8YC7iDr0BJOFYE865Kd9YTHEYYYkj/gTcipIvr7LC/kSTZ5azo7fLp/knkNaRg7sDIPuvH3neQYaLNESRU1lLbbd4bw8RLTbpaMQuQiMZXD1ur3XZ9dXT6fbPKxtTMyeYpyC02G2AJkUOnEfVcpQCsdrTHTtmgWBt/wBCD7mFGyIFQXSMqR1UOcTcz7pDnVAes/8AliJEcQwm9sY1XmO2pJnGndH+IkTgsiny53l7pTjJ6BchJClQTQQqGlEAmrp2DAYJIvjZDXODRQBudJUbPahpBiYVTJfJPeZvIa2pb2BuI8yXQF4+4ML3cTjMVj2XtQLY/HJer+PzvKbfXxw9XjONz6sBMmkQMaiZMxS8Uj1PQYyhOWvsMUALpYWkAnCrgjD8HJUKxJOSC0MaMZ6Z4IGOumoNMjRWxs0tzMdMu6DVCUhNzqW+zzV8FAZxgjLI649tUi2UBAYqcBgfMU+FPhEaoJLQRUY0mM8ENOhikjNW5sAeX8CTryR6R6BB6ljZMSBXGgvik5XwqYQAG0NNZ86JDZnJaNJWm0MkGsWAJkgCwnRK05WJaR+IPqE+HKRz9fVMNk1pr+kcREwSOt0tCb3PepPVcH8m8hoc0hpGeK9B3Zcn8hsg5pFeYExqRiM1l1dvG406f/aa+d2G9Q43gmSAYpM0vj6L3tk3ibLgDNsRGEr5h7AHRMgXIseS+m3XaF2yBH9aUNKRzXD+Ny82X9OzrTxLHnby/wDxvBPDgSGgSYNq1FDmkzeml/ERR0CLi0eUXBvm24nTxFxmv9QK6QsX7QrK9Sy+PW60nDx59uz+U2HC6hBHcjmuAGq6jtA5oBgEY5z7n6C5C1Z8rLdip4mUPJNSkEihSoBCEIDT/I6IkxlJWa2/xOLeIAwKErFACEIQDCZxQhAJPJCEB7W6O4dnSlV27D/UnE4oQvS6Hz/Dj5/f8uzYYeYIbbshC7Z6cnL2sIz8xQhNKiqxQhAUyyQQhCTam5NCVEJCEJLgbZMmDSiEIpfQLhM/aSEjgP8AqpKaECE1gIIIleQxxIcJMAOipm8XvZNC5ev7n+3T0fV/0+dn/Ze5/r/QUbwkxrOd0IXD0vrr5/HH/I7IANIEGMOi8spIUdT2rj6dPAOCYrIXOhCXI4TkkISMJ4IQgO3ctu4AgGhuCAQaZGiz/kGAPMUQhV8T9cqEIUqf/9k=" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Constellation Carina</p>
+    </div>
+</div>
+
+<p align="justify">
+    While Jan mulls over this new information, the author talks about how everyone on earth is now truly equal. There is no need to work, earn money etc. Everyone is happily content and devote their time to simple entertainment. On the other hand, Jan decides that he wants to learn more about the Overlord and their intentions. He decides to stow away on their ship before they are set to leave. With the help of his friend Sullivan, he is able to hibernate on the ship using a drug called narcosamine. The trip is 40 light years and using time dilation and special relativity,  the ship only needs a few weeks to reach their destination. Therefore, Jan is able to endure the journey and will wake up once the Overlord each their planet. 
+    Karellen learns about Jan, but because the ship has already left, he cannot do anything about it. He condemns his actions, stating that humanity should not explore space for their own protection, but also because humanity could not prove they could not find peace amongst themselves, and therefore “The stars are not for man”. 
+</p>
+
+<h2 class="section-heading"> The Last Generation</h2>
+
+<p align="justify">
+    It has been over a century since the arrival of the Overlords. And now, the book shifts towards George and Jean, now married with two children: Jeffery and Jennifer Anne. They have moved to an island called New Athens.  This colony was created due to the fact that many humans believed that after the Overlords came there was no more innovation and advancement in human culture. This colony was devoted to changing that. The Overlords were gathered here as well, but their interests lie within George and Jean’s kids, even going as far as saving Jeffrey when he is almost caught up in a tsunami. 
+    Soon, human children start to show signs of clairvoyance and telekinesis. It is now where Karellen reveals the purpose of his arrival. The Overlords have been serving an entity called the Overmind. The overmind is described as a “cosmic intelligence” one without physical form. Unlike the Overlords species, who consider themselves as a “dead-end” race as they will never be able to join the Overmind, humanity will be amalgamated with the Overmind. The Overmind is not a single civilization, rather a combination of former ancient civilizations who were freed from the “limitations of material existence”. New Athens was a symbol of humanity's last cling to its singularity. However, now humanity will be combined into a single group of consciousness, which will be with the next generation of children. The children start to physically transform into something else. 
+    The Overlords, knowing how painful it is for parents to see their children transform into this new entity, and knowing the energy that comes from it, ship their children to a different continent. Humanity, knowing there is no more future, either tries to find some purpose in the little time they have left or the end up taking their own life. New Athens, with George and Jean still living there, agree to mass suicide with an Uranimum bomb.     
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://www.konstantinbax.com/wp-content/uploads/2011/07/ChildhoodsEnd.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>An artistic rendition of the children combing with the Overmind</p>
+    </div>
+</div>
+
+<p align="justify">
+    The novel then brings the reader back to Jan Rodricks. He has just emerged from his hibernation on the Overlord ship just as it reaches their planet. The Overlords, not surprised by his appearance, show him how the Overmind communicates with them. Jan returns back to Earth 80 years later, only to learn he is the last man alive on the planet. The children have already combined into a single consciousness and are ready to join the Overmind. They even start altering the Moon’s rotation and other actions at an astronomical level. The Overlords know now that it is not safe to remain on Earth. They depart and even offer to take Rodrick with them. However, Jan refuses, instead wishing to stay on Earth, offering to transmit a report of what he sees. 
+    Rodrick asks one final question, asking how humans were able to know about their form beforehand, having religious text and art depict them before. Rashaverak explains that they never had contact with humans before, and it was not their fear of seeing their “demonic” form but due to a racial premonition of the Overlords role in their change. As the end draws near, the Overlords are eager to leave and are grateful for Jan’s last report. Over radio, Jan describes a fiery demise. The children are gone and the rocks of the earth dissolve. Rodrick, instead of fear, feels fulfillment, and soon the earth evaporates into a flash of light. Karellen looks back at the milky way and bids humanity a bittersweet farewell. 
+</p>
+
+
+<h2 class="section-heading">Review Overall</h2>
+<h2 class="section-heading">Maya</h2>
+
+<p align="justify">
+    This book had a very interesting tone, as if there was an impending sense of doom. Humanity has disappeared, and there is no more future. Although Clarke makes many analogies with Christianity, I think there is a concept that also works here too which is Maya. Maya is a concept that states that all of the material world is an illusion, and that there is only a single truth: everything dies. While this might seem like a morbid idea, I think it is stating that physically, we are not able to infinitize it, and that it is important to create things that are lasting, not our own bodies. This is paralleled in the novel with humanity combining the Overmind, and the Overlords want to join them in consciousness as well. 
+</p>
+
+<h2 class="section-heading">Utopia and Innovation</h2>
+
+<p align="justify">
+    This was an interesting topic to look at as well. When the Overlords came and gave humans new technology and medicine, humanities innovation came to a sudden halt. It was strange to think that if humanity suddenly gained an utopia, humanity would not invent more things. If anything, creating an utopia with more advanced technology would fuel their desire to invent more. There would be some people who would not want to pursue further endeavors, but I do not believe that would represent everyone. If we take a look at New Athens, we can see that people were still discovering new things about humanity itself, and I do not think there would be a short supply of people who would want to learn more about STEM. It was also very strange to see the Overlords quell the curiosity of humans with anything related with space, with Karellen stating that “The stars are not for man”. If anything, it would have been wise to ask humans for their help in understanding the Overmind. 
+
+</p>
+
+<h2 class="section-heading">Quotes that stuck with me</h2>
+
+<h6><em>“Science is the only religion of mankind”</em></h6>
+<h6><em>“Man’s beliefs were his own affair, so long as they did not interfere with the liberty of others”</em></h6>
+<h6><em>“The stars are not for man.”</em></h6>
+<h6><em>“The world's now cold, featureless, and culturally dead; nothing really new has been created since the Overlords came ... there's nothing left to struggle for, and there are too many distractions and entertainments."</em></h6>
+
+
+<h2 class="section-heading">Future</h2>
+
+<p align="justify">
+    I am thinking of expanding this blog to not only be about book reviews, but also clarifying work and concepts I learned throughout grad school and break these topics down. Recently, I accepted an internship as a Software engineer at Ford. While preparing for it, I had been furiously working through Leetcode. I realized what everyone had been telling me, how to study for Leetcode, had been false. Until I started studying Advanced Algorithms, I realized what I had been missing. I want to break down what I learned in class, and how to actually tackle Leetcode like questions. This will also help me study for the future. 
+
+</p>
+
+<h2 class="section-heading">Citations</h2>
+
+<p>
+    <a href="https://en.wikipedia.org/wiki/Childhood%27s_End_(miniseries)">[1]</a>
+</p>
+
+<p>
+    <a href="https://en.wikipedia.org/wiki/Childhood%27s_End">[2]</a>
+</p>
+
+<p>
+    <a href="https://www.shmoop.com/study-guides/literature/childhoods-end">[3]</a>
+</p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["When the Hindu says the world is Maya, at once people get the idea that the world is an illusion" Vivekananda]]></summary></entry><entry><title type="html">About Me</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-post-me.html" rel="alternate" type="text/html" title="About Me" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-post-me</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-post-me.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."</h1>
+      <h2 class="effect__subheading">Albert Einstein</h2>
+    </section>
+    </divX>
+    
+
+<h2 class="section-heading">Who Am I? </h2>
+
+<p align="justify">
+    Hello, my name is Sneha Mahapatra and I currently a Software Developer at Superluminal. I have a Masters degree from University of Massachusetts, Amherst with a Concentration in Data Science. I have a Bachelors from Purdue University in Computer Engineering with Minors in Mathematics, Global Engineering, and Innovation and Entrepreneurship. My passion lies in software engineering coupled with machine learning.
+</p>
+
+<h2 class="section-heading">What Will These Posts Be About?</h2>
+
+<p align="justify">
+    This blog will be a little bit of everything including in my life: my journey through grad school, reviews on books & shows I watch, machine learning, software, painting, travel and maybe food :) 
+</p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." Albert Einstein]]></summary></entry><entry><title type="html">The New Transformer or the next Terminator? : An In-Depth Look at the Future of Self-Driving Cars</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-self-driving-car.html" rel="alternate" type="text/html" title="The New Transformer or the next Terminator? : An In-Depth Look at the Future of Self-Driving Cars" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-self-driving-car</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-self-driving-car.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">"Your scientists were so preoccupied with whether they could, they didn't stop to think if they should."</h1>
+      <h2 class="effect__subheading">Dr. Ian Malcom, Jurassic Park</h2>
+    </section>
+    </divX>
+
+
+<p align="justify">
+
+    When German inventor Carl Benz introduced the first automobile, the world was astounded. People were amazed at the machinery. Those rich enough demanded to have one of their own. However, when Google introduced their self-driving car company, Waymo, in 2016 public opinion was much more diverse. Some people wanted to buy it immediately, some did not want anything to do with it, and others wanted to prevent it from ever entering the market. These polar opposite reactions sparked debate amongst scientists, engineers, lawyers, ethics professors, etc. The main question they all are debating is whether self-driving cars should be introduced into the market due to their wide ranging effect on ethics, the law, cybersecurity, and the economy. However, the benefits the autonomous cars bring: reduced risk of accidents, growth in economy, and allowing more independence to those in need of it, outweigh the relatively small adverse consequences that are brought along with it. Today, with self-driving cars already driving on the road, there is no doubt they will be part of the foreseeable future.
+
+        
+</p>
+
+<p align="justify">
+Similarly, when Google first publicly introduced their self-driving car, people were pleasantly surprised. Engineers had created an autonomous vehicle that could drive around with minimal effort from a safety driver. Although it sounds futuristic, this idea is not a novel one. It was first thought of in the 15th century by the famous Leonardo De Vincie. He had drawn a rough blueprint for a self-propelled cart where springs were used as propulsion, similar to a self-driving car (Nguyen). Now, fast-forward a few centuries to today, many well-established companies have now started designing and testing self-driving cars with the purpose of reducing human related crashes. So far, the most successful self-driving car has been created by Waymo, a company that belongs to Google’s parent company Alphabet. It has been test driven in Mountain View, California; Kirkland, Washington; Metro, Phoenix; and Austin, Texas, collecting data since 2009. How this car is able to maneuver around obstacles and drive on the road is broken down into five main components: a Lidar unit produces laser beams to generate a 360-degree image of the surroundings, additional Lidar units are on the front of the car to detect obstacles in front, a Radar sensor measures the distance between objects surrounding the car, a camera finds the parallax (the displacement in positions of an object viewed in different lines of sight) from multiple images which can detect everyday object most people find on the road such as traffic lights and signs, bicyclists, pedestrians etc., and finally the main computer is stored in the trunk which is where the main program for the car is located, analyzing all the pictures and actually maneuvering the car around obstacles (Gates). With all these safety features in place, Waymo conducted their 6-year study to find that their car had only been in minor accidents and of those, only one was the fault of the autonomous car! Furthermore, the number of safety disengagement that occurred drastically reduced from .8 times per 1,000 miles to .2 times per 1,000 miles in 2016. And, the numbers are continuing to drop. 
+    
+    
+</p>
+
+<p align="justify">
+    Despite these facts, people still have their doubts whether or not self-driving cars are ready for the road. One of these doubts raises the question of ethics. The main concern everyone has is how the car will behave in an unavoidable dilemma similar to that of the trolley problem. Imagine one is driving in their brand new self-driving car. They are on the highway and all four sides of the car are surrounded. In front, there is an eighteen-wheeler, in the back there is an SUV, on their left there is a motorcycle, and on their right, is a car of similar weight. All these vehicles surrounding the self-driving car are non-autonomous. Suddenly, the truck in front of the self-driving car breaks hard, and now the car has to make a decision. But what course of action should the car take? Should it minimize the risk of others getting hurt or maximize the probability of saving the occupants? When the public’s opinion was polled by Doctor in Cognitive Psychology and Professor at Toulouse School in France, Jean-Francois Bonnefon, he found that “People are in favor of cars that sacrifice the occupant to save other lives–as long they don’t have to drive on themselves,” (MIT Review). And therein lies the paradox that casts doubt on what should be deemed the “correct” decision. However, many engineers argue that overthinking the trolley problem could cause potential more problems. Alex Shashkevich interviewed Stephen Zoepf, executive director of the Center for Automotive Research at Stanford (CARS), discovering that it is not productive. He claims, “If there is a way to improve on [decisions made on the road] with driverless cars, why wouldn’t we?” (Shashkevich).  Since self-driving will reduce human error, which is the cause of 94% of accidents on the road (Waymo), it is better to introduce self-driving cars to the market.  
+    
+   
+</p>
+
+<p align="justify">
+    Many companies, such as Tesla, Apple and Uber etc. have taken on the endeavor to create a marketable self-driving car, however, all these companies have answered the trolley dilemma, stated above, differently. The lack of a common standard creates a problem. In his article “Self-Driving Cars Might Need Standards, but Whose?”, John Quain describes the effect of having self-driving cars that have different programs. For example, Hyundai’s self-driving car Ioniq treats every decision captiously. It will stop nine feet short of crosswalks and will not go forward if there is a pedestrian on the sidewalk, even if he is standing their poised. On the other hand, Delphi’s test car, uses an Intel computing platform which is much more aggressive and treats the pedestrian with more deference. This difference can cause problems because it forces the pedestrian or non-autonomous vehicles to be responsible in knowing the model of the self-driving car and making a decision based on that information. The solution to this problem is creating a common standard among all companies who create self-driving cars. This will ensure that the law and the people are aware of what course of action to take. In addition, at a Stanford University conference on “The future of artificial intelligence and self-driving cars”, mechanical engineer and Stanford professor Chris Gerdes says that creating guidelines of safety that a self-driving car will have to follow will enforce the public policies for self-driving cars (Stanford University School of Engineering).  
+    
+   
+</p>
+
+<p align="justify">
+    When a common standard is placed, the law has to be updated to fit what is the right course of action that has to take place. Harry Surden and Mary-Anne Williams researched how the Highway Traffic Safety Administration would change their rules when self-driving cars are introduced into society. One question that stands out amongst others is this: if a self-driving car is responsible for a crash, who is to blame? The people who programmed it to crash intentionally in that situation? The person who owns the self-driving car? The car itself? There are so many factors to consider that it is not easily understandable who holds the blame. So far in the law, there is a term called tort law. This penalizes the person driving if and only if the accidents were clearly avoidable. However, while we know that a person may not stop if we cross in front of it really quickly, how is a pedestrian supposed to know if the self-driving car has the same reflexes. For it to be even more safe, a self-driving car should be able to communicate that it understands someone or something is in its vicinity. 
+    
+   
+</p>
+
+<p align="justify">
+    Another part of the self-driving car that must be updated is the predictability of the car. “One concern is that the development of self-driving vehicles is such a new and constantly evolving technological area, that government agencies may not have the technological expertise to prescribe efforts beyond high-level coordination and focus,” (Surden 175). As of now, there are many components that self-driving cars have, and they behave differently per company because each follows a different program. This can create a problem by law because the law cannot discriminate, and therefore cannot create a law that is different and only fits for one company. Increasing the predictability of the car will make it easier to create and enforce the laws that is implied for all. Also, increasing the predictability will make it easier for pedestrians to understand how to react, increasing the overall safety.  
+    
+  
+</p>
+
+<p align="justify">
+    However, there is still one problem that the law has barely managed to enforce: law against cybersecurity. Although few in number, there are cyber criminals who are willing to hack into self-driving car’s program and create a potentially perilous situation. However, engineers have already foreseen this problem. In Gil Press’s article “Stopping Self-Driving Cars from Becoming Cybersecurity Weapons”, he interviewed Diskin, former head of Israel’s internal security service. He has stated that behind cyberattacks are human beings, and not computers. Human beings make many mistakes, and because of this weakness, there is a better approach to dealing with cybersecurity. “Identify specific behaviors and intentions of specific attackers, construct their ‘digital signature’ –their unique patterns of behavior, make behavioral science an important aspect of cyber defense”.By analyzing previous cyber-attacks and the person behind them, one can learn and understand how they work, adapting their code to prevent the attack from ever happening. Furthermore, creating a smart IT system, will allow for it to sense cyber-attacks before it is about to occur, which can stop it all together. 
+    
+  
+</p>
+
+<p align="justify">
+    Lastly, the economy is something that will change once self-driving cars are introduced into the market. A specific group of people who will be affected is the taxi drivers, Uber, and truck drivers. They are worried that with self-driving cars they will lose their jobs as companies are more likely to buy self-driving cars because they are cheaper, and have a lower percent chance of not getting in an accident. People would probably feel more safe traveling in a self-driving car than a taxi. However, people need not worry according to Ken Taylor, professors of philosophy. He claims, “You can’t outsource driving…Technology has always destroyed jobs but created other jobs,” For example, A san Francisco Company, Otto, have been thinking of using self-driving trucks that can take cargo for longer distances and faster time than humans. While, this may sound this is getting rid of human truck drivers that is not the case. There is still a need of a human driver who can drive the truck. The level of autonomous driving these trucks of reached is level 3, meaning they still need safety drivers to take control in some situations. Therefore, there will still be a need of truck drivers. In addition, those jobs, which pay an average of about $40,000 a year, could even improve,” (Freedman).  
+    
+   
+</p>
+
+<p align="justify">
+    There are a plethora of factors that come into picture while dealing with self-driving cars. The way the economy will change, the effects of cybersecurity, the laws that will be amended, and the ethical questions that have to be answered all take part in the decision of when self-driving cars will be on the road. Elon Musk, founder and CEO of Tesla, was quoted “‘Almost all cars produced will be autonomous in 10 years,” he said. “It will be rare to find one that is not in 10 years. That’s going to be a huge transformation.’” (Boyle). With the technology developing at a rapid speed, Self-driving cars will reach Level 4, where the program will have control and authority in decision making. Autonomous cars are no longer a science fiction notion or a futuristic idea. Self-driving cars are already on the road and will continue to drive on.  
+
+</p>
+
+
+<h2 class="section-heading">Citations</h2>
+
+<p align="justify">
+    Boyle, Alan. “Elon Musk on how our cars will drive us – and how AI could threaten us – by 2037.” GeekWire. Jul 17, 2017. https://www.geekwire.com/2017/elon-musk-cars-will-drive-us-ai-threaten-us-2037/. Accessed Dec 1 2017.
+</p>
+
+<p align="justify">
+    “Chris Urmson: How a driverless car sees the road.” YouTube, uploaded by TED. Jun 26, 2015. 
+    https://www.youtube.com/watch?v=tiwVMrTLUWg
+</p>
+
+
+<cite>
+<p align="justify">
+    Freedman, David. “Self-Driving Trucks.” MIT Technology Review, 2017, https://www.technologyreview.com/s/603493/10-breakthrough-technologies-2017-self-driving-trucks/. Accessed October 6, 2017
+</p>
+</cite>
+
+<p align="justify">
+    Gates, Guilbert. “The Race for Self-Driving Cars.” The New York Times. June 6, 2017. https://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html. Accessed Nov 31 2017. 
+</p>
+
+<p align="justify">
+    Nguyen, Tuan. “History of Self-Driving Cars.” Thought Co. Nov 30 2016, 
+    https://www.thoughtco.com/history-of-self-driving-cars-4117191. Accessed Nov 1 2017. 
+</p>
+
+<p align="justify">
+    Press, Gil. “Stopping Self-Driving Cars from Becoming Cybersecurity Weapons.” Forbes. Jul 19, 2017. https://www.forbes.com/sites/gilpress/2017/07/19/stopping-self-driving-cars-from-becoming-cybersecurity-weapons/#2cbdb8406723. Accessed Nov 20 2017.
+</p>
+
+<p align="justify">
+    Quain, John. “Self-Driving Cars Might Need Standards, but Whose?” The New York Times. Feb 23 2017,  https://www.nytimes.com/2017/02/23/automobiles/wheels/self-driving-cars-standards.html. Accessed Oct 8 2017.
+</p>
+
+<p align="justify">
+    Shashkevich, Alex. “Stanford Scholars, researchers discuss key ethical questions self-driving 
+    cars present.” Stanford News. May 22 2017, http://news.stanford.edu/2017/05/22/stanford-scholars-researchers-discuss-key-ethical-questions-self-driving-cars-present/. Accessed Oct 8 2017.
+</p>
+
+<p align="justify">
+    Surden, Harry. “Technological Opacity Predictability, and Self-Driving Cars.” Cardozo Law Review, vol. 38, no. 1, 2016, pp.121-181. 
+</p>
+
+<p align="justify">
+    “Technology.” Waymo, n.D., https://waymo.com/tech/. Accessed October 6, 2017
+</p>
+
+<p align="justify">
+    Teoh, Eric and Kidd, David. “Rage against the machine? Google’s self-driving cars versus human drivers.” Journal of Safety Research. vol. 63, 2017, pp. 57-60. 
+</p>
+
+<p align="justify">
+    “The future of artificial intelligence and self-driving cars.” YouTube, uploaded by Stanford 
+    University School of Engineering. May 15, 2017. https://www.youtube.com/watch?v=JLWB-eY9iIU
+</p>
+
+
+<p align="justify">
+ “Why Self-Driving Cars Must Be Programmed to Kill.” MIT Technology Review. Oct 22 2015, 
+ https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/. Accessed Oct 8 2017.
+</p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA["Your scientists were so preoccupied with whether they could, they didn't stop to think if they should." Dr. Ian Malcom, Jurassic Park]]></summary></entry><entry><title type="html">The Institute</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-institute.html" rel="alternate" type="text/html" title="The Institute" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-institute</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-institute.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">“Great events turn on small hinges.”</h1>
+      <h2 class="effect__subheading">Stephen King</h2>
+    </section>
+    </divX>
+
+
+<h2 class="section-heading">Why I Chose It</h2>
+
+<p align="justify">
+    I was browsing on amazon for some new books to read. This new year I had created a resolution to read one book per month. Immersed in my school work at Purdue University, I barely blocked out time to sit down and read a book for pleasure. During high school, it was one of my favorite things to do to relax. I could spend hours reading a captivating story until my eyes could no longer open and my brain could not process any information. Now, after graduating, I decided to start this practice again. After browsing for some time, I thought I should first start with a book that was not part of a series, was suspensefully and highly rated so that I would A. Not be totally consumed into reading a series as I have much work to do still B. Would be entertained and C. So I would get my money’s worth and had a higher chance of continuing this habit of reading. While casually scrolling I came across Stephen King's novel The Institute. During high school, I loved reading Stephen King’s novels such as The Shining, Doctor Sleep, Carrie, and even spent 6 months reading the novel IT. I decided I probably should start off my new year's resolution with this book as Stephen King has never let me down with his work. After clicking the link and reading the summary for this novel I scrolled down to read the reviews and saw many negative posts about his book–many angry at the political comments made in it. Naturally, I became hooked and was ready to buy it. However, after more research I found out that this book had been published in 2019 and went to the library to rent it instead. This way, even if I didn’t like the novel I could return it and start off the year with another book. After a couple of days, I finally was able to get a copy of the novel, and I started to read. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://i.redd.it/l3k34di993i31.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>The Institute cover</em></p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Summary - Spoilers!</h2>
+
+<p  align="justify">
+    Although the synopsis of the book describes the murder of Luke Ellison’s parents, the main protagonist, and his kidnapping the first part of the book actually starts off with a side character: Tim Jamieson. Tim Jamieson was a Floridian cop who was forced into early retirement after being caught in a compromising situation and having his badge taken away as a result. He wants to start fresh and is about to take a flight up North when he makes the sudden decision to give up his seat and travel to Dupray, South Carolina. Unlike the bustling city of Miami, where he was from originally, he finds himself in the middle of nowhere. He easily gets the job of local sheriff and the story continues about his time in the town. After some time in the city a shoot out occurs in the city and abruptly Part II of the story starts in Minneapolis. 
+</p>
+
+<p  align="justify">
+    Luke Ellison is a genius twelve-year old boy who has finished taking the SAT test so that he can apply to universities such as MIT or Harvard (yes, he is one of *those* geniuses). But, despite his intellect, he was a good-natured kid who just wanted to enjoy his childhood and live happily with his loving parents. However, in the middle of the night his parents are brutally murdered and he is kidnapped. He walks up to find himself at a place called “The Institute” where dozens of other kids are also imprisoned. Of these captive kids, Luke befriended Kalisha, Nick, George, Iris, Helen, and Avery. The directory of “The Institute” known as Mrs. Sigsby abducts children who display signs of becoming a TP (telepaths) or a TK (telekinesis) (because we cannot have a Stephen King novel without Telepathy and Telekinesis) uses their powers to stop future catastrophes by predicting their occurence. In order to expedite the process to gain this awesome power to it’s fulliest extent, the kids are experimented on (a nice way of avoiding the term torture) in the “front half”, before they are taken to the “back half” and never seen again. 
+</p>
+
+<p  align="justify">
+    Luke, desperate to escape before being taken to the back half, aids a janitor at the Institute–Maureen. Maureen has been acting as a snitch for Mrs. Sigsby so that she can be informed of what the kids are doing. Although Luke suspects this, he helps Maureen’s financial situation and earns her enough money for her son to go to college. Overwhelmed and satisfied by what Luke did for her, Maureen helps him escape, hoping that she has made amends for keeping her silence about the abhorrent treatment of these kids. She subsequently takes her own life to distract everybody from Luke’s prison break, not before she handed him a USB stick. 
+</p>
+
+<p  align="justify">
+    After his daring escape, Luke finds himself in Dupray and the reader is circled back to Tim Jamieson. He finds Luke and helps him recover from his injuries on his journey. Albeit the fact Luke escaped, he suspects that there are still some people in the town who work for “The Institute”. His suspicions are confirmed to the reader showcasing the scarily far spread influence “The Institute” holds. After handing over the USB stick to Tim, he and several others watched the videos recorded by Maureen and saw all the horrors that occurred  in the back half of “The Institute”. They discovered that kids were stripped of their consciousness and used like batteries to predict the future. Unfortunately, Mrs. Sigby and her possy arrive and a shoot out occurs. The survivors on the other side are only Mrs. Sigsby and a doctor. Tim and Luke forced Mrs. Sigsby to drive them back to “The Institute” where she is shot by a member of staff. 
+</p>
+
+<p  align="justify">
+    While Luke had escaped, his friend Avery gathered all the kids from the Back Half and tried to escape. However, another co-director of “The Institute”, Stackhouse, blocked their escape and ordered them to be killed using noxious gas. Kalish, Iris, George, and Nick collectively used their powers to levitate parts of “The Institute”, however, in the process, Avery and several other children are crushed when the building collapses. 
+</p>
+
+<p  align="justify">
+    Afterwards, Luke and his friends are living with Tim when they are met with Mrs. Sigsby’s supervisor. He explains that there are other places like the one they destroyed all over the world, however, Avery’s telepathy had actually communicated to all of the children in these Institute’s and started a revolution in all of them. He tries justifying his experiments, claiming that they were used to help save the entire world by giving people extra time. 
+</p>
+
+<p  align="justify">
+    However, Luke argues that they can only predict events that happen a few hours before it occurs and that in the end there are too many variables involved that can change what can happen. As you go more and more into the future there is an accumulation of more random variables making it impossible after some point to accurately predict the future. The man leaves after Luke promises that the USB stick is kept hidden and never comes to light. A tearful goodbye is shared amongst his friends who each have a key to the safe where the USB stick lays. 
+</p>
+
+<h2 class="section-heading">Review Overall</h2>
+
+<p  align="justify">
+    In the beginning of the novel, I was very worried that this story was going to be a bore. In most of the novels I read by him, it was never a slow build up, rather the fear struck me very early on. And the fact that he started with Tim Jamieson made no sense to me. Honestly, I felt that he received a lot of time in the novel and I did not understand his part until the end of the story. When the story shifted into Luke’s story, it picked up rapidly and sucked me back into the realm of the familiar world of Stephen King’s suspense and dread. I was enthralled throughout the book and felt close to all of the characters. The only thing I could do without is Tim’s story.  
+</p>
+
+<p  align="justify">
+    However, the character development and how attached I felt to the characters was really well done. Even if a story has an amazing plot with fantastic imagination, if the reader does not feel close with the characters then there won’t be a lasting connection with the book. Taking Avery’s character as an example, King describes him as a 10 year old kid with the countenance and mind of a 5 year old kid. Unlike Luke and the rest of his friends who are more mature and rebellious to what is going, Avery is much more docile and naive. The reason “The Institute” brought him in was because his TK and TP powers were one of the most potent they had ever seen. The reader saw throughout the story that he cried many times and his dependence on Luke was severe. Therefore, when he sacrificed himself to make sure his friends got out, the reader was stunned and heartbroken. 
+</p>
+
+<p  align="justify">
+    In addition, many characters in the story have their own distinct personalities. There was never a character that was bland or felt amiss in the story. Even side characters had their own personality even if they were there for the briefest of moments. 
+</p>
+
+
+<h2 class="section-heading">Quotes that stuck with me</h2>
+
+<h6><em>“Back in the main corridor—what Luke now understood to be the residents’ wing—the little girls, Gerda and Greta, were standing and watching with wide, frightened eyes. They were holding hands and clutching dolls as identical as they were. They reminded Luke of twins in some old horror movie.”</em></h6>
+
+<div class="polaroid" align="justify">
+    <img src="https://decider.com/wp-content/uploads/2019/11/the-shining.jpg?quality=80&strip=all&w=1200" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>The Shining</em></p>
+    </div>
+</div>
+
+<h6><em>“It came to him (and with the force of a revelation) that life was basically one long SAT test, and instead of four or five choices, you got dozens.”</em></h6>
+<h6><em>“It was good not to be alone in this anymore. He really hadn't realized how heavy that burden was until now.”</em></h6>
+<h6><em>“Statistics can prove anything. Nobody can see the future. If you and your associates really believe that, you’re not an organization, you’re a cult.”</em></h6>
+
+<h2 class="section-heading">The case of Bernoulli</h2>
+
+<p align="justify">
+    At the end of the novel,  Luke and Mrs. Sigsby’s supervisors has a conversation with one another  that is very interesting because they bring up Bernoulli’s distribution. Luke describes how he uses the mathematical model to undermine the research Mrs. Sigsby’s supervisor tries to defend at the expense of taking the lives of the children.
+</p>
+
+<p align="justify">
+    ‘The Bernoulli is an accurate way of expressing probability,’  Luke said. ‘It’s based on the idea that there are two possible outcomes to certain empiric events, like coin flips or the winners of football games. The outcomes can be expressed as p for positive result and n for negative result. I won’t bore you with the details, but you end up with a boolean-valued outcome that clearly expresses the difference between random and non-random events.’ [...] 
+</p>
+
+<p align="justify">
+    ‘Coin flips are random. Football scores appear random if you take a small sample, but if you take a bigger one, it becomes clear that they’re not, because other factors come into play. Then it becomes a probability situation, and if the probability of A is greater than the probability of B, then in most cases, A will happen.’ [...]
+</p>
+
+<p align="justify">
+    ‘It’s pretty simple, really, and when you apply Bernoulli to precognition statistics, an interesting trend emerges.’ [...] ‘The Bernoulli distribution I ran shows that precognitive flashes—or visions, if you like that word better—tend to be most accurate when the predicted event is only hours away. When the time between the prediction and the event predicted becomes longer, the probability of the prediction coming true begins to decline. Once it becomes a matter of weeks, it pretty much falls off the table and p becomes n.’ 
+</p>
+<p align="justify">
+    Stephen King's explanation of Bernoulli is pretty good, however, he should specify that Luke defined each prediction as a *bernoulli event* with each prediction either becoming true or false (1 or 0 respectively). Furthermore, it is not Bernoulli that expresses a probability accurately, rather it is its process. However, reading this explanation more and more I do not really understand exactly how Luke used a Bernoulli distribution to understand that predictions of the future become less and less true. There are two things wrong with Luke's use of Bernoulli. First let’s break down Bernoulli itself: 
+</p>
+
+
+<div class="polaroid" align="justify">
+    <img src="https://miro.medium.com/max/2028/1*KvnadxZI-Q-V9D9A4iEhfg.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Bernoulli Distribution Equation</em></p>
+    </div>
+</div>
+<ol>
+    <li>A Bernoulli event is when the probability that an event occurs is p, and the probability that it doesn’t occur is 1-p. Basically the event will or will not happen.     </li>
+    <li>A Bernoulli trial is one random experiment, or an instantiation of a Bernoulli event. </li>
+    <li>A Bernoulli process is when one completes successive Bernoulli trials where each trial is independent of each other. This means the outcome of any trial does not affect the outcome of another. </li>
+    <li>A Bernoulli distribution is a discrete distribution. Essentially it shows all the possible probabilities that can occur. </li>
+</ol>  
+
+<div class="polaroid" align="justify">
+    <img src="https://mathworld.wolfram.com/images/eps-gif/BernoulliDistribution_1000.gif" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Bernoulli Distribution Graph</em></p>
+    </div>
+</div>
+
+<p  align="justify">
+    Looking at all the terms associated with Bernoulli it is hard to really determine how Luke used any association of Bernoulli to prove his case. One could argue that he used the Bernoulli process and tried to determine different predictions and their probabilities. However, Luke clearly states that when taking a prediction and determining if it still holds water further into the future, the probability of it will be 0. Bernoulli does not support this definition but it does work for another binomial distribution: Poisson distribution. 
+</p>
+
+<p align="justify">
+    The Poisson distribution is a limiting case of the binomial distribution. In this case limiting essential means if we have an event with a probability of p, after n increases (number of trials), p will tend to 0. 
+</p>
+
+<p align="justify">
+    This is exactly what Luke states when talking about the predictions of certain events becoming true. To understand it visually, look at the graph below. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/poisson-distribution-curve.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p><em>Poisson Distribution Graph</em></p>
+    </div>
+</div>
+
+<p align="justify">
+    Lambda represents the number of events in the data divided by the number of units. In this case, let's say the event we are looking at is a single prediction and therefore it will have a lambda of one. The x-axis represents time in and y-axis represents the probability of the predication coming true. If the probability is higher it means the event, or prediction, is more likely to become true. As one can see if the time is near the event, the probability of the event being accurately predicted is higher. Of course if the time is zero and the person is witnessing the event, the person can determine what event is happening. However, as one moves along the x-axis one can see that the probability of the prediction accuracy drops dramatically and always reaches 0 after some time. This would be the best way to prove that the experiments perpetuated by “The Institute” are not only unethical but do not yield to any desirable outcome. 
+</p>
+
+<p align="justify">
+    Looking at this we can see how confusing probability is and when we do not understand the theory as a whole it can be misinterpreted, and dangerously as the people at “The Institute” showed. Probability seems like a powerful tool but don’t mistake it for clairvoyance. 
+</p>
+
+<p align="justify">
+    This is why Tim Jamieson’s story makes more sense and why King added it to the novel. If someone were to predict that Jamieson would fly from Miami to New York without a hitch because the weather is perfect, the plane is functional etc. they could be potentially right. In the process, however, they add many limiting factors to prove their case. If any factor deviates than the probability will be an incorrect assumption.  This is why one cannot account for every variable that comes into play, such as Tim making the irrational last minute decision to get off the plane. Some claim that humans are predictable and this can be used for marketing strategies to gain more customers. But, I have come to believe that humans are much more capricious, just like life. It is 100% certain that there will never be an instrument or technology of any sort that can predict the future accurately 100% of the time. 
+</p>
+
+
+<h2 class="section-heading">Citations</h2>
+
+<cite>
+    <p align="justify">
+        Ross, Sheldon. *A First Course in Probability*. Prentice-Hall, Inc., 1994.
+    </p>
+</cite>
+
+<cite>
+    <p align="justify">
+        Weisstein, Eric W. "Bernoulli Distribution." *From MathWorld--A Wolfram Web Resource*. [https://mathworld.wolfram.com/BernoulliDistribution.html!](https://mathworld.wolfram.com/BernoulliDistribution.html)
+    </p>
+</cite>
+
+<cite>
+    <p align="justify">
+        “Poisson Distribution in Stat Defined w/ 5+ Examples!”, *CalcWokshop*. https://calcworkshop.com/discrete-probability-distribution/poisson-distribution/. Accessed 23 April, 2021. 
+    </p>
+</cite>
+
+<cite>
+    <p align="justify">
+        <a href="https://www.unf.edu/~cwinton/html/cop4300/s09/class.notes/DiscreteDist.pdf">[1]</a>
+    </p>
+</cite>
+
+<cite>
+    <p align="justify">
+        <a href="https://www3.nd.edu/~dgalvin1/10120/10120_S16/Topic19_8p6_Galvin.pdf">[2]</a>
+    </p>
+</cite>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA[“Great events turn on small hinges.” Stephen King]]></summary></entry><entry><title type="html">Odissi</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-oddisi-dance.html" rel="alternate" type="text/html" title="Odissi" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-oddisi-dance</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-oddisi-dance.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">“Indian Classical dance is sustained by a profound philosophy. Form seeks to merge with the formless, motions seek to become a part of the motionless, and the dancing individual seeks to become one with the eternal dance of the cosmos”</h1>
+      <h2 class="effect__subheading">Nita Ambani</h2>
+    </section>
+</divX>
+
+
+<h2 class="section-heading">Purpose of this Piece </h2>
+
+<p align="justify">
+    On most standardized tests I always answer that I am Indian American as my ethnicity. Supposedly, that encompasses my heritage and where my ancestors come from. My parents did come from India, but specifically from the state of Odisha (anglo saxon version: Orissa). Odisha is on the eastern side of India–on the Bay of Bengal. Known for the many historic temples, its most famous temple is Konark. Boasted as one of the most beautiful temples to have been created, the Konark temple has been around since the 13th century. Also known as the sun temple, it is adorned with intricately carved out statues all from stone. These statues encompass Gods and Goddesses as well as humans posing as if captured in time while dancing. These dances represent the longest standing traditional dance art form in India called Odissi.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1920px-Konarka_Temple.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>The Konark Temple</p>
+    </div>
+</div>
+
+<p align="justify">
+    Odissi is known for its intricate hand movement, feet movement, and expressions. This art form has been passed down from generation to generation and I have been lucky enough to learn this art form as well. Growing up in America, it is difficult finding your identity as you are trying to uncover your past but also trying to understand where you are born and how to melt in. Learning to dance really helped me connect with my culture and learn more about it outside of dance.    
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://kevinstandagephotography.files.wordpress.com/2020/03/ksp_6555.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Statues carved into the stone of the Konark Temple</p>
+    </div>
+</div>
+
+<p align="justify">
+    Also take a 3rd Tour of the Konark temple  <a href="https://www.google.com/maps/uv?pb=!1s0x3a19f2a097819bbf%3A0xed9983ca391e3247!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMhB9Z1m5j-iwMPXoaiNjDl5kuAD5cHI6T3wmKN%3Dw270-h160-k-no!5skonark%20temple%20-%20Google%20Search!15sCgIgARICCAI&imagekey=!1e10!2sAF1QipPcunPphU5I1LSCGGeWsjRLww1fFxm4NkrOHCJO&hl=en&sa=X&ved=2ahUKEwjap4jSpq7xAhVeFVkFHXNCANgQoiowJXoECGIQAw">here!</a>
+</p>
+
+<h2 class="section-heading">A Brief History of Odissi</h2>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A performance of Odissi classical dance in the Shapiro Family Courtyard. The genre dates back to 200 BC! <a href="https://twitter.com/hashtag/Diwali?src=hash&amp;ref_src=twsrc%5Etfw">#Diwali</a> <a href="https://t.co/BApjWtcBcp">pic.twitter.com/BApjWtcBcp</a></p>&mdash; Museum of Fine Arts, Boston (@mfaboston) <a href="https://twitter.com/mfaboston/status/793955476513976320?ref_src=twsrc%5Etfw">November 2, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><em>It was an honor to perform at the Musuem of Fine Arts, Boston</em></p>
+
+<p align="justify">
+    Odissi dance has been around for centuries dating back to 2nd century BC. Of the eight classical dances of India it is considered the oldest. When looking at the temples of Konark, poses that are the basic foundation of the dance are sculpted every few inches of the temple. These incredible movements captured in time represent the important aspects of Odissi dancing: lyricism, sensuality, and Bhakti Bhava (attitude and expression of surrender and devotion). 
+</p>
+
+<p align="justify">
+    From the Natyashastra, a treatise on the performing arts of Classical Hindu arts, the fundamentals of the dance can be traced back to it, confirming its legacy. Furthermore, aside from the Konark temple, the Jain cave-temples of Udayagiri and Khandagiri date back to the 2nd century, contain poses of women and men dancing with some having descriptions of dances being tandava and abhinaya (two embedded concepts in Odissi).
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://mediaim.expedia.com/localexpert/1134207/76e77ac7-66f9-4c3d-bf23-92741c8b7f6c.jpg?impolicy=resizecrop&rw=1005&rh=565" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Statues carved into the stone of the Jain cave-temples of Udayagiri and Khandagiri</p>
+    </div>
+</div>
+
+<p align="justify">
+    Later, once the rise of Kingdoms began, odissi became an art found with royalty. However, their dance was only to appease God, specifically Lord Jagannath. Many who practiced Odissi dedicated their lives to him in the form of marriage. The first dance that any Odissi dancer learns is Mangalacharan. Mangalacharan in Sanskrit itself means “prelude”, “benediction”, or “auspicious ceremony”. Specifically in Odissi, it marks the entrance of the dancer where they ask for blessings from Lord Jagannath to be able to dance for him and every other God and Goddess. 
+</p>
+
+<p align="justify">
+    When the British invaded India, the scintillating allure they once imparted on their audience disappeared. It wasn’t not until the late 20th century when India recognized Odissi as a classical dance, and it began to gain attraction again. Soon, India started setting up scholarships for people to learn and grow others' understanding of Odissi. When one has mastered the elements of Odissi, they will be able to express the five key elements of the art form: mangalacharan, batu/sthai, pallavi, abhinaya and moksha. 
+</p>
+
+<h2 class="section-heading">The Five Key Elements</h2>
+
+<h2 class="section-heading">Mangalacharan</h2>
+
+<p align="justify">
+    As stated before, the Mangalacharn marks the entrance of the dancer on the stage and their beseechment for blessing from Lord Jaganath. In the video above is the classical example of Odissi Mangalacharan. Here the dancer, Sujata Mohapatra, elegantly performs the complicated parts of this particular dance. The dance marks the beginning of the long journey of dance and every step, movement, and segment has a purpose. 
+</p>
+
+<p align="justify">
+    First (1:17), the dancer enters the stage (manch pravesh), her hands folded to carry flowers which she offers to Lord Jagannath (2:41 - pushpanjali). Afterwards, she performs vandana (2:57), a brief prayer to God. She then proceeds to ask for forgiveness from the earth (3:12) because the Earth itself is a Goddess who we trample and walk across everyday. We ask for her forgiveness to respectfully dance on her so that we can please the Gods (bhumi pranam). Usually this is done before dancing entirely. Lastly, (3:20) she performs sabha, to pay respect to her guru, the audience, and the Gods whose eyes are now upon her. She finishes the rest of the dance with an utterly entranced smile: depicting to the whole world her ethereal devotion to Lord Jagannath. 
+</p>
+
+<iframe width="826" height="480" src="https://www.youtube.com/embed/1wX5yHh6DHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 class="section-heading">Batu</h2>
+
+<p align="justify">
+    Batu is a dance that showcases the endurance an odissi dancer poses. It is known as the abstract or pure case of dancing. This dance showcases the basics of the dance: foot position, hand positions, and the numbers of positions in an eternal rhythmic beat. 
+</p>
+
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/51uOehm-OX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h2 class="section-heading">Pallavi</h2>
+
+<p align="justify">
+    Known as the blossoming, this dance represents the dancer’s understanding that dancing is not about rigid beats and structured movements, but how the body is a vessel and its purpose is to allow the music to flow through your body to express a story, a feeling, or emotion. The dance is much more elaborate and complicated.  
+</p>
+
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/tp46Kvze4cY?list=RDQMoVc_4_Z7VE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 class="section-heading">Abhinaya</h2>
+
+<p align="justify">
+    Abhinaya means expression. This is when a dancer has become more than a dancer, and reached the state of story teller. They can act as any of the characters in the story, expressing their heartbreak, fear and love. Many of the stories they interpret are poetry written in Gita Govinda. 
+</p>
+
+ <iframe width="1215" height="688" src="https://www.youtube.com/embed/ZPdN3AGhCDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ <h2 class="section-heading">Moksha</h2>
+
+ <p align="justify">
+    Moksha means salvation. The dancer has released themselves from earthly tethers and has become one with God. The dancer’s soul is now integrated with Them and the dancer asks for the well-being of human-kind.  
+ </p>
+
+ <iframe width="1215" height="688" src="https://www.youtube.com/embed/v03v4bu_DBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+ <h2 class="section-heading">Others</h2>
+
+ <p align="justify">
+    These forms of dance together are usually performed under the title of Manch Pravesh. When a student has mastered these five elements, they present them to an audience. Sometimes there are additional dances to showcase their own personality or own emotion. For my own Manch Pravesh, I added the dance of Durga stotra as my family Goddess is Maha Durha. 
+ </p>
+
+ <h2 class="section-heading">Dress Piece and Makeup </h2>
+
+ <p align="justify">
+    The beautiful dresses that Odissi dancers themselves have a meaning and purpose to the dance. The clothing is made from silk (Pattusari) local to the area and is colored brightly. The prints are of Odisha with designs that depict the regions from which they come from. All the jewelry is silver as most of the metal sourced from Odisha was indeed silver. Silver rings, bangles, arm bracelets, and belt are placed to secure the dress in place and let light shine on it. The hair is tied into a severe chignon with a Seenthi to keep it intact. The Seenthi represents the temples. 
+ </p>
+
+ <div class="polaroid" align="justify">
+    <img src="https://mediaim.expedia.com/localexpert/1134207/76e77ac7-66f9-4c3d-bf23-92741c8b7f6c.jpg?impolicy=resizecrop&rw=1005&rh=565" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Classic example of an Odissi dress</p>
+    </div>
+</div>
+
+<p align="justify">
+    A tikka is painted on the forehead to represent the ajna chakra. This chakra opens the brain to enter the subconscious allowing them to see beyond the physical world with their two eyes, and see the future with their third one. The eyes are outlined with thick kajol to allow the audience to see the slight eye expressions of the dancer. The dancers' palms and fingers, soles and toes are painted with Alta. It represents auspiciousness and also in some cases fertility. 
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="https://www.vedicmatters.com/images/article/article-2020-04-28-11-52-17_5ea818f169ec9.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Vibrant and colorful Odissi dress</p>
+    </div>
+</div>
+
+<div class="polaroid" align="justify">
+    <img src="https://akademi.co.uk/wp-content/uploads/2020/07/Fig.-1.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Names of Dance costum pieces</p>
+    </div>
+</div>
+
+<p align="justify">
+    Lastly, and the most important are ghungroo. The ghungroo is a thick ankle bracelet made of rope where bells are stitched onto it. Every movement of the feet is captured by the ringing of the bells. Whenever a dancer performs, their guru always ties the ghungroo on their feet to represent good luck. The dancer must bow in respect for allowing their feet to be placed on their guru. 
+</p>
+ 
+
+<div class="polaroid" align="justify">
+    <img src="https://i.pinimg.com/originals/f4/dd/9e/f4dd9ea148b34d55675c117abfeb85bc.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Ghungroo and feet painted with Alta</p>
+    </div>
+</div>
+
+ <h2 class="section-heading">Mudras</h2>
+ <p align="justify">
+    Most dances focus on the physical limits of their bodies and leg positions. It is very rare to find a dance outside India that focuses on the exact positions of their fingers and hands. This is one facet that makes Indian dancing so unique from other dances. There are two main types of hand movements (in Hindi known as mudras).  
+ </p>
+
+ <h2 class="section-heading">Asamyukta Hasta Mudra </h2>
+ <p align="justify">
+    Known as single hand mudras, these mudras can be expressed using one hand. 
+</p>
+
+<ol>
+    <li>Pataka- Flag</li>
+    <li>Tripataka – Three parts of a flag</li>
+    <li>Ardhapataka – Half flag</li>
+    <li>Kartarimukha – Scissors face</li>
+    <li> Mayura – Peacock</li>
+    <li>Ardhachandra – Half moon</li>
+    <li>Arala – Crooked</li>
+    <li>Sukhatunda – Parrot’s Beak</li>
+    <li>Mushti – Fist</li>
+    <li> Shikhara – Spire</li>
+    <li>Kapittha – Wood apple</li>
+    <li>Kataka Mukha (1,2 & 3)– Type of bird</li>
+    <li>Suchi – Needle</li>
+    <li>Chandrakala – Dark moon</li>
+    <li>Padmakosha – Half open lotus flower</li>
+    <li> Sarpashirsha – Serpent head</li>
+    <li>Mrigashirsha – Dear head</li>
+    <li> Simhamukha – Lion Face</li>
+    <li>Kangula – Bulb</li>
+    <li> Alapadma – Fully open lotus flower</li>
+    <li>Chatura – Smart /Square</li>
+    <li>Bramhara – Bee</li>
+    <li> Hamsasaya – Wild Goose or Swan</li>
+    <li>Hamsapakshya – Wild Goose or Swan’s wing</li>
+    <li>Samdamsa – Firefly</li>
+    <li>Mukula – flower bud</li>
+    <li>Tamrachuda – Rooster</li>
+    <li>Trishula – Trident (Emblem of Shiva)</li>
+</ol>  
+
+<div class="polaroid" align="justify">
+    <img src="https://i.ytimg.com/vi/d1WT-TsEv9E/maxresdefault.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Asamyukta Hasta Mudra</p>
+    </div>
+</div>
+
+<h2 class="section-heading">Samyukta Hasta Mudra</h2>
+<p>
+    Also known as joint hand mudra, two hands are used to express meaning. 
+</p>
+
+<ol>
+    <li> Anjali – Salutation</li>
+    <li>Kapota – Dove</li>
+    <li>Karkata – Crab</li>
+    <li>Swastika – Cross</li>
+    <li>Dola – Swing</li>
+    <li>Utsanga – Embrace</li>
+    <li>Shivalinga – Masculine principal</li>
+    <li>Katakavardhana – Link of increase</li>
+    <li>Kartariswastika – Crossed arrows</li>
+    <li> Shakata – Cart</li>
+    <li>Shankha – Conch shell</li>
+    <li>Chakra – Wheel</li>
+    <li>Samputa – Casket</li>
+    <li>Pasha – Noose</li>
+    <li>Kilaka – Bond</li>
+    <li>  Matsya – Fish</li>
+    <li>Kurma – Turtle</li>
+    <li>Varaha – Wild boar</li>
+    <li>Garuda – Eagle</li>
+    <li>  Nagabandha – Serpent tie</li>
+    <li> Bherunda – Two-headed bird / pair of birdst</li>
+</ol>  
+
+<div class="polaroid" align="justify">
+    <img src="data:image/jpeg;base64,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" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Samyukta Hasta Mudra</p>
+    </div>
+</div>
+
+
+<p align="justify">
+    Special thanks to this  <a href="https://deepamodissi.com/2019/03/20/hasta-bheda/">website</a>for more all the images and mudra formats
+</p>
+
+<h2 class="section-heading">Abhinaya</h2>
+
+<div class="polaroid" align="justify">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc5NnZiBvQ669Ib2bBDy4hQyL4S6f2sfkGw&usqp=CAU" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Sattvika Abhinaya</p>
+    </div>
+</div>
+
+<p align="justify">
+    Through this post I have been referring to Abhinaya as expression. But, more specifically, abhinaya means leading an audience toward. What is it leading us toward? It is leading us towards the dancers own experience of their dancing, the emotion they feel they convey to us so that we too can feel. There are four major types of Abhinaya:  Angika, Vacika, Aharya and Sattvika Abhinaya.
+</p>
+
+<h2 class="section-heading">Angika Abhinaya</h2>
+
+<p align="justify">
+    This is the language of expression through the body, face, and movement. The Angas, or the major limbs, and the pratyangas/upangas the minor limbs, compromise the words in the language. The six main limbs which are the head, hands, chest, waist, feet and neck. The minor limbs move along with the major limbs (an example being when you move your hands you move your fingers with it as well).  
+</p>
+
+<h2 class="section-heading">Vacika Abhinaya </h2>
+
+<p align="justify">
+    This language is expressed through words, literature and drama. In most performances, the dancer should be dancing along to live music. There is an important relationship between the singer and the dancer as one has to understand and interpret their next movements. The main examples of vacika abhinaya are the ghungroos. 
+</p>
+
+<h2 class="section-heading">Aharya Abhinaya </h2>
+<p align="justify">
+    This expression is through makeup, jewelry, and dress pieces. There are many different styles of makeup that are used to express the emotions of the dance. “Bharata describes the four varieties of colour for the face, swabhavika, (natural) prasanna (pleasant), rakta (red), and shyama, (dark). Swabhavika is used in natural conditions. Prasanna is used in the sentiments of wonder, mirth and the erotic, Rakta is used in the heroic, terrible and compassionate sentiments, shyama is used in the fearful and odious sentiments.” <a href="https://nrutyayanaodissi.wordpress.com/2015/12/14/abhinaya/">nrutyayanaodissi</a>
+</p>
+
+<h2 class="section-heading">Sattvika Abhinaya</h2>
+<p align="justify">
+    This abhinaya is the expression of the state of minds. This is a natural emotion, or emotion expressed by humans. There are eight Sattavika Bhavas which don’t represent every emotion but represent the main feelings when one dances. 
+</p>
+
+<ol>
+    <li>Stambha means motionlessness, numbness that comes out of emotional shock.</li>
+    <li>Sveda is perspiration.</li>
+    <li>Romanca is a thrilled state of mind when the hair on the body stand erect (horripilation).</li>
+    <li>Svarabhanga is a change in the tonal quality of voice due to overstress of emotion.</li>
+    <li>Vepathu is shivering.</li>
+    <li>Vaivarnya is a change in complexion (colour and skin texture of the face).</li>
+    <li>Asru (tears)</li>
+    <li>Pralaya is falling down due to fainting.</li>
+    <li>Kartariswastika – Crossed arrows</li>
+    <li> Shakata – Cart</li>
+    <li>Shankha – Conch shell</li>
+    <li>Chakra – Wheel</li>
+    <li>Samputa – Casket</li>
+    <li>Pasha – Noose</li>
+    <li>Kilaka – Bond</li>
+    <li>  Matsya – Fish</li>
+    <li>Kurma – Turtle</li>
+    <li>Varaha – Wild boar</li>
+    <li>Garuda – Eagle</li>
+    <li>  Nagabandha – Serpent tie</li>
+    <li> Bherunda – Two-headed bird / pair of birdst</li>
+</ol>  
+
+<h2 class="section-heading">Famous Dancers </h2>
+<p align="justify">
+    There are many famous dancers who have trained rigorously and have found salvation through dance. These are just a few whose dancing left an impact on me and I frequently visit when missing home. 
+</p>
+
+<h2 class="section-heading">Sujata Mohapatra </h2>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/E7Y9ALzAZhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Aarya</em>
+
+<h2 class="section-heading">Keruluchan Mohapatra</h2>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/adqVH5qvGOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Priye Charusheelecomplete</em>
+
+<h2 class="section-heading">Madhavi Mudgal</h2>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/5GbMuZLytNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Pashyati Dishi Dishi</em>
+
+<h2 class="section-heading">BijayiniSatpathy</h2>
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/2-4_UMPRVIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Ramayan</em>
+
+<h2 class="section-heading">Today and the Future </h2>
+<p align="justify">
+    Odissi dancing is slowly beginning to gain traction again after being left in history for so long. I have been very fortunate to learn such an art form and will continue to learn more. In today’s world, many use Odissi as a way to express forgotten stories. Here are just a few examples one can take a look at to see how the tradition of Odissi dance has been kept alive and fusion of different classical dances with Odissi.   
+</p>
+
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/2Arq27c96nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Trahi Durga Dance. An Odissi dance depicting the fierce Goddess Durga</em>
+
+
+<iframe width="1215" height="688" src="https://www.youtube.com/embed/ZH47Oy8gZ0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<em>Meg Pallavi by the Chitra Dance Company</em>
+
+<h2 class="section-heading">Work Cited</h2>
+
+<p>
+    <a href="https://www.sahapedia.org/brief-history-odissi-dance">[1]</a>
+</p>
+<p><a href="https://www.culturalindia.net/indian-dance/classical/odissi.html">[2]</a></p>
+<p><a href="https://www.britannica.com/art/odissi">[3]</a></p>
+<p><a href="https://www.indiatimes.com/lifestyle/odissi-odissi-dance-odissi-dance-form-indian-classical-dance-odisha-376902.html">[4]</a></p>
+<p><a href="https://www.socialvillage.in/resources/25604-list-famous-odissi-dancers">[5]</a></p>
+<p><a href="https://www.pinterest.com/pin/170362798375748109/">[6]</a></p>
+<p><a href="https://akademi.co.uk/aharyabhinaya-in-odissi">[7]</a></p>
+<p><a href="https://deepamodissi.com/2019/03/20/hasta-bheda/">[8]</a></p>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA[“Indian Classical dance is sustained by a profound philosophy. Form seeks to merge with the formless, motions seek to become a part of the motionless, and the dancing individual seeks to become one with the eternal dance of the cosmos” Nita Ambani]]></summary></entry><entry><title type="html">Peabody Essex Museum</title><link href="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-peabody-essex-museum.html" rel="alternate" type="text/html" title="Peabody Essex Museum" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-peabody-essex-museum</id><content type="html" xml:base="http://localhost:4000/sneha-mahapatra/blog/2020/01/31/blog-the-peabody-essex-museum.html"><![CDATA[<divX >
+    <section class="effect effect-c" align="justify" style="display: grid; font-family: 'Yrsa', Times New Roman, serif;">
+      <h1 class="effect__heading">“What is Art? It is the response of man's creative soul to the call of the Real.”</h1>
+      <h2 class="effect__subheading">Rabindranath Tagore</h2>
+    </section>
+</divX>
+
+
+<div class="polaroid" align="justify">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/The_Peabody_Essex_Museum_in_Salem,_MA.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Peabody Essex Museum</p>
+    </div>
+</div>
+
+<h2 class="section-heading">Why this place?</h2>
+
+<p align="justify">
+    After more than four years I have finally been able to have a family vacation. It has been a long journey, but this is the first time I was able to go out and have some fun with a little bit of a learning experience. Our family chose to go to Salem, Massachusetts (that’s right! The places where they burned the “witches''). Known for celebrating Halloween all October long, this city also holds the Peabody Essex Museum. According to Wikipedia, the museum “is a successor to the East India Marine Society, established in 1799. It combines the collections of the former Peabody Museum of Salem and the Essex Institute.” I remember coming here in eighth grade to tour the museum, specifically for the Spanish and Latin American art. This year, they are holding exhibitions for Japanese, American and Indian Art.
+</p>
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/pem/1.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Peabody Essex Museum</p>
+    </div>
+</div>
+
+
+<p>
+    <em>“Intersections: Anila Quayyum Agha is an immersive single room installation that bathes the visitor in a geometric array of light and shadow. Inspired by traditional Islamic architectural motifs, Pakistani-American artist Anila Quayyum Agha's laser-cut steel lantern conjures the design of the Alhambra Palace in Granada, Spain, a historic site of cross-cultural intersection where a thousand years ago Islamic and Western cultures thrived in coexistence. Agha, an internationally renowned, award-winning artist, creates mixed media works that engage topics ranging from global politics and cultural multiplicity, to mass media and gender roles. [1]</em>
+</p>
+
+
+<h2 class="section-heading">Japanese</h2>
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/pem/2.png " alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Japanese Sculpture</p>
+    </div>
+</div>
+
+
+<p align="justify">
+    The Japanese exhibit was one of the most soothing experiences. Many art pieces were sculptures or furniture that contained pieces of pearls embedded in it. However, of all the pieces, it was this one that caught my eye. It’s simple look is what made me gravitate towards it. At first glance, this sculpture reminded me of waves sprouting from the ocean. Yet, with the color of the piece being white it made me also think of steam coming from geysers or vents. However, overall, the piece made me feel very calm and at peace. When I took this picture I forgot to take a picture of the artist and description. However a Google search led me to Fujikasa Satoko[]. Satoko sculptures are described as “fluid and dynamic”. She is “inspired by the natural world, her works embody the freedom and energy reminiscent of soaring birds or winds moving through a valley.” Her goal is to invoke a sense of exhilaration she feels when looking at nature. While admiring nature does conjure a sense of exhilaration, for me it gives me a sense of peace–a jarring difference from the work I experience. Satoko pieces bring me back to memories of strolling through Mount Rainier and hiking at Acadia National Park [2].
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/pem/3.png " alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Japanese Sculpture</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">American</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d50977.75800219101!2d-70.9518783598366!3d42.524941866175844!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e369646af856b7%3A0x81e0b8a2a5a55945!2sSalem%2C%20MA!5e0!3m2!1sen!2sus!4v1629167190137!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<p align="justify">
+    The city of Salem has been a huge part of American History, mostly known for the notorious witch trials. Yet, they have a richer history–becoming a trading port for the Pacific and Africa, known as the East India Marine Society; playing a key role in the American Revolution by becoming a town for privateering; and even was the birthplace of Nathniel Hawthrone whose most famous work The Scarlet Letter, has been deemed as a valuable contribution to New England history.
+</p>
+
+<body>
+
+    <div style="text-align:center; margin: 50px 100px;">
+      <p><b>Gallery</b></p>
+    </div>
+    
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/4.png" alt="Thomas Moran Painting's inspired by The Song of Hiawatha" style="width:100%" onclick="expandImage(this, 'expandedImgJapan', 'imgtextJapan');">
+      </div>
+
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/5.png " alt="pt2" style="width:100%" onclick="expandImage(this, 'expandedImgJapan', 'imgtextJapan');">
+     </div>
+
+     <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/6.png " alt="Description" style="width:100%" onclick="expandImage(this, 'expandedImgJapan', 'imgtextJapan');">
+     </div>
+    </div>
+    
+    <div class="containerGallery">
+      <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      <img id="expandedImgJapan" style="width:100%; backdrop-filter: blur(10px) saturate(70%);" >
+      <div id="imgtextJapan"></div>
+    </div>
+    
+</body>
+
+<p align="justify">
+    With its history deeply entwined with the ocean, many painters and authors have taken to using it as an important theme in their piece. In the painting above, Thomas Moran’s painting was deeply influenced by Henry Wadsworth Longfellow’s 1855 poem The Song Hiawatha. The title of his painting: “Fiercely the red sun descending / Burned his way along the heavens” comes from the IX part of Longfellow’s poem titled Hiawatha and the Pearl Feather. While I am not one for poems, the way Longfellow described the sunset made me suddenly recollect the majestic and beautiful sunsets–full of colors.
+</p>
+
+<em>
+<p>“O'er the water pointing westward,<br>
+    To the purple clouds of sunset.<br>
+    Fiercely the red sun descending<br>
+    Burned his way along the heavens,<br>
+    Set the sky on fire behind him,” [4]</p>
+</em>
+
+<p align="justify">
+    I loved how in the painting we can see the “purple clouds” of the sunset to the right but our attention is focused on the “Fiercely...red sun descending”. Longfellow also uses Anthropomorphism to give human-like qualities to the sun stating how he “burned his way” along the sky and “set the sky on fire behind him”. When looking at the painting you can see how accurately Moran captured the words of Longfellow, even creating a trail of the sun to show the fire that he set behind him. Out of all the paintings in the In American Waters exhibition, this really captured my attention. Especially with the contrast of the orange and fiery red with the purple, blue and gray skies. The way Moran paid attention to the water and added the sun on the water, it looked almost looked life like. [3]
+</p>
+
+<p align="justify">
+I also have put another painting here as well: William Bradford’s Icebound Ship. Although I won’t go into too much detail, I found this painting very beautiful and intricate. The way the ice and snow is painted looks very really. Furthermore, A close up of the ship shows that Bradford really took his time for every part of the painting. What makes the painting even more beautiful is that Bradford conjured this painting from his imagination. He heard stories from other people's expeditions and painted what he imagined them facing.
+</p>
+
+<body>
+
+    <div style="text-align:center; margin: 50px 100px;">
+      <p><b>Gallery</b></p>
+    </div>
+    
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/7.png" alt="Ship OG" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+      </div>
+
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/8.png " alt="Ship" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+     </div>
+
+     <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/9.png " alt="Ship" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+     </div>
+
+     <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/10.png " alt="Ship" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+     </div>
+
+     <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/11.png " alt="Glass Sculpture" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+     </div>
+    </div>
+    
+    <div class="containerGallery">
+      <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      <img id="expandedImgIndia" style="width:100%; backdrop-filter: blur(10px) saturate(70%);" >
+      <div id="imgtextIndia"></div>
+    </div>
+    
+</body>
+
+<h2 class="section-heading">India</h2>
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/pem/12.png " alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>India</p>
+    </div>
+</div>
+
+<p align="justify">
+    Being Indian-American, I was excited to view the exhibit of art from India. India is the second most populous country in the world. It is home to 19,500 languages [5], multiple religions, ethnicities, and cultures. With such an abundance, paintings and art pieces don’t have much in common, rather every piece is unique, distinctive, and talks about different subjects pertaining to different lives. The first words that greet the viewers of the gallery are the words of the famous Rabindranath Tagore. Tagore was a “poet, writer, playwright, composer, philosopher, social reformer and painter” [6]. He was the first Non-European poet to win the Nobel Prize in Literature and first to give it back after the Jallianwala Bagh massacre. The British Empire tried to hold their power over India. However after the movement that came with Gandhi, India became independent once again. It has only been about 60 years since India has been independent. Their growth is exponential and has no means of tapering off.
+</p>
+
+<p align="justify">
+Walking through the gallery, Chester and Davida Herwitz Gallery[7] captured a pretty distinctive but still small part of India (India is so big, it’s hard to capture it all in a few rooms). One painting that captured my eye was Unknown painted by . This painting used oils to make very plain but eye catching patterns. After looking at the painting for some time I realized many social points are present in the painting.   
+</p>
+
+<body>
+
+    <div style="text-align:center; margin: 50px 100px;">
+      <p><b>Gallery</b></p>
+    </div>
+    
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/13.png" alt="Untitled" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+      </div>
+
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/14.png " alt="Description" style="width:100%" onclick="expandImage(this, 'expandedImgIndia', 'imgtextIndia');">
+     </div>
+    </div>
+    
+    <div class="containerGallery">
+      <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      <img id="expandedImgIndia" style="width:100%; backdrop-filter: blur(10px) saturate(70%);" >
+      <div id="imgtextIndia"></div>
+    </div>
+    
+</body>
+
+
+<p align="justify">
+    One social point is darker versus light skin present in India. After colonization, many indigenous countries found shame in their natural skin colour. India is not different. Even today, you will see ads for bleaching and lightening skin, colorism, and disparities between people who are darker skinned versus lighter skinned. For example in the painting, the family of royalty, most likely from India based on their dress, jewelry, turban, have lighter brown skin complexion. However, in the background, a darker skinned person is carrying an umbrella, most likely to keep the family in shade as they walk down a sunny street. While the family have their face facing forward, the person in the back has his face casted downwards in an almost submissive, subservient position. The purpose of putting him in the background and almost covered up shows how dark versus light skinned Indians were viewed. We can also see that the British officer, a light skin tone, is even further up in the foreground. His body language is nonchalant-leaning his weight on his right leg, hands in pocket. It shows that he is comfortable, while the royal family looks more scared and shaper. Although it could symbolize them being in England, and therefore a reasonable explanation for their alert and shy attitude, it seems that the purpose of putting the lightest skin person at ease in the foreground represents people of darker complexion placing lighter skinned people as above.  
+</p>
+
+<p align="justify">
+Another social point highlights sexism. There are three “female” figures in this painting. One being the “mother” the “daughter” and the women in the building to the right. For every single female figure they are behind a man or behind somebody else. It shows how females are sometimes regarded as beneath the opposite sex. We can also see with the men, they are adorned with finer and more jewellery representing more wealth they have. 
+</p>
+
+<p align="justify">
+Lastly, another social point that I believe Husain intended is highlighted in the little girl dressed in pink. Unlike her family, she is dressed in more westernized clothes. In addition, unlike her mother, she wears an Anglo Saxon crown on her head. When growing up in the United States, there was an unspoken rule that we had to wear similar styles to “American clothing”. If we didn’t, we would be seen as a black sheep. I remember getting weird looks when I wore something “different” and being incredibly jealous when I saw girls wear more Americanized clothing. Nowadays, it’s trendy to wear clothes from different cultures and I always laugh remembering why I had to feel so jealous or embarrassed wearing my culture's clothing. Painting the girls' clothing as such took me back to those days in school. Also, while wearing Western clothing, she is hiding behind her mothers skirt. It shows how she has yet to develop her confidence similar to me. She is not comfortable in her skin which is a persistent problem that people of color face.
+</p>
+
+<div class="polaroid" align="justify">
+    <img src="/sneha-mahapatra/img/posts/blog/pem/15.png" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Dinosaurs hang over the museum floor</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Tribute to Salem</h2>
+
+<p align="justify">
+    My favorite holiday has always been Halloween and one of my life’s goals is to visit Salem during Halloween. However, even visiting during July I got the sense of it being a little haunted. One of my favorite traditions on Halloween is to watch the Hocus Pocus movie and Casper. Therefore, it was a pleasant surprise (not really surprising since we were in Salem) to see a whole piece dedicated to the Salem witch trials. There are five parts to this display case: the Hocus Pocus movies; an advertisement; a metal sculpture; a wooden sculpture; and a musically written piece.
+</p>
+
+<body>
+
+    <div style="text-align:center; margin: 50px 100px;">
+      <p><b>Gallery</b></p>
+    </div>
+    
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img src="https://variety.com/wp-content/uploads/2020/10/hocus-pocus.jpg?w=1000" alt="Hocus Pocus Scene" style="width:100%" onclick="expandImage(this, 'expandedImg2', 'imgtext2');">
+      </div>
+
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/16.png" alt="Hocus Pocus and Witch paraphernalia exhibit" style="width:100%" onclick="expandImage(this, 'expandedImg2', 'imgtext2');">
+     </div>
+
+     <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/17.png " alt="Description" style="width:100%" onclick="expandImage(this, 'expandedImg2', 'imgtext2');">
+    </div>
+    </div>
+    
+    <div class="containerGallery">
+      <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      <img id="expandedImg2" style="width:100%; backdrop-filter: blur(10px) saturate(70%);" >
+      <div id="imgtext2"></div>
+    </div>
+    
+</body>
+
+<h2 class="section-heading">Hocus Pocus</h2>
+<p>
+    Hocus Pocus is one of my favorite Halloween movies. I love when I get to introduce friends to this movie because it is iconic. Hocus Pocus is a fantasy comedy film directed by Kenny Ortega. It wasn’t met with many favorable reviews, but ever since it was aired every October by Disney, it has turned it into a cult classic. Some day timed scenes were filmed in Salem but most were shot in Burbank, California. However, the story is set in Salem where a town is haunted by the three Sanderson Sisters in 1693. They are defeated but then brought back to life in 1993 and are trying to find a way to live forever. It may not be everybody’s favorite cup of tea but I definitely loved it. There has even been some news about a sequel in progress which I will definitely be watching.
+</p>
+ 
+<div class="polaroid" align="justify">
+    <img src="https://originalvintagemovieposters.com/wp-content/uploads/2022/08/HOCUS-POCUS-M459-scaled-768x1144.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>Hocus Pocus vintage movie poster original</p>
+    </div>
+</div>
+
+<p align="justify">
+    The three Sanderson Sisters are played by Better Midler, Sarah Jessica Parker, and Kathy Najimy. Just to give an idea of how good this movie is, take a look at the video below. 
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCTbr3vjb6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<h2 class="section-heading"> Witch Cream advertisement</h2>
+<p align="justify">
+    I don’t have much research on this particular piece. However, there is a blog post here that goes into detail about this particular advertisement. Below is a close up of the image itself.
+</p>
+<div class="polaroid" align="justify">
+    <img src="http://3.bp.blogspot.com/-V31MEuSbqfA/TZnjhlLp3qI/AAAAAAAAAag/2WtufC5VJ48/s1600/witchcream174.jpg" alt="5 Terre" style="width:100%">
+    <div align="justify">
+    <p>witch cream ad</p>
+    </div>
+</div>
+
+
+<h2 class="section-heading">Witch weathervane</h2>
+<p  align="justify">
+    A weathervane is used to tell which direction the wind is blowing. I have always seen these in movies, usually when ominous music plays right before horrible things are about to happen. However, I never knew what they were called. I found an article that goes into more detail about weathervane and their history if you are more [interested](https://sciencing.com/weather-vane-5366058.html)!
+</p>
+
+
+<h2 class="section-heading">The Salem Witch mechanical fortune teller</h2>
+
+<p  align="justify">
+Salem had not garnered the “October economy” even with the rising popularity of works such The Crucible and the movies Hocus Pocus. It was only after the 19th century “during the advent of mass commercialization that led Salem entrepreneurs to repackage the history of the witch trials into creative and amusing witch products" [8]. One of these products was this mechanical fortune teller.
+</p>
+
+<body>
+
+    <div style="text-align:center; margin: 50px 100px;">
+      <p><b>Gallery</b></p>
+    </div>
+    
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/18.png" alt="witch cream ad" style="width:100%" onclick="expandImage(this, 'expandedImg1', 'imgtext1');">
+      </div>
+      <div class="column">
+        <img src="/sneha-mahapatra/img/posts/blog/pem/17.png" alt="witch cream ad description" style="width:100%" onclick="expandImage(this, 'expandedImg1', 'imgtext1');">
+      </div>
+    </div>
+    
+    <div class="containerGallery">
+      <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      <img id="expandedImg1" style="width:100%; backdrop-filter: blur(10px) saturate(70%);" >
+      <div id="imgtext1"></div>
+    </div>
+    
+</body>
+
+<h2 class="section-heading">“March of the Salem Witches”</h2>
+
+<p>
+    I couldn’t find much information about this music piece. There were two articles I found that mentioned it in passing but did not delve deeper into it, and those were the first results that Google gave! Apparently, it was not the music itself that was important but the advertisement on the back of the music that allowed Daniel Low & Co, to market to a wider audience.
+</p>
+ 
+
+
+<h2 class="section-heading">Conclusion</h2>
+<img src="/sneha-mahapatra/img/posts/blog/pem/20.png" alt="5 Terre" style="width:100%">
+
+<p  align="justify">
+This has been the first vacation my family and I took after my 3 and a half years of me studying in college. It was really relaxing to look at the painting and also exciting learning about the different themes, cultures, and works. This last picture is one part of Zarah Hussain’s Breath. [11] It always feels like we are running around without any time to just stop and enjoy being. Museums and arts like this allow us to break from life and relax the mind.
+</p>
+
+ <h2 class="section-heading">Citations</h2>
+ <a href="https://www.pem.org/exhibitions/intersections-anila-quayyum-agha">[1]</a>
+ <a href="https://www.mirviss.com/artists/fujikasa-satoko">[2]</a>
+ <a href="https://www.pem.org/exhibitions/in-american-waters">[3]</a>    
+ <a href="https://www.hwlongfellow.org/poems_poem.php?pid=62">[4]</a>
+ <a href="https://www.thehindubusinessline.com/news/variety/india-is-home-to-more-than-19500-mother-tongues/article24305725.ece#:~:text=Press%20Trust%20of%20India%20 More,of%20121%20crore%2C%20it%20said">[5]</a>
+ <a href="https://en.wikipedia.org/wiki/Rabindranath_Tagore">[6]</a>
+ <a href="https://www.nytimes.com/1999/07/18/nyregion/c-herwitz-72-major-collector-of-art-from-india.html">[7]</a>
+ <a href="https://us.discount.wave-base.com/sale/ayD32/peabody-essex-museum-trask-the-salem-witch-mechanical-fortuneteller-about-1868">[8]</a>
+ <a href="https://journalofantiques.com/features/daniel-low-the-salem-witches/">[9]</a>
+ <a href="https://streetsofsalem.com/tag/sheet-music/">[10]</a>
+ <a href="https://www.pem.org/exhibitions/zarah-hussain-breath">[11]</a>]]></content><author><name>Sneha Mahapatra</name></author><category term="Blog" /><summary type="html"><![CDATA[“What is Art? It is the response of man's creative soul to the call of the Real.” Rabindranath Tagore]]></summary></entry></feed>
